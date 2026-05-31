@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:42.000Z
+pubDatetime: 2026-05-31T21:28:47.000Z
 title: "Melhores investimentos em Portugueses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "João Cancelo (87, ROSHN Saudi League) lidera, com +62.9% em 7 dias a 57k coins no Console (PS), e o modelo dá 43% de chance de seguir subindo."
+    a: "Nuno Tavares (87, Serie A TIM) lidera, com +74.1% em 7 dias a 47k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** João Cancelo (87) acumula **+62.9% em 7 dias** a 57k coins.
+> 🔝 **Destaque:** Nuno Tavares (87) acumula **+74.1% em 7 dias** a 47k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,28 +31,26 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Cancelo | 87 | ROSHN Saudi League | 57k coins | +2.7% | +62.9% | 43% |
-| Luís Figo | 90 | Icons | 34k coins | +3.8% | +34.3% | 81% |
-| João Neves | 86 | Ligue 1 McDonald's | 118k coins | +1.7% | +31.1% | 23% |
-| Nélson Oliveira | 86 | Liga Portugal | 19k coins | +5.6% | +22.6% | 50% |
-| Ricardo Carvalho | 89 | Liga Portugal | 84k coins | +2.4% | +12.8% | 50% |
-| António Silva | 87 | Liga Portugal | 40k coins | +3.9% | +11.9% | 5% |
-| Rodrigo Mora | 88 | Liga Portugal | 36k coins | +28.6% | +10.8% | 83% |
-| Ricardo Horta | 90 | Liga Portugal | 20k coins | +2.5% | +9.3% | 5% |
-| Eduardo Quaresma | 88 | Liga Portugal | 52k coins | +16.4% | +7.3% | 35% |
+| Nuno Tavares | 87 | Serie A TIM | 47k coins | +6.8% | +74.1% | 5% |
+| João Neves | 88 | Ligue 1 McDonald's | 167k coins | +25.6% | +46.5% | 95% |
+| Rodrigo Mora | 88 | Liga Portugal | 39k coins | +4% | +33.6% | 83% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 38k coins | +15.4% | +27.1% | 5% |
+| Ricardo Carvalho | 89 | Liga Portugal | 91k coins | +27.3% | +22.2% | 50% |
+| Félix Correia | 89 | Ligue 1 McDonald's | 21k coins | +16.7% | +20% | 95% |
+| Paulo Futre | 92 | Liga Portugal | 91k coins | +8.3% | +11.7% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **João Cancelo (87)** — 57k coins, **+62.9% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nuno Tavares (87)** — 47k coins, **+74.1% em 7 dias** (+6.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Luís Figo (90)** — 34k coins, **+34.3% em 7 dias** (+3.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **81% de chance de seguir subindo**.
+- **João Neves (88)** — 167k coins, **+46.5% em 7 dias** (+25.6% em 24h). Preço +41% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **João Neves (86)** — 118k coins, **+31.1% em 7 dias** (+1.7% em 24h). Preço em linha com a média de 7 dias (+8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Rodrigo Mora (88)** — 39k coins, **+33.6% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+6%). 🔮 O modelo reforça a tese: **83% de chance de seguir subindo**.
 
-- **Nélson Oliveira (86)** — 19k coins, **+22.6% em 7 dias** (+5.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ivan Cavaleiro (85)** — 38k coins, **+27.1% em 7 dias** (+15.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ricardo Carvalho (89)** — 84k coins, **+12.8% em 7 dias** (+2.4% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ricardo Carvalho (89)** — 91k coins, **+22.2% em 7 dias** (+27.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -70,7 +68,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-João Cancelo (87, ROSHN Saudi League) lidera, com +62.9% em 7 dias a 57k coins no Console (PS), e o modelo dá 43% de chance de seguir subindo.
+Nuno Tavares (87, Serie A TIM) lidera, com +74.1% em 7 dias a 47k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -78,6 +76,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
 
 ---
 

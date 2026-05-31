@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:43.000Z
+pubDatetime: 2026-05-31T21:28:48.000Z
 title: "Jogadores baratos de Portugueses no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | +6.1% |
-| Bruno Fernandes | 87 | CAM | Premier League | 3k coins | +16% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | 0% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | 0% |
+| Bruno Fernandes | 87 | CAM | Premier League | 3k coins | +18.2% |
 | Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -69.9% |
-| Rúben Dias | 86 | CB | Premier League | 2k coins | +87.5% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | 0% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +11.4% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +5% |
 | João Neves | 86 | CDM | Ligue 1 McDonald's | 12k coins | -69.9% |
 | Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -73.3% |
 | Youssef Chermiti | 86 | ST | Scottish Premiership | 12k coins | -58.3% |
 | Rúben Neves | 86 | CDM | Brasileirão | 12k coins | -5.8% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -46.5% |
 | Vitinha | 85 | ST | Serie A TIM | 12k coins | -57.4% |
-| Youssef Chermiti | 84 | ST | Scottish Premiership | 11k coins | -79.8% |
-| Afonso Moreira | 84 | LW | Ligue 1 McDonald's | 11k coins | -63.3% |
 | João Carvalho | 84 | LM | Liga Portugal | 11k coins | -8.3% |
+| Afonso Moreira | 84 | LW | Ligue 1 McDonald's | 11k coins | -63.3% |
+| Francisco Conceição | 84 | CAM | Serie A TIM | 11k coins | -78% |
+| Youssef Chermiti | 84 | ST | Scottish Premiership | 11k coins | -79.8% |
+| Rafa | 84 | CAM | Trendyol Süper Lig | 12k coins | -85.8% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Bruno Fernandes (87, CAM)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
-
 - **Rúben Neves (87, CM)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rúben Dias (86, CB)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
+
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins**
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
 
 ---
 

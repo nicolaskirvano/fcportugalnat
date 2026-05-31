@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:43.000Z
+pubDatetime: 2026-05-31T21:28:48.000Z
 title: "Portugueses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Ricardo Carvalho (89), -34.8% em 24h, a 68k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 33 cartas em alta contra 24 em queda (média 13.85%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 36 cartas em alta contra 22 em queda (média 13.51%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **33 subiram** e **24 caíram**, com variação média de **13.85%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **36 subiram** e **22 caíram**, com variação média de **13.51%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Nuno Tavares (91) **+53.8%** · 🔴 **Maior baixa:** Ricardo Carvalho (89) **-34.8%**
 
@@ -63,10 +63,10 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Bruno Fernandes | 88 | Premier League | 65k coins | -26.1% | -38.7% |
 | Cláudio Braga | 87 | Scottish Premiership | 32k coins | -23.5% | +8.3% |
 | Ivan Cavaleiro | 85 | Liga Portugal | 37k coins | -21.6% | +27.4% |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 27k coins | -18.2% | -6.1% |
 | João Cancelo | 87 | ROSHN Saudi League | 36k coins | -15.3% | -58.9% |
 | Fátima Pinto | 80 | Frauen-Bundesliga | 20k coins | -12.9% | -51.5% |
 | Francisco Conceição | 85 | Serie A TIM | 24k coins | -11.1% | -15.8% |
+| Nuno Tavares | 87 | Serie A TIM | 98k coins | -10.9% | -10.9% |
 
 
 ### Análise das baixas
@@ -92,11 +92,13 @@ Nuno Tavares (91, Serie A TIM), com +53.8% em 24h, a 65k coins no PC.
 Ricardo Carvalho (89), -34.8% em 24h, a 68k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 33 cartas em alta contra 24 em queda (média 13.85%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 36 cartas em alta contra 22 em queda (média 13.51%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
 
 ---
 

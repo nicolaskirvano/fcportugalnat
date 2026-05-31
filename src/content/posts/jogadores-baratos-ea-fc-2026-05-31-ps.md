@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:42.000Z
+pubDatetime: 2026-05-31T21:28:47.000Z
 title: "Jogadores baratos de Portugueses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,18 +31,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
 | Bruno Fernandes | 87 | CAM | Premier League | 2k coins | +38.9% |
-| Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -61.3% |
+| Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -60.2% |
 | Rui Costa | 87 | CAM | Serie A TIM | 13k coins | -8.8% |
-| Youssef Chermiti | 86 | ST | Scottish Premiership | 12k coins | -61.7% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 12k coins | -61.8% |
-| Rúben Neves | 86 | CDM | Brasileirão | 12k coins | -14.3% |
-| Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -61.3% |
-| Bernardo Silva | 86 | CM | Premier League | 12k coins | -65.2% |
+| Youssef Chermiti | 86 | ST | Scottish Premiership | 11k coins | -61.9% |
+| Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -19.6% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.5% |
+| Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -60% |
+| Bernardo Silva | 86 | CM | Premier League | 12k coins | -66% |
 | Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -68.8% |
-| Vitinha | 85 | ST | Serie A TIM | 12k coins | -59.8% |
-| Pedro Neto | 85 | CAM | Premier League | 13k coins | -64.6% |
-| Pizzi | 85 | RM | Liga Portugal | 13k coins | -36.6% |
-| Francisco Conceição | 85 | RM | Serie A TIM | 14k coins | -16.2% |
+| Vitinha | 85 | ST | Serie A TIM | 11k coins | -63.3% |
+| Pedro Neto | 85 | CAM | Premier League | 13k coins | -57.8% |
+| Pizzi | 85 | RM | Liga Portugal | 14k coins | -30.8% |
+| Francisco Conceição | 85 | RM | Serie A TIM | 15k coins | -27.2% |
 | João Cancelo | 84 | RB | LALIGA EA SPORTS | 2k coins | +30.8% |
 
 
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Youssef Chermiti (86, ST)** da Scottish Premiership, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Youssef Chermiti (86, ST)** da Scottish Premiership, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
 
 ---
 
