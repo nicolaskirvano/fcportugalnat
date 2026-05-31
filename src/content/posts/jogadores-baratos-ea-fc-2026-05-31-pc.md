@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:48.000Z
+pubDatetime: 2026-05-31T22:23:03.000Z
 title: "Jogadores baratos de Portugueses no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | 0% |
 | Bruno Fernandes | 87 | CAM | Premier League | 3k coins | +18.2% |
-| Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -69.9% |
+| Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -65.7% |
 | Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +11.4% |
 | Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +5% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 12k coins | -69.9% |
-| Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -73.3% |
-| Youssef Chermiti | 86 | ST | Scottish Premiership | 12k coins | -58.3% |
-| Rúben Neves | 86 | CDM | Brasileirão | 12k coins | -5.8% |
-| Vitinha | 85 | ST | Serie A TIM | 12k coins | -57.4% |
-| João Carvalho | 84 | LM | Liga Portugal | 11k coins | -8.3% |
-| Afonso Moreira | 84 | LW | Ligue 1 McDonald's | 11k coins | -63.3% |
-| Francisco Conceição | 84 | CAM | Serie A TIM | 11k coins | -78% |
-| Youssef Chermiti | 84 | ST | Scottish Premiership | 11k coins | -79.8% |
-| Rafa | 84 | CAM | Trendyol Süper Lig | 12k coins | -85.8% |
+| Youssef Chermiti | 86 | ST | Scottish Premiership | 11k coins | -63.3% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.7% |
+| Pedro Gonçalves | 86 | CAM | Liga Portugal | 11k coins | -62.5% |
+| Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -13.5% |
+| Bernardo Silva | 86 | CM | Premier League | 12k coins | -72.9% |
+| Vitinha | 85 | ST | Serie A TIM | 11k coins | -68.6% |
+| Francisco Conceição | 84 | CAM | Serie A TIM | 11k coins | -76.8% |
+| Afonso Moreira | 84 | LW | Ligue 1 McDonald's | 11k coins | -60% |
+| Rafa | 84 | CAM | Trendyol Süper Lig | 11k coins | -65.1% |
+| Youssef Chermiti | 84 | ST | Scottish Premiership | 11k coins | -77.9% |
 
 
 ## 📈 Destaques

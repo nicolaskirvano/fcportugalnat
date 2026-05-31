@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:48.000Z
+pubDatetime: 2026-05-31T22:23:02.000Z
 title: "Melhores investimentos em Portugueses no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Rodrigo Mora (88, Liga Portugal) lidera, com +39.4% em 7 dias a 36k coins no PC, e o modelo dá 12% de chance de seguir subindo."
+    a: "Nuno Tavares (91, Serie A TIM) lidera, com +71.1% em 7 dias a 68k coins no PC, e o modelo dá 57% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Rodrigo Mora (88) acumula **+39.4% em 7 dias** a 36k coins.
+> 🔝 **Destaque:** Nuno Tavares (91) acumula **+71.1% em 7 dias** a 68k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,21 +31,26 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rodrigo Mora | 88 | Liga Portugal | 36k coins | +4.3% | +39.4% | 12% |
-| Francisco Conceição | 89 | Serie A TIM | 40k coins | +11.9% | +33.3% | 52% |
-| Rúben Neves | 87 | ROSHN Saudi League | 24k coins | +15.5% | +16.9% | 44% |
+| Nuno Tavares | 91 | Serie A TIM | 68k coins | +10.6% | +71.1% | 57% |
+| Trincão | 86 | Liga Portugal | 49k coins | +24.2% | +62.5% | 39% |
+| Francisco Moura | 90 | Liga Portugal | 25k coins | +8.7% | +61.3% | 23% |
+| Félix Correia | 89 | Ligue 1 McDonald's | 36k coins | +28.6% | +20% | 74% |
+| João Neves | 88 | Ligue 1 McDonald's | 196k coins | +1.6% | +18.1% | 52% |
 | Ricardo Carvalho | 88 | Liga Portugal | 20k coins | +9.7% | +12.9% | 56% |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 26k coins | +5% | +9.4% | 28% |
 
 
 ## 📈 Análise dos destaques
 
-- **Rodrigo Mora (88)** — 36k coins, **+39.4% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Nuno Tavares (91)** — 68k coins, **+71.1% em 7 dias** (+10.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Francisco Conceição (89)** — 40k coins, **+33.3% em 7 dias** (+11.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Trincão (86)** — 49k coins, **+62.5% em 7 dias** (+24.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Rúben Neves (87)** — 24k coins, **+16.9% em 7 dias** (+15.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Francisco Moura (90)** — 25k coins, **+61.3% em 7 dias** (+8.7% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ricardo Carvalho (88)** — 20k coins, **+12.9% em 7 dias** (+9.7% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Félix Correia (89)** — 36k coins, **+20% em 7 dias** (+28.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **74% de chance de seguir subindo**.
+
+- **João Neves (88)** — 196k coins, **+18.1% em 7 dias** (+1.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -63,7 +68,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Rodrigo Mora (88, Liga Portugal) lidera, com +39.4% em 7 dias a 36k coins no PC, e o modelo dá 12% de chance de seguir subindo.
+Nuno Tavares (91, Serie A TIM) lidera, com +71.1% em 7 dias a 68k coins no PC, e o modelo dá 57% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

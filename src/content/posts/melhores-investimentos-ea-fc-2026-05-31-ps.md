@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:47.000Z
+pubDatetime: 2026-05-31T22:23:01.000Z
 title: "Melhores investimentos em Portugueses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -38,6 +38,8 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Ricardo Carvalho | 89 | Liga Portugal | 91k coins | +27.3% | +22.2% | 50% |
 | Félix Correia | 89 | Ligue 1 McDonald's | 21k coins | +16.7% | +20% | 95% |
 | Paulo Futre | 92 | Liga Portugal | 91k coins | +8.3% | +11.7% | 5% |
+| Luís Figo | 89 | Icons | 78k coins | +6.1% | +8.3% | 8% |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 34k coins | +1.5% | +7.8% | 5% |
 
 
 ## 📈 Análise dos destaques

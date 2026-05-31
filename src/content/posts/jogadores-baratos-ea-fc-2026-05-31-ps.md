@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:47.000Z
+pubDatetime: 2026-05-31T22:23:02.000Z
 title: "Jogadores baratos de Portugueses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
-| Bruno Fernandes | 87 | CAM | Premier League | 2k coins | +38.9% |
+| Bruno Fernandes | 87 | CAM | Premier League | 2k coins | 0% |
 | Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -60.2% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | -8.8% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | -12.1% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.5% |
 | Youssef Chermiti | 86 | ST | Scottish Premiership | 11k coins | -61.9% |
 | Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -19.6% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.5% |
 | Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -60% |
 | Bernardo Silva | 86 | CM | Premier League | 12k coins | -66% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -68.8% |
 | Vitinha | 85 | ST | Serie A TIM | 11k coins | -63.3% |
 | Pedro Neto | 85 | CAM | Premier League | 13k coins | -57.8% |
 | Pizzi | 85 | RM | Liga Portugal | 14k coins | -30.8% |
 | Francisco Conceição | 85 | RM | Serie A TIM | 15k coins | -27.2% |
-| João Cancelo | 84 | RB | LALIGA EA SPORTS | 2k coins | +30.8% |
+| João Carvalho | 84 | LM | Liga Portugal | 11k coins | -21.4% |
+| Youssef Chermiti | 84 | ST | Scottish Premiership | 11k coins | -72.2% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **6k coins**
 
-- **Bruno Fernandes (87, CAM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Bruno Fernandes (87, CAM)** da Premier League, a apenas **2k coins**
 
 - **Rúben Neves (87, CM)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Youssef Chermiti (86, ST)** da Scottish Premiership, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **João Neves (86, CDM)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
