@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:23:03.000Z
+pubDatetime: 2026-06-01T13:23:03.000Z
 title: "Jogadores baratos de Portugueses no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | +14.8% |
-| Rúben Neves | 87 | CM | ROSHN Saudi League | 11k coins | -75.6% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | +2.3% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +50% |
-| Pedro Gonçalves | 86 | CAM | Liga Portugal | 11k coins | -75% |
-| Youssef Chermiti | 86 | ST | Scottish Premiership | 11k coins | -74.1% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -70.3% |
-| Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -13.5% |
-| Bernardo Silva | 86 | CM | Premier League | 11k coins | -15.1% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | +16.4% |
+| Bruno Fernandes | 87 | CAM | Premier League | 2k coins | +25% |
+| Rúben Neves | 87 | CM | ROSHN Saudi League | 11k coins | -71% |
+| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | 0% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | +86.7% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -63.6% |
+| Bernardo Silva | 86 | CM | Premier League | 11k coins | -15.7% |
+| Pedro Gonçalves | 86 | CAM | Liga Portugal | 11k coins | -75.6% |
+| Youssef Chermiti | 86 | ST | Scottish Premiership | 11k coins | -74.7% |
+| Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -17.3% |
 | Vitinha | 85 | ST | Serie A TIM | 11k coins | -65% |
-| João Cancelo | 84 | RB | LALIGA EA SPORTS | 2k coins | +38.9% |
-| Rafa | 84 | CAM | Trendyol Süper Lig | 11k coins | -84.6% |
-| Afonso Moreira | 84 | LW | Ligue 1 McDonald's | 11k coins | -64.8% |
-| João Carvalho | 84 | LM | Liga Portugal | 11k coins | -8.3% |
-| Francisco Conceição | 84 | CAM | Serie A TIM | 11k coins | -66.7% |
+| João Cancelo | 84 | RB | LALIGA EA SPORTS | 2k coins | -13% |
+| Francisco Conceição | 84 | CAM | Serie A TIM | 11k coins | -68.6% |
+| João Carvalho | 84 | LM | Liga Portugal | 11k coins | -10.4% |
+| Youssef Chermiti | 84 | ST | Scottish Premiership | 11k coins | -20.4% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **7k coins**
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Bruno Fernandes (87, CAM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Rúben Neves (87, CM)** da ROSHN Saudi League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Pedro Gonçalves (86, CAM)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

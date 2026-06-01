@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:23:02.000Z
+pubDatetime: 2026-06-01T13:23:02.000Z
 title: "Portugueses no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Bruno Fernandes (88, Premier League), com +49.7% em 24h, a 56k coins no PC."
+    a: "Francisco Conceição (89, Serie A TIM), com +42.9% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "João Félix (84), -44.6% em 24h, a 194k coins."
+    a: "Rodrigo Mora (88), -35% em 24h, a 49k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 30 cartas em alta contra 36 em queda (média 5.07%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 39 em queda (média 0.89%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **30 subiram** e **36 caíram**, com variação média de **5.07%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **20 subiram** e **39 caíram**, com variação média de **0.89%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bruno Fernandes (88) **+49.7%** · 🔴 **Maior baixa:** João Félix (84) **-44.6%**
+> 🟢 **Maior alta:** Francisco Conceição (89) **+42.9%** · 🔴 **Maior baixa:** Rodrigo Mora (88) **-35%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bruno Fernandes | 88 | Premier League | 56k coins | +49.7% | +3.7% |
-| Eusébio | 91 | Icons | 659k coins | +38.7% | -8.3% |
-| Geovany Quenda | 85 | Liga Portugal | 121k coins | +34.4% | -6.9% |
+| Francisco Conceição | 89 | Serie A TIM | 40k coins | +42.9% | +33.3% |
+| Pizzi | 85 | Liga Portugal | 40k coins | +39.1% | +81.8% |
+| Geovany Quenda | 85 | Liga Portugal | 120k coins | +38.7% | +26.3% |
+| Paulo Futre | 92 | Liga Portugal | 148k coins | +31% | +37% |
 | Nuno Mendes | 97 | Ligue 1 McDonald's | 4.50M coins | +28.6% | -10% |
-| Dolores Silva | 84 | Liga F | 30k coins | +25% | +20% |
-| Francisco Conceição | 85 | Serie A TIM | 21k coins | +19.7% | -15% |
-| Nuno Tavares | 91 | Serie A TIM | 85k coins | +18.1% | +101.2% |
-| Paulo Futre | 92 | Liga Portugal | 147k coins | +14.8% | +36.1% |
-| João Neves | 92 | Ligue 1 McDonald's | 490k coins | +14% | -1% |
-| Diogo Dalot | 87 | Premier League | 162k coins | +13.3% | -7.4% |
+| Félix Correia | 81 | Ligue 1 McDonald's | 44k coins | +22.8% | -5.3% |
+| Bruno Fernandes | 88 | Premier League | 43k coins | +22% | -21.1% |
+| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | +20.8% | +10.1% |
+| Dolores Silva | 84 | Liga F | 28k coins | +18.8% | -11.6% |
+| João Neves | 92 | Ligue 1 McDonald's | 570k coins | +17% | +12% |
 
 
 ### Análise das altas
 
-- **Bruno Fernandes (88)** subiu **+49.7%** em 24h, a **56k coins** (faixa do dia: 27k–60k). Está +25% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Francisco Conceição (89)** subiu **+42.9%** em 24h, a **40k coins** (faixa do dia: 28k–40k). Está +24% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Eusébio (91)** subiu **+38.7%** em 24h, a **659k coins** (faixa do dia: 645k–850k). Está em linha com a média de 7 dias (+7%). O modelo vê **estabilização** no curto prazo.
+- **Pizzi (85)** subiu **+39.1%** em 24h, a **40k coins** (faixa do dia: 28k–42k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
 
-- **Geovany Quenda (85)** subiu **+34.4%** em 24h, a **121k coins** (faixa do dia: 86k–140k). Está +46% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Geovany Quenda (85)** subiu **+38.7%** em 24h, a **120k coins** (faixa do dia: 86k–130k). Está +45% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| João Félix | 84 | ROSHN Saudi League | 194k coins | -44.6% | -80.6% |
-| Cristiano Ronaldo | 88 | ROSHN Saudi League | 3.50M coins | -39.6% | -46.2% |
-| Félix Correia | 89 | Ligue 1 McDonald's | 22k coins | -39.6% | -26.9% |
 | Rodrigo Mora | 88 | Liga Portugal | 49k coins | -35% | +39.3% |
-| Bernardo Silva | 87 | Premier League | 44k coins | -33.8% | -32.3% |
-| Rodrigo Mora | 87 | Liga Portugal | 29k coins | -32.4% | -30.4% |
-| Rui Costa | 88 | Serie A TIM | 20k coins | -32.2% | -31.6% |
-| Vitinha | 91 | Ligue 1 McDonald's | 1.02M coins | -21.8% | +2% |
-| João Neves | 86 | Ligue 1 McDonald's | 131k coins | -20.6% | -20.6% |
-| Félix Correia | 81 | Ligue 1 McDonald's | 29k coins | -19.6% | +2.7% |
+| Quaresma | 89 | Liga Portugal | 300k coins | -30.1% | +29.3% |
+| Félix Correia | 89 | Ligue 1 McDonald's | 22k coins | -26.9% | -22.3% |
+| Eusébio | 91 | Icons | 587k coins | -23.8% | -18.4% |
+| João Neves | 86 | Ligue 1 McDonald's | 131k coins | -20.6% | -17.6% |
+| Bruno Fernandes | 89 | Premier League | 44k coins | -20% | -29.6% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 40k coins | -16.8% | -7.1% |
+| Rodrigo Mora | 87 | Liga Portugal | 30k coins | -15.3% | -18.7% |
+| Vitinha | 91 | Ligue 1 McDonald's | 1.02M coins | -15.2% | +2% |
+| Bernardo Silva | 87 | Premier League | 40k coins | -12.1% | -18.4% |
 
 
 ### Análise das baixas
 
-- **João Félix (84)** caiu **-44.6%** em 24h, a **194k coins** (faixa do dia: 190k–300k). Está -60% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Rodrigo Mora (88)** caiu **-35%** em 24h, a **49k coins** (faixa do dia: 42k–75k). Está +24% acima da média de 7 dias (aquecida). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Cristiano Ronaldo (88)** caiu **-39.6%** em 24h, a **3.50M coins** (faixa do dia: 3.50M–5.80M). Está -51% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Quaresma (89)** caiu **-30.1%** em 24h, a **300k coins** (faixa do dia: 300k–499k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
 
-- **Félix Correia (89)** caiu **-39.6%** em 24h, a **22k coins** (faixa do dia: 21k–36k). Está -21% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 74% de probabilidade.
+- **Félix Correia (89)** caiu **-26.9%** em 24h, a **22k coins** (faixa do dia: 20k–32k). Está -20% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 74% de probabilidade.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Bruno Fernandes (88, Premier League), com +49.7% em 24h, a 56k coins no PC.
+Francisco Conceição (89, Serie A TIM), com +42.9% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**  
-João Félix (84), -44.6% em 24h, a 194k coins.
+Rodrigo Mora (88), -35% em 24h, a 49k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 30 cartas em alta contra 36 em queda (média 5.07%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 39 em queda (média 0.89%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:23:02.000Z
+pubDatetime: 2026-06-01T13:23:02.000Z
 title: "Jogadores baratos de Portugueses no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,17 +31,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | +15.8% |
 | Andreia Jacinto | 88 | CM | Liga F | 15k coins | -20% |
-| Rúben Neves | 87 | CM | ROSHN Saudi League | 11k coins | -61.9% |
+| Rúben Neves | 87 | CM | ROSHN Saudi League | 11k coins | -65.1% |
 | Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 5k coins | +29% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -63.6% |
 | Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -23.2% |
+| Youssef Chermiti | 86 | ST | Scottish Premiership | 11k coins | -62.9% |
 | Pedro Gonçalves | 86 | CAM | Liga Portugal | 11k coins | -65% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -63.3% |
-| Youssef Chermiti | 86 | ST | Scottish Premiership | 11k coins | -66.7% |
-| Bernardo Silva | 86 | CM | Premier League | 11k coins | -21.4% |
+| Bernardo Silva | 86 | CM | Premier League | 11k coins | -24.6% |
 | Nélson Oliveira | 86 | ST | Liga Portugal | 14k coins | -14.1% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -69.1% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -72.1% |
+| Pedro Neto | 85 | CAM | Premier League | 11k coins | -68.4% |
 | Vitinha | 85 | ST | Serie A TIM | 11k coins | -64.2% |
-| Pedro Neto | 85 | CAM | Premier League | 11k coins | -69.4% |
 | Pizzi | 85 | RM | Liga Portugal | 12k coins | -24.2% |
 | Francisco Conceição | 85 | RM | Serie A TIM | 14k coins | -39.6% |
 
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rúben Neves (86, CDM)** da Brasileirão, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **João Neves (86, CDM)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

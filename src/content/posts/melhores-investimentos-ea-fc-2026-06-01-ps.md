@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:23:02.000Z
+pubDatetime: 2026-06-01T13:23:02.000Z
 title: "Melhores investimentos em Portugueses no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -35,8 +35,6 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Bernardo Silva | 87 | Premier League | 58k coins | +2.7% | +56.5% | 5% |
 | Pedro Neto | 88 | Premier League | 170k coins | +27.8% | +56% | 5% |
 | Luís Figo | 90 | Icons | 40k coins | +29.5% | +41.1% | 81% |
-| Paulo Futre | 92 | Liga Portugal | 110k coins | +20.9% | +41% | 5% |
-| João Neves | 88 | Ligue 1 McDonald's | 150k coins | +4.2% | +31.6% | 95% |
 | Ricardo Carvalho | 89 | Liga Portugal | 103k coins | +3% | +28.8% | 50% |
 | João Moutinho | 88 | Liga Portugal | 58k coins | +37.6% | +23.8% | 5% |
 | Francisco Moura | 90 | Liga Portugal | 24k coins | +25% | +20.2% | 5% |
@@ -54,7 +52,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Luís Figo (90)** — 40k coins, **+41.1% em 7 dias** (+29.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **81% de chance de seguir subindo**.
 
-- **Paulo Futre (92)** — 110k coins, **+41% em 7 dias** (+20.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Ricardo Carvalho (89)** — 103k coins, **+28.8% em 7 dias** (+3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
