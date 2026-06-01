@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:23:01.000Z
+pubDatetime: 2026-06-01T01:23:02.000Z
 title: "Melhores investimentos em Portugueses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -35,11 +35,9 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | João Neves | 88 | Ligue 1 McDonald's | 167k coins | +25.6% | +46.5% | 95% |
 | Rodrigo Mora | 88 | Liga Portugal | 39k coins | +4% | +33.6% | 83% |
 | Ivan Cavaleiro | 85 | Liga Portugal | 38k coins | +15.4% | +27.1% | 5% |
-| Ricardo Carvalho | 89 | Liga Portugal | 91k coins | +27.3% | +22.2% | 50% |
 | Félix Correia | 89 | Ligue 1 McDonald's | 21k coins | +16.7% | +20% | 95% |
+| Ricardo Carvalho | 89 | Liga Portugal | 92k coins | +9.5% | +15.7% | 50% |
 | Paulo Futre | 92 | Liga Portugal | 91k coins | +8.3% | +11.7% | 5% |
-| Luís Figo | 89 | Icons | 78k coins | +6.1% | +8.3% | 8% |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 34k coins | +1.5% | +7.8% | 5% |
 
 
 ## 📈 Análise dos destaques
@@ -52,7 +50,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Ivan Cavaleiro (85)** — 38k coins, **+27.1% em 7 dias** (+15.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ricardo Carvalho (89)** — 91k coins, **+22.2% em 7 dias** (+27.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Félix Correia (89)** — 21k coins, **+20% em 7 dias** (+16.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 
 ## Como usar esta lista

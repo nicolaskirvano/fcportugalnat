@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:23:02.000Z
+pubDatetime: 2026-06-01T01:23:02.000Z
 title: "Jogadores baratos de Portugueses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
+    a: "Rúben Neves (87, ROSHN Saudi League) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vitinha (89) por apenas 6k coins.
+> 💰 **Melhor pechincha:** Rúben Neves (87) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,12 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
-| Bruno Fernandes | 87 | CAM | Premier League | 2k coins | 0% |
 | Rúben Neves | 87 | CM | ROSHN Saudi League | 12k coins | -60.2% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | -12.1% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.5% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | +4.1% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 4k coins | +28.6% |
 | Youssef Chermiti | 86 | ST | Scottish Premiership | 11k coins | -61.9% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -62.5% |
 | Rúben Neves | 86 | CDM | Brasileirão | 11k coins | -19.6% |
 | Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -60% |
 | Bernardo Silva | 86 | CM | Premier League | 12k coins | -66% |
@@ -42,19 +41,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Pedro Neto | 85 | CAM | Premier League | 13k coins | -57.8% |
 | Pizzi | 85 | RM | Liga Portugal | 14k coins | -30.8% |
 | Francisco Conceição | 85 | RM | Serie A TIM | 15k coins | -27.2% |
+| Afonso Moreira | 84 | LW | Ligue 1 McDonald's | 11k coins | -63.3% |
 | João Carvalho | 84 | LM | Liga Portugal | 11k coins | -21.4% |
 | Youssef Chermiti | 84 | ST | Scottish Premiership | 11k coins | -72.2% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **6k coins**
-
-- **Bruno Fernandes (87, CAM)** da Premier League, a apenas **2k coins**
-
 - **Rúben Neves (87, CM)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins**
+
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Youssef Chermiti (86, ST)** da Scottish Premiership, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **João Neves (86, CDM)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 6k coins no Console (PS).
+Rúben Neves (87, ROSHN Saudi League) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
