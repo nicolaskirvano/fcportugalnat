@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:23:08.000Z
+pubDatetime: 2026-06-18T19:33:50.000Z
 title: "Portugueses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -15,69 +15,69 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
     a: "Nélson Oliveira (86, Liga Portugal), com +54.4% em 24h, a 22k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Quaresma (85), -18.4% em 24h, a 52k coins."
+    a: "Quaresma (85), -25.7% em 24h, a 52k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 270k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 26 em queda (média 0.46%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 26 em queda (média 0.75%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **24 subiram** e **26 caíram**, com variação média de **0.46%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **24 subiram** e **26 caíram**, com variação média de **0.75%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nélson Oliveira (86) **+54.4%** · 🔴 **Maior baixa:** Quaresma (85) **-18.4%**
+> 🟢 **Maior alta:** Nélson Oliveira (86) **+54.4%** · 🔴 **Maior baixa:** Quaresma (85) **-25.7%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Nélson Oliveira | 86 | Liga Portugal | 22k coins | +54.4% | +57.1% |
-| Fábio Vieira | 87 | Bundesliga | 21k coins | +29.4% | +10% |
-| Francisco Conceição | 89 | Serie A TIM | 66k coins | +20% | +68.5% |
-| Félix Correia | 89 | Ligue 1 McDonald's | 24k coins | +17.1% | 0% |
-| Luís Figo | 90 | Icons | 44k coins | +16.7% | +20% |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 22k coins | +11.9% | +38.2% |
-| Trincão | 86 | Liga Portugal | 22k coins | +10.1% | -17.1% |
-| João Moutinho | 88 | Liga Portugal | 98k coins | +10% | +74.6% |
-| Ricardo Carvalho | 89 | Liga Portugal | 84k coins | +9% | +31% |
-| Rui Costa | 88 | Serie A TIM | 26k coins | +8.3% | +18.2% |
+| Fábio Vieira | 87 | Bundesliga | 20k coins | +29.4% | +10% |
+| Luís Figo | 90 | Icons | 44k coins | +21.5% | +25% |
+| Francisco Conceição | 89 | Serie A TIM | 66k coins | +19.2% | +69.3% |
+| Rui Costa | 88 | Serie A TIM | 29k coins | +18.8% | +29.5% |
+| Félix Correia | 89 | Ligue 1 McDonald's | 24k coins | +17.1% | -9.4% |
+| Nuno Tavares | 91 | Serie A TIM | 54k coins | +16.5% | -1% |
+| Trincão | 86 | Liga Portugal | 22k coins | +12.7% | -13.6% |
+| João Moutinho | 88 | Liga Portugal | 102k coins | +10% | +74.6% |
+| Eusébio | 91 | Icons | 622k coins | +9.3% | +36.4% |
 
 
 ### Análise das altas
 
 - **Nélson Oliveira (86)** subiu **+54.4%** em 24h, a **22k coins** (faixa do dia: 12k–22k). Está +29% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Fábio Vieira (87)** subiu **+29.4%** em 24h, a **21k coins** (faixa do dia: 16k–22k). Está em linha com a média de 7 dias (+4%). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+- **Fábio Vieira (87)** subiu **+29.4%** em 24h, a **20k coins** (faixa do dia: 16k–22k). Está em linha com a média de 7 dias (+1%). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
 
-- **Francisco Conceição (89)** subiu **+20%** em 24h, a **66k coins** (faixa do dia: 62k–76k). Está em linha com a média de 7 dias (+7%). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Luís Figo (90)** subiu **+21.5%** em 24h, a **44k coins** (faixa do dia: 35k–43k). Está +24% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (81% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Quaresma | 85 | Liga Portugal | 52k coins | -18.4% | +7.8% |
-| Rafael Leão | 87 | Serie A TIM | 424k coins | -17.3% | +10.3% |
-| Rafael Leão | 86 | Serie A TIM | 425k coins | -14.1% | +22.1% |
+| Quaresma | 85 | Liga Portugal | 52k coins | -25.7% | -2.6% |
+| Rafael Leão | 87 | Serie A TIM | 420k coins | -17.3% | +8.9% |
+| Rafael Leão | 86 | Serie A TIM | 460k coins | -14.1% | +22.1% |
 | João Carvalho | 84 | Liga Portugal | 41k coins | -13.5% | -6.7% |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 42k coins | -11.1% | +0.6% |
-| Eduardo Quaresma | 88 | Liga Portugal | 40k coins | -10.9% | +31.2% |
-| Pedro Neto | 88 | Premier League | 70k coins | -10.6% | -20.1% |
-| João Cancelo | 87 | ROSHN Saudi League | 95k coins | -9.5% | +7.3% |
-| Rafael Leão | 93 | Serie A TIM | 945k coins | -7.3% | -8.9% |
-| Diogo Dalot | 87 | Premier League | 112k coins | -7.3% | +21.1% |
+| Pedro Neto | 88 | Premier League | 70k coins | -11.2% | -20.7% |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 40k coins | -11.1% | +0.6% |
+| Eduardo Quaresma | 88 | Liga Portugal | 40k coins | -10.9% | +21.5% |
+| João Cancelo | 87 | ROSHN Saudi League | 93k coins | -9.5% | +6.7% |
+| João Félix | 86 | ROSHN Saudi League | 181k coins | -8.4% | +23.3% |
+| Rafael Leão | 93 | Serie A TIM | 970k coins | -7.4% | -8.9% |
 
 
 ### Análise das baixas
 
-- **Quaresma (85)** caiu **-18.4%** em 24h, a **52k coins** (faixa do dia: 61k–114k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Quaresma (85)** caiu **-25.7%** em 24h, a **52k coins** (faixa do dia: 61k–114k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Rafael Leão (87)** caiu **-17.3%** em 24h, a **424k coins** (faixa do dia: 428k–645k). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
+- **Rafael Leão (87)** caiu **-17.3%** em 24h, a **420k coins** (faixa do dia: 428k–645k). Está em linha com a média de 7 dias (-7%). O modelo vê **estabilização** no curto prazo.
 
-- **Rafael Leão (86)** caiu **-14.1%** em 24h, a **425k coins** (faixa do dia: 416k–630k). Está em linha com a média de 7 dias (-6%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Rafael Leão (86)** caiu **-14.1%** em 24h, a **460k coins** (faixa do dia: 416k–630k). Está em linha com a média de 7 dias (+2%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -91,9 +91,9 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Félix Correia | 89 | 24k coins | 28k coins | 95% |
 | Pedro Neto | 85 | 37k coins | 46k coins | 95% |
 | Quaresma | 88 | 155k coins | 191k coins | 95% |
-| Fábio Vieira | 87 | 21k coins | 24k coins | 95% |
+| Fábio Vieira | 87 | 20k coins | 24k coins | 95% |
 | João Carvalho | 84 | 41k coins | 46k coins | 93% |
-| João Félix | 86 | 185k coins | 204k coins | 84% |
+| João Félix | 86 | 181k coins | 199k coins | 84% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -103,13 +103,13 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
 | Rúben Neves | 87 | 30k coins | -21.4% |
-| Paulo Futre | 92 | 83k coins | -15.6% |
+| João Moutinho | 88 | 102k coins | -29.1% |
+| Paulo Futre | 92 | 84k coins | -15.6% |
 | Francisco Conceição | 89 | 66k coins | -16.7% |
 | Pedro Neto | 88 | 70k coins | -17.5% |
 | Bernardo Silva | 87 | 58k coins | -24.1% |
-| João Moutinho | 88 | 98k coins | -29.1% |
 | Gonçalo Guedes | 89 | 22k coins | -21.3% |
-| Vitinha | 90 | 230k coins | -12.6% |
+| Vitinha | 90 | 218k coins | -12.6% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -123,13 +123,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 Nélson Oliveira (86, Liga Portugal), com +54.4% em 24h, a 22k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Quaresma (85), -18.4% em 24h, a 52k coins.
+Quaresma (85), -25.7% em 24h, a 52k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 270k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 26 em queda (média 0.46%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 26 em queda (média 0.75%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

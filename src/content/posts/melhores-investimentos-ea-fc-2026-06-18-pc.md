@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:23:19.000Z
+pubDatetime: 2026-06-18T19:34:01.000Z
 title: "Melhores investimentos em Portugueses no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -33,10 +33,10 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Francisco Moura | 90 | Liga Portugal | 34k coins | +13.9% | +73.3% | 23% |
 | Ricardo Horta | 90 | Liga Portugal | 43k coins | +21.1% | +53.6% | 28% |
-| Quaresma | 85 | Liga Portugal | 89k coins | +14.7% | +29.1% | 51% |
 | Afonso Moreira | 84 | Ligue 1 McDonald's | 40k coins | +10.4% | +28.6% | 39% |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 28k coins | +5.7% | +20.7% | 28% |
-| Quaresma | 88 | Trendyol Süper Lig | 250k coins | +22.9% | +13.7% | 35% |
+| Nuno Tavares | 87 | Serie A TIM | 68k coins | +20.9% | +27.2% | 26% |
+| Quaresma | 85 | Liga Portugal | 89k coins | +6.5% | +19.9% | 51% |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 28k coins | +5.7% | +19.4% | 28% |
 | João Neves | 86 | Ligue 1 McDonald's | 128k coins | +2.4% | +6.7% | 54% |
 
 
@@ -46,11 +46,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Ricardo Horta (90)** — 43k coins, **+53.6% em 7 dias** (+21.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Quaresma (85)** — 89k coins, **+29.1% em 7 dias** (+14.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
 - **Afonso Moreira (84)** — 40k coins, **+28.6% em 7 dias** (+10.4% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gonçalo Guedes (89)** — 28k coins, **+20.7% em 7 dias** (+5.7% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nuno Tavares (87)** — 68k coins, **+27.2% em 7 dias** (+20.9% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Quaresma (85)** — 89k coins, **+19.9% em 7 dias** (+6.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
