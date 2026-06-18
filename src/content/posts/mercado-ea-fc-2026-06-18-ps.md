@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:25:31.000Z
+pubDatetime: 2026-06-18T22:23:22.000Z
 title: "Portugueses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Nélson Oliveira (86, Liga Portugal), com +57.1% em 24h, a 22k coins no Console (PS)."
+    a: "Rúben Neves (87, ROSHN Saudi League), com +40% em 24h, a 31k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Paulo Futre (88), -17.5% em 24h, a 20k coins."
+    a: "João Félix (84), -41% em 24h, a 195k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 270k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 27 cartas em alta contra 28 em queda (média 1.12%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 22 cartas em alta contra 31 em queda (média -0.82%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de portugueses em console está consolidado em um movimento lateral, com 27 altas e 28 quedas registradas nas últimas 24 horas. A variação média ficou em 1.12%, indicando que as forças de compra e venda estão se equilibrando sem um direcionamento forte para nenhum dos lados.
+O mercado de jogadores portugueses está em lateralização hoje, com 22 altas equilibrando 31 quedas e uma média negativa de -0.82% em 24h. Esse cenário de indecisão exige cautela, pois as oscilações se cancelam parcialmente, criando oportunidades pontuais mas sem tendência clara de alta ou baixa generalizada.
 
-> 🟢 **Maior alta:** Nélson Oliveira (86) **+57.1%** · 🔴 **Maior baixa:** Paulo Futre (88) **-17.5%**
+> 🟢 **Maior alta:** Rúben Neves (87) **+40%** · 🔴 **Maior baixa:** João Félix (84) **-41%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nélson Oliveira | 86 | Liga Portugal | 22k coins | +57.1% | +57.1% |
-| Youssef Chermiti | 84 | Scottish Premiership | 55k coins | +22.2% | +25% |
-| Ricardo Horta | 90 | Liga Portugal | 34k coins | +22% | +60% |
-| Vitinha | 90 | Ligue 1 McDonald's | 115k coins | +21.1% | +15.6% |
-| Rui Costa | 88 | Serie A TIM | 29k coins | +20.8% | +31.8% |
-| Rafa | 84 | Trendyol Süper Lig | 50k coins | +17.6% | +15.6% |
-| Rúben Neves | 87 | ROSHN Saudi League | 28k coins | +16.7% | +26.6% |
-| Eusébio | 91 | Icons | 595k coins | +15.6% | +36.4% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 1.10M coins | +11% | +33.2% |
-| João Moutinho | 88 | Liga Portugal | 100k coins | +8.5% | +72.8% |
+| Rúben Neves | 87 | ROSHN Saudi League | 31k coins | +40% | +19.1% |
+| Fábio Vieira | 87 | Bundesliga | 20k coins | +19.1% | -8% |
+| Rafa | 84 | Trendyol Süper Lig | 48k coins | +15.9% | +13.9% |
+| Eusébio | 91 | Icons | 575k coins | +15.5% | +25% |
+| José Fonte | 85 | Liga Portugal | 30k coins | +13.4% | +15.2% |
+| Rui Costa | 88 | Serie A TIM | 21k coins | +12.6% | +21.6% |
+| Luís Figo | 90 | Icons | 38k coins | +11.1% | +14.3% |
+| Francisco Conceição | 89 | Serie A TIM | 76k coins | +10.9% | +65.2% |
+| João Moutinho | 88 | Liga Portugal | 104k coins | +10.1% | +74.4% |
+| Vitinha | 90 | Ligue 1 McDonald's | 233k coins | +9.5% | +15% |
 
 
-Nélson Oliveira liderou as altas com um impressionante salto de 57.1% para 22k coins, enquanto Vitinha subiu 21.1% atingindo 115k com alta probabilidade de continuar subindo. Youssef Chermiti e Ricardo Horta também tiveram desempenhos notáveis, com aumentos de 22.2% e 22% respectivamente, mostrando demanda sólida em diferentes faixas de preço.
+Rúben Neves lidera as altas com um salto de 40% para 31k coins, seguido por Fábio Vieira que subiu 19.1% até 20k coins. Eusébio também se destaca com alta de 15.5% atingindo 575k coins, enquanto Rafa e José Fonte registram aumentos de 15.9% e 13.4% respectivamente, refletindo demanda específica por esses perfis.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 20k coins | -17.5% | -29.2% |
-| Rafael Leão | 87 | Serie A TIM | 410k coins | -16.8% | +5.3% |
-| João Carvalho | 84 | Liga Portugal | 40k coins | -15.6% | -6.9% |
-| Geovany Quenda | 85 | Liga Portugal | 32k coins | -14.2% | -38.4% |
-| João Félix | 86 | ROSHN Saudi League | 181k coins | -10.8% | +20.7% |
-| Quaresma | 85 | Liga Portugal | 80k coins | -10.3% | +12.1% |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 40k coins | -10.1% | 0% |
-| Rafael Leão | 86 | Serie A TIM | 460k coins | -10.1% | +27.9% |
-| Eusébio | 94 | Icons | 1.72M coins | -9.9% | -6.9% |
-| João Cancelo | 87 | ROSHN Saudi League | 85k coins | -9.5% | +6.7% |
+| João Félix | 84 | ROSHN Saudi League | 195k coins | -41% | +111.6% |
+| Ricardo Carvalho | 88 | Liga Portugal | 21k coins | -35.6% | -10.8% |
+| Cláudio Braga | 87 | Scottish Premiership | 24k coins | -22.7% | -17.9% |
+| António Silva | 87 | Liga Portugal | 41k coins | -18.8% | -8.6% |
+| João Carvalho | 84 | Liga Portugal | 37k coins | -18.2% | -9.8% |
+| Rafael Leão | 86 | Serie A TIM | 450k coins | -15.2% | +20.7% |
+| João Neves | 88 | Ligue 1 McDonald's | 145k coins | -12.5% | +1.4% |
+| Pedro Neto | 85 | Premier League | 35k coins | -11.9% | -9.7% |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 21k coins | -11.9% | +8.8% |
+| Pedro Neto | 88 | Premier League | 70k coins | -11% | -22.9% |
 
 
-Paulo Futre sofreu a maior correção com queda de 17.5% para 20k, seguido de perto por Rafael Leão (87) que caiu 16.8% para 410k. João Carvalho e Geovany Quenda também recuaram significativamente, caindo 15.6% e 14.2% respectivamente, embora ambos apresentem alta probabilidade de alta futura, sugerindo oportunidade de compra.
+João Félix sofre a maior queda com -41% caindo para 195k coins, acompanhado por Ricardo Carvalho que despencou 35.6% até 21k coins. Rafael Leão e António Silva também perdem valor significativo com quedas de 15.2% e 18.8%, indicando correção de preços em ativos de maior ticket e defesas locais.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -75,16 +75,16 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Cristiano Ronaldo | 86 | 270k coins | 311k coins | 95% |
-| Quaresma | 88 | 141k coins | 174k coins | 95% |
-| Rúben Neves | 87 | 28k coins | 37k coins | 95% |
+| Fábio Vieira | 87 | 20k coins | 23k coins | 95% |
+| Quaresma | 88 | 145k coins | 179k coins | 95% |
+| Rúben Neves | 87 | 31k coins | 40k coins | 95% |
 | João Neves | 88 | 180k coins | 207k coins | 95% |
-| Fábio Vieira | 87 | 18k coins | 21k coins | 95% |
-| Pedro Neto | 85 | 38k coins | 47k coins | 95% |
-| Geovany Quenda | 85 | 32k coins | 36k coins | 93% |
-| João Carvalho | 84 | 40k coins | 46k coins | 93% |
+| Pedro Neto | 85 | 35k coins | 43k coins | 95% |
+| João Carvalho | 84 | 37k coins | 42k coins | 93% |
+| Rodrigo Mora | 88 | 36k coins | 40k coins | 83% |
 
 
-O modelo projeta alta probabilidade de valorização (95%) para Cristiano Ronaldo a 270k, Quaresma a 141k, Rúben Neves a 28k e João Neves a 180k. Além desses, Fábio Vieira e Pedro Neto também têm 95% de chance de alta, enquanto Geovany Quenda e João Carvalho, apesar das quedas recentes, mantêm 93% de probabilidade de recuperação.
+O modelo projeta alta para Cristiano Ronaldo a 270k coins com 95% de probabilidade, assim como para Fábio Vieira e Quaresma. Outros nomes com forte expectativa de valorização incluem João Neves, Pedro Neto e João Carvalho, todos com probabilidades acima de 93%.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -93,18 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Nuno Tavares | 87 | 46k coins | -24.1% |
-| Paulo Futre | 92 | 81k coins | -15.6% |
-| Pedro Neto | 88 | 71k coins | -17.5% |
-| Bernardo Silva | 87 | 60k coins | -24.1% |
-| João Moutinho | 88 | 100k coins | -29.1% |
-| Ricardo Horta | 90 | 34k coins | -15.6% |
 | Rúben Neves | 87 | 30k coins | -21.4% |
-| Paulo Futre | 88 | 20k coins | -15.6% |
+| João Moutinho | 88 | 104k coins | -29.1% |
+| Paulo Futre | 92 | 85k coins | -15.6% |
+| Francisco Conceição | 89 | 76k coins | -16.7% |
+| Pedro Neto | 88 | 70k coins | -17.5% |
+| Bernardo Silva | 87 | 60k coins | -24.1% |
+| António Silva | 87 | 41k coins | -17.5% |
+| Nuno Tavares | 87 | 39k coins | -24.1% |
 
 
 ## 🎯 Conclusão do dia
-Com o mercado lateral, o momento ideal é acumar ativos com alta probabilidade de alta, como João Carvalho e Geovany Quenda, que sofreram vendas excessivas. Evite entrar em posições longas em Paulo Futre ou Rafael Leão (87) devido à pressão vendedora atual, mas monitore as entradas de Nélson Oliveira e Vitinha para possíveis lucros rápidos.
+Compre oportunidades de alta probabilidade como Rúben Neves e Pedro Neto, mas evite entrar em ativos em queda livre como João Félix sem sinais de fundo. Segure os ícones e cartas de elite que o modelo prevê alta, aguardando a confirmação da tendência nos próximos dias.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -114,16 +114,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Nélson Oliveira (86, Liga Portugal), com +57.1% em 24h, a 22k coins no Console (PS).
+Rúben Neves (87, ROSHN Saudi League), com +40% em 24h, a 31k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Paulo Futre (88), -17.5% em 24h, a 20k coins.
+João Félix (84), -41% em 24h, a 195k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 270k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 27 cartas em alta contra 28 em queda (média 1.12%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 22 cartas em alta contra 31 em queda (média -0.82%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

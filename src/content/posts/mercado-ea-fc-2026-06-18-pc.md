@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:34:00.000Z
+pubDatetime: 2026-06-18T22:24:06.000Z
 title: "Portugueses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,89 +13,80 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Bruno Fernandes (93, Premier League), com +44.5% em 24h, a 435k coins no PC."
+    a: "Bruno Fernandes (93, Premier League), com +44.5% em 24h, a 430k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Paulo Futre (89), -45.5% em 24h, a 200k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 33 em queda (média -2.87%)."
+    a: "Paulo Futre (92), -43.2% em 24h, a 135k coins."
+  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 23 cartas em alta contra 31 em queda (média 1.55%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
-## 📊 Resumo do mercado hoje
+## 📈 O mercado hoje, em resumo
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **22 subiram** e **33 caíram**, com variação média de **-2.87%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+O mercado de jogadores portugueses em PC apresenta um sentimento majoritariamente comprador, com 23 altas contra 31 quedas registradas nas últimas 24 horas. A média de variação foi de apenas 1.55%, indicando volatilidade pontual em vez de tendência uniforme, o que exige seletividade nas operações de trading.
 
-> 🟢 **Maior alta:** Bruno Fernandes (93) **+44.5%** · 🔴 **Maior baixa:** Paulo Futre (89) **-45.5%**
+> 🟢 **Maior alta:** Bruno Fernandes (93) **+44.5%** · 🔴 **Maior baixa:** Paulo Futre (92) **-43.2%**
 
-## 🟢 Maiores altas (24h)
+## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bruno Fernandes | 93 | Premier League | 435k coins | +44.5% | +11.5% |
+| Bruno Fernandes | 93 | Premier League | 430k coins | +44.5% | +31.8% |
 | João Moutinho | 88 | Liga Portugal | 85k coins | +41.7% | +51.8% |
-| Quaresma | 89 | Liga Portugal | 264k coins | +31.3% | +22.8% |
-| Francisco Conceição | 85 | Serie A TIM | 30k coins | +22.4% | +0.8% |
-| Ricardo Horta | 90 | Liga Portugal | 43k coins | +21.1% | +53.6% |
-| Nuno Tavares | 87 | Serie A TIM | 68k coins | +20.9% | +27.2% |
-| Rafael Leão | 87 | Serie A TIM | 720k coins | +15.6% | +25.8% |
-| Francisco Moura | 90 | Liga Portugal | 34k coins | +13.9% | +73.3% |
-| João Félix | 86 | ROSHN Saudi League | 220k coins | +13.7% | -45.6% |
-| Vitinha | 91 | Ligue 1 McDonald's | 978k coins | +12% | -34.8% |
+| Ricardo Horta | 90 | Liga Portugal | 45k coins | +26.8% | +66.7% |
+| Francisco Conceição | 84 | Serie A TIM | 48k coins | +19.9% | -6.1% |
+| Vitinha | 90 | Ligue 1 McDonald's | 395k coins | +14.5% | +6.8% |
+| Cristiano Ronaldo | 92 | ROSHN Saudi League | 2.57M coins | +14.1% | +19.5% |
+| João Carvalho | 84 | Liga Portugal | 48k coins | +13.1% | +25% |
+| Luís Figo | 89 | Icons | 86k coins | +10.9% | +13.1% |
+| João Neves | 88 | Ligue 1 McDonald's | 215k coins | +9.7% | +49.3% |
+| Francisco Conceição | 85 | Serie A TIM | 30k coins | +9.1% | +0.8% |
 
 
-### Análise das altas
-
-- **Bruno Fernandes (93)** subiu **+44.5%** em 24h, a **435k coins** (faixa do dia: 300k–435k). Está +30% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **João Moutinho (88)** subiu **+41.7%** em 24h, a **85k coins** (faixa do dia: 60k–85k). Está +33% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (75% de chance de subir mais).
-
-- **Quaresma (89)** subiu **+31.3%** em 24h, a **264k coins** (faixa do dia: 197k–270k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+Bruno Fernandes liderou as altas com um impressionante aumento de 44.5%, atingindo 430k coins, seguido de perto por João Moutinho, que subiu 41.7% e custa agora 85k coins. Ricardo Horta também se destaca com alta de 26.8% para 45k coins, enquanto nomes premium como Cristiano Ronaldo (92) e Vitinha (90) registraram subas de 14.1% e 14.5% respectivamente.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 200k coins | -45.5% | -36.7% |
-| Rafa | 84 | Trendyol Süper Lig | 30k coins | -44.2% | -33% |
-| João Félix | 84 | ROSHN Saudi League | 420k coins | -43.8% | +20% |
-| Trincão | 86 | Liga Portugal | 27k coins | -29.6% | 0% |
-| Vitinha | 90 | Ligue 1 McDonald's | 130k coins | -27.8% | -10.3% |
-| Rui Costa | 88 | Serie A TIM | 29k coins | -25.6% | +22.7% |
-| Bernardo Silva | 87 | Premier League | 44k coins | -20% | -6.9% |
-| Ricardo Carvalho | 89 | Liga Portugal | 80k coins | -17.1% | +42.9% |
-| Geovany Quenda | 85 | Liga Portugal | 39k coins | -17% | +47.2% |
-| Rodrigo Mora | 88 | Liga Portugal | 38k coins | -16.7% | +4.7% |
+| Paulo Futre | 92 | Liga Portugal | 135k coins | -43.2% | -28.9% |
+| Vitinha | 90 | Ligue 1 McDonald's | 164k coins | -35% | -16.4% |
+| Ricardo Carvalho | 89 | Liga Portugal | 80k coins | -23.8% | +42.9% |
+| Youssef Chermiti | 84 | Scottish Premiership | 37k coins | -21% | +10.8% |
+| Cristiano Ronaldo | 88 | ROSHN Saudi League | 1.30M coins | -18.8% | +39.8% |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 25k coins | -16.7% | +4.2% |
+| Fábio Vieira | 87 | Bundesliga | 24k coins | -16.7% | +21.8% |
+| Geovany Quenda | 85 | Liga Portugal | 37k coins | -15.9% | +39.6% |
+| Rodrigo Mora | 88 | Liga Portugal | 35k coins | -15.2% | +2% |
+| Rodrigo Mora | 87 | Liga Portugal | 22k coins | -13.5% | +1.1% |
 
 
-### Análise das baixas
-
-- **Paulo Futre (89)** caiu **-45.5%** em 24h, a **200k coins** (faixa do dia: 200k–367k). Está -28% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Rafa (84)** caiu **-44.2%** em 24h, a **30k coins** (faixa do dia: 26k–62k). Está -46% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **João Félix (84)** caiu **-43.8%** em 24h, a **420k coins** (faixa do dia: 298k–949k). Está -8% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+Do lado oposto, Paulo Futre sofreu a maior queda de 43.2%, desvalorizando para 135k coins, enquanto a versão 90 de Vitinha despencou 35% para 164k coins. Ricardo Carvalho e Youssef Chermiti também recuaram significativamente, com quedas de 23.8% e 21% respectivamente, oferecendo oportunidades de entrada para traders que buscam ativos com alta probabilidade de retorno.
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 Conclusão do dia
+Recomenda-se comprar ativos com alta probabilidade de retorno como Moutinho e Carvalho, aproveitando as quedas recentes para entrar a preços mais baixos. Evite segurar cartas que já acumularam altas extremas sem suporte de demanda sustentável, e mantenha-se atento à volatilidade de títulos icônicos como Ronaldo.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 📐 Como o FutQuant le o mercado
+Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Bruno Fernandes (93, Premier League), com +44.5% em 24h, a 435k coins no PC.
+Bruno Fernandes (93, Premier League), com +44.5% em 24h, a 430k coins no PC.
 
 **E a maior queda do dia?**  
-Paulo Futre (89), -45.5% em 24h, a 200k coins.
+Paulo Futre (92), -43.2% em 24h, a 135k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 33 em queda (média -2.87%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**  
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 23 cartas em alta contra 31 em queda (média 1.55%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
-Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
+Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
 > 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.

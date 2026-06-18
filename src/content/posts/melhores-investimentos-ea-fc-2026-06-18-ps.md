@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:33:52.000Z
+pubDatetime: 2026-06-18T22:23:39.000Z
 title: "Melhores investimentos em Portugueses no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "João Moutinho (88, Liga Portugal) lidera, com +74.6% em 7 dias a 102k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "João Moutinho (88, Liga Portugal) lidera, com +74.4% em 7 dias a 104k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,15 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** João Moutinho (88) acumula **+74.6% em 7 dias** a 102k coins.
+> 🔝 **Destaque:** João Moutinho (88) acumula **+74.4% em 7 dias** a 104k coins.
+
+
+## 🧠 Análise FutQuant do dia
+No mercado de Ultimate Team para consoles PlayStation, a análise de 18 de junho de 2026 destaca uma movimentação intensa entre jogadores portugueses. Entre os destaques de alto valor, Vitinha surge como um ativo premium com alta de 9,5% em 24 horas, custando 233 mil coins, embora apresente apenas 8% de probabilidade de continuação da tendência. Por outro lado, o Ícone Luís Figo, avaliado em 38 mil coins, demonstra um comportamento muito mais sólido para investidores, registrando um aumento de 11,1% e uma impressionante probabilidade de 81% de manter a valorização, tornando-o uma escolha segura para portfólios conservadores.
+
+No segmento intermediário, Rúben Neves é o destaque indiscutível. A carta do meio-campista da ROSHN Saudi League disparou 40% em apenas 24 horas, atingindo 31 mil coins com uma probabilidade de alta de 95%. Este cenário sugere uma demanda extremamente forte e consistente, posicionando Neves como a melhor oportunidade de entrada imediata para ganhos rápidos. O jogador de 87 de rating mostra uma tendência de valorização de sete dias que confirma sua estabilidade no mercado atual, superando facilmente a maioria dos concorrentes em performance relativa.
+
+Outras opções interessantes incluem Rui Costa e José Fonte, ambos com probabilidades de alta superiores a 50%. Rui Costa, da Serie A TIM, subiu 12,6% para 21 mil coins (54% de probabilidade), enquanto José Fonte, da Liga Portugal, cresceu 13,4% para 30 mil coins (56% de probabilidade). Estas cartas oferecem um equilíbrio atrativo entre risco e retorno. Por fim, Francisco Conceição e João Moutinho, apesar de valores mais elevados (76k e 104k, respectivamente), apresentam baixas probabilidades de alta (5%), sugerindo cautela. Ricardo Carvalho, com 50% de chance de alta a 92 mil coins, também merece atenção para quem busca diversificação em defesas de elite.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,30 +39,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Moutinho | 88 | Liga Portugal | 102k coins | +10% | +74.6% | 5% |
-| Francisco Conceição | 89 | Serie A TIM | 66k coins | +19.2% | +69.3% | 5% |
-| Ricardo Carvalho | 89 | Liga Portugal | 84k coins | +9% | +30% | 50% |
-| Rui Costa | 88 | Serie A TIM | 29k coins | +18.8% | +29.5% | 54% |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 22k coins | +4.8% | +29.4% | 5% |
-| Luís Figo | 90 | Icons | 44k coins | +21.5% | +25% | 81% |
-| José Fonte | 85 | Liga Portugal | 38k coins | +8.1% | +21.2% | 56% |
-| Rodrigo Mora | 88 | Liga Portugal | 38k coins | +3.4% | +18% | 83% |
-| Quaresma | 88 | Trendyol Süper Lig | 155k coins | +2% | +10.8% | 95% |
-| Fábio Vieira | 87 | Bundesliga | 20k coins | +29.4% | +10% | 95% |
-| Vitinha | 90 | Ligue 1 McDonald's | 218k coins | +8.9% | +10% | 8% |
+| João Moutinho | 88 | Liga Portugal | 104k coins | +10.1% | +74.4% | 5% |
+| Francisco Conceição | 89 | Serie A TIM | 76k coins | +10.9% | +65.2% | 5% |
+| Eduardo Quaresma | 88 | Liga Portugal | 36k coins | +2.3% | +33.3% | 35% |
+| Ricardo Carvalho | 89 | Liga Portugal | 92k coins | +5% | +26.3% | 50% |
+| Rui Costa | 88 | Serie A TIM | 21k coins | +12.6% | +21.6% | 54% |
+| Rúben Neves | 87 | ROSHN Saudi League | 31k coins | +40% | +19.1% | 95% |
+| José Fonte | 85 | Liga Portugal | 30k coins | +13.4% | +15.2% | 56% |
+| Vitinha | 90 | Ligue 1 McDonald's | 233k coins | +9.5% | +15% | 8% |
+| Luís Figo | 90 | Icons | 38k coins | +11.1% | +14.3% | 81% |
+| Rafa | 84 | Trendyol Süper Lig | 48k coins | +15.9% | +13.9% | 33% |
+| João Neves | 88 | Ligue 1 McDonald's | 180k coins | +2.9% | +9.1% | 95% |
 
 
 ## 📈 Análise dos destaques
 
-- **João Moutinho (88)** — 102k coins, **+74.6% em 7 dias** (+10% em 24h). Preço +14% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **João Moutinho (88)** — 104k coins, **+74.4% em 7 dias** (+10.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Francisco Conceição (89)** — 66k coins, **+69.3% em 7 dias** (+19.2% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Francisco Conceição (89)** — 76k coins, **+65.2% em 7 dias** (+10.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ricardo Carvalho (89)** — 84k coins, **+30% em 7 dias** (+9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Eduardo Quaresma (88)** — 36k coins, **+33.3% em 7 dias** (+2.3% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Rui Costa (88)** — 29k coins, **+29.5% em 7 dias** (+18.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ricardo Carvalho (89)** — 92k coins, **+26.3% em 7 dias** (+5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gonçalo Guedes (89)** — 22k coins, **+29.4% em 7 dias** (+4.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Rui Costa (88)** — 21k coins, **+21.6% em 7 dias** (+12.6% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -65,14 +73,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 📐 Como o FutQuant le o mercado
+Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-João Moutinho (88, Liga Portugal) lidera, com +74.6% em 7 dias a 102k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+João Moutinho (88, Liga Portugal) lidera, com +74.4% em 7 dias a 104k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
