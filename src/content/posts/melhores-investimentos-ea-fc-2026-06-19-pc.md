@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:26:36.000Z
+pubDatetime: 2026-06-19T19:25:09.000Z
 title: "Melhores investimentos em Portugueses no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Ricardo Carvalho (89, Liga Portugal) lidera, com +87.5% em 7 dias a 105k coins no PC, e o modelo dá 69% de chance de seguir subindo."
+    a: "Ricardo Carvalho (89, Liga Portugal) lidera, com +50.8% em 7 dias a 92k coins no PC, e o modelo dá 69% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Ricardo Carvalho (89) acumula **+87.5% em 7 dias** a 105k coins.
+> 🔝 **Destaque:** Ricardo Carvalho (89) acumula **+50.8% em 7 dias** a 92k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário atual do EA FC Ultimate Team, datado de 19 de junho de 2026, o mercado apresenta uma movimentação interessante para investidores que buscam oportunidades com jogadores portugueses. A análise foca na tendência de valorização dos últimos sete dias, destacando cartas que demonstram força de compra e potencial de retorno imediato. Entre os destaques, Ricardo Carvalho surge como uma das opções mais robustas. Com uma nota de 89 e atuando na Liga Portugal, a carta do zagueiro registrou uma impressionante alta de 16,7% em apenas 24 horas. Atualmente cotada a 105 mil coins, a probabilidade de continuar subindo é estimada em 69%, o que classifica essa operação como de alto potencial para quem deseja entrada segura no curto prazo.
+No cenário do mercado de Ultimate Team para PC em 19 de junho de 2026, a análise das tendências de valorização dos últimos sete dias aponta para uma movimentação intensa no elenco português. Entre as opções disponíveis, as cartas que mais se destacam para entrada imediata são aquelas que combinam um aumento percentual significativo em 24 horas com uma probabilidade estatística robusta de continuação da alta. Nesse contexto, o zagueiro Ricardo Carvalho (89, Liga Portugal) surge como a aposta mais sólida, registrando uma valorização de 16,9% em apenas um dia, com uma probabilidade de alta de 69%. Atualmente cotado a 92k coins, este ativo oferece um equilíbrio raro entre risco reduzido e potencial de retorno, sendo ideal para investidores que buscam segurança sem abrir mão de lucros substanciais no curto prazo.
 
-Outro nome que chama a atenção é António Silva, também da Liga Portugal, mas com uma nota de 87. A performance dele no mercado foi ainda mais agressiva, com um aumento de 39,1% em 24 horas. Embora a probabilidade de alta futura seja de 56%, o momentum atual é forte, especialmente considerando o preço acessível de 56 mil coins. Essa combinação de crescimento rápido e custo relativamente baixo torna a carta de Silva uma candidata forte para estratégias de giro rápido, aproveitando o interesse da comunidade por defensores centrais jovens e talentosos da seleção portuguesa.
+Outro nome que merece atenção absoluta é Ivan Cavaleiro (85, Liga Portugal), que apresenta a maior volatilidade positiva do grupo com 29,2% de alta em 24 horas. Embora sua probabilidade de continuação seja de 47%, o preço atual de 28k coins permite uma entrada com capital moderado, tornando-o uma opção atrativa para quem deseja capitalizar rapidamente sobre a euforia momentânea do mercado. A combinação de um preço de acesso acessível com um impulso de valorização agressivo sugere que Cavaleiro pode ser uma das melhores oportunidades de "swing trade" da semana, desde que o investidor esteja atento aos sinais de reversão de tendência.
 
-Para quem prefere o Premier League, Diogo Dalot oferece uma perspectiva diferente. O lateral-direito, com 87 de rating, subiu 6,9% em 24 horas e está cotado a 170 mil coins. Apesar do percentual de crescimento ser menor que o de Silva ou Carvalho, a probabilidade de alta é de 58%, o que indica uma tendência estável em um mercado de maior valor. Dalot representa uma opção de investimento com maior valor nominal, ideal para portfólios que buscam diversificação entre ligas, embora exija mais capital inicial para a entrada.
+No setor ofensivo, Eduardo Quaresma (88, Liga Portugal) consolida sua posição com uma alta de 11,7% em 24 horas e uma probabilidade de continuação de 59%, cotado a 48k coins. Esta carta representa um meio-termo interessante, oferecendo mais estabilidade do que Cavaleiro, mas com menos explosividade inicial do que Carvalho. Para portfolios diversificados, Quaresma serve como uma peça de resistência, capaz de manter o valor enquanto o mercado digere as flutuações de outras cartas de maior perfil, garantindo liquidez constante para futuros investimentos.
 
-No meio-campo, João Neves, da Ligue 1 McDonald's, mostra uma trajetória mais conservadora. Com 86 de rating e um aumento modesto de 1,6% em 24 horas, a carta está a 130 mil coins. A probabilidade de alta é de 54%, sugerindo que o jogador está em uma fase de consolidação de preço. Para investidores pacientes, Neves pode ser uma boa aposta se houver eventos futuros da Ligue 1 ou da seleção portuguesa que impulsionem a demanda por volantes de elite, mas o retorno imediato é menos evidente comparado aos defensores listados anteriormente.
+Entre os meio-campistas, Fábio Vieira (87, Bundesliga) e João Neves (86, Ligue 1 McDonald's) apresentam perfis distintos. Vieira sobe 11,5% com 54% de probabilidade a 25k coins, sendo uma entrada barata e com bom potencial de crescimento relativo. Já Neves, apesar de ter uma alta modesta de 1,6% e preço elevado de 130k coins, mantém 54% de probabilidade de alta, indicando que o mercado de luxo continua a valorizar consistentemente os ativos premium, mesmo com menor volatilidade diária.
 
-Entre as lendas e ícones, Luís Figo e Paulo Futre apresentam perfis distintos. Figo, com 89 de rating na categoria Icons, subiu 12,8% em 24 horas para 82 mil coins, mas possui uma probabilidade de alta de apenas 33%. Isso sugere que o preço atual já pode estar refletindo a maior parte da expectativa de mercado. Por outro lado, Paulo Futre, com 88 de rating na La Liga EA Sports, aumentou 10,6% e está a 31 mil coins, com a mesma probabilidade de alta de 33%. A baixa probabilidade de continuação da tendência indica cautela, pois esses jogadores podem estar atingindo um teto de valorização no curto prazo.
+A defesa também oferece oportunidades, com António Silva (87, Liga Portugal) liderando com 28,4% de alta em 24 horas e 56% de probabilidade, a 52k coins. Sua performance supera até a de Carvalho em termos percentuais, sugerindo que a demanda por defensores centrais de alta qualidade está em ascensão. Por outro lado, Andreia Jacinto (88, Liga F) e Gonçalo Guedes (89, LALIGA EA SPORTS) mostram sinais mistos: Jacinto tem alta baixa (1,7%) mas boa probabilidade (58%), enquanto Guedes tem alta moderada (5,3%) mas probabilidade baixa (28%), o que o torna menos recomendado para novas entradas neste momento.
 
-Finalmente, João Carvalho, com 84 de rating na Liga Portugal, registrou uma alta de 22,4% em 24 horas, cotado a 45 mil coins. Apesar da probabilidade de alta ser de apenas 33%, o percentual de crescimento recente é significativo. Isso pode indicar uma compra especulativa pontual. Em resumo, para entrada hoje, Ricardo Carvalho e António Silva oferecem o melhor equilíbrio entre probabilidade de sucesso e momentum atual, enquanto Diogo Dalot serve como uma alternativa de maior valor. Os demais, embora com altas notáveis, apresentam riscos maiores de estagnação imediata devido às baixas probabilidades de continuação da tendência.
+Finalmente, Rodrigo Mora aparece em duas versões: a de 87 rating sobe 21,1% com 56% de probabilidade a 27k coins, sendo uma excelente entrada de baixo custo; já a versão de 88 rating tem alta de apenas 3,9% e probabilidade mínima de 12%, indicando saturação ou desinteresse do mercado. Portanto, para investir hoje, priorize Carvalho, Cavaleiro, Quaresma, Vieira, António Silva e Rodrigo Mora (87), evitando Guedes e Mora (88) devido às baixas probabilidades de continuidade da alta.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,26 +45,29 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ricardo Carvalho | 89 | Liga Portugal | 105k coins | +16.7% | +87.5% | 69% |
-| António Silva | 87 | Liga Portugal | 56k coins | +39.1% | +40.9% | 56% |
-| Diogo Dalot | 87 | Premier League | 170k coins | +6.9% | +21.4% | 58% |
+| Ricardo Carvalho | 89 | Liga Portugal | 92k coins | +16.9% | +50.8% | 69% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 28k coins | +29.2% | +43.8% | 47% |
+| Eduardo Quaresma | 88 | Liga Portugal | 48k coins | +11.7% | +37.4% | 59% |
+| Fábio Vieira | 87 | Bundesliga | 25k coins | +11.5% | +37.2% | 54% |
+| Andreia Jacinto | 88 | Liga F | 29k coins | +1.7% | +35.6% | 58% |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 30k coins | +5.3% | +28% | 28% |
 | João Neves | 86 | Ligue 1 McDonald's | 130k coins | +1.6% | +16.1% | 54% |
-| Luís Figo | 89 | Icons | 82k coins | +12.8% | +12.8% | 33% |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 31k coins | +10.6% | +12.6% | 33% |
-| João Carvalho | 84 | Liga Portugal | 45k coins | +22.4% | +5.9% | 33% |
+| Rodrigo Mora | 87 | Liga Portugal | 27k coins | +21.1% | +16% | 56% |
+| António Silva | 87 | Liga Portugal | 52k coins | +28.4% | +13% | 56% |
+| Rodrigo Mora | 88 | Liga Portugal | 30k coins | +3.9% | +8.1% | 12% |
 
 
 ## 📈 Análise dos destaques
 
-- **Ricardo Carvalho (89)** — 105k coins, **+87.5% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ricardo Carvalho (89)** — 92k coins, **+50.8% em 7 dias** (+16.9% em 24h). Preço em linha com a média de 7 dias (-7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **António Silva (87)** — 56k coins, **+40.9% em 7 dias** (+39.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ivan Cavaleiro (85)** — 28k coins, **+43.8% em 7 dias** (+29.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Diogo Dalot (87)** — 170k coins, **+21.4% em 7 dias** (+6.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Eduardo Quaresma (88)** — 48k coins, **+37.4% em 7 dias** (+11.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **João Neves (86)** — 130k coins, **+16.1% em 7 dias** (+1.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Fábio Vieira (87)** — 25k coins, **+37.2% em 7 dias** (+11.5% em 24h). Preço em linha com a média de 7 dias (-0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Luís Figo (89)** — 82k coins, **+12.8% em 7 dias** (+12.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andreia Jacinto (88)** — 29k coins, **+35.6% em 7 dias** (+1.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Ricardo Carvalho (89, Liga Portugal) lidera, com +87.5% em 7 dias a 105k coins no PC, e o modelo dá 69% de chance de seguir subindo.
+Ricardo Carvalho (89, Liga Portugal) lidera, com +50.8% em 7 dias a 92k coins no PC, e o modelo dá 69% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
