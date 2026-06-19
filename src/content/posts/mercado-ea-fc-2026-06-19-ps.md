@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:23:47.000Z
+pubDatetime: 2026-06-19T22:24:01.000Z
 title: "Portugueses no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,58 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Ivan Cavaleiro (85, Liga Portugal), com +50% em 24h, a 32k coins no Console (PS)."
+    a: "Ivan Cavaleiro (85, Liga Portugal), com +50.5% em 24h, a 34k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Rodrigo Mora (88), -25% em 24h, a 25k coins."
+    a: "Diogo Dalot (87), -40.9% em 24h, a 62k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 247k coins."
+    a: "Pelo modelo FutQuant, Félix Correia (89) — 95% de probabilidade de alta, a 18k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 20 cartas em alta contra 40 em queda (média -2.28%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 12 cartas em alta contra 35 em queda (média -5.28%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O cenário do mercado de jogadores portugueses em consoles PlayStation para o dia 19 de junho de 2026 apresenta-se extremamente hostil para os traders que buscam ganhos rápidos, com um sentimento geral de pressão intensa e vendas dominando a narrativa das últimas 24 horas. Os dados indicam uma assimetria clara na movimentação dos ativos, onde apenas 20 registros de altas foram observados contra um impressionante total de 40 quedas, resultando em uma média negativa de -2.28% para o segmento como um todo. Este contexto de desvalorização generalizada exige uma leitura atenta das probabilidades associadas a cada movimento, pois nem toda alta é sustentável e nem toda baixa representa oportunidade imediata de compra. A volatilidade é alta, mas a direção predominante é de descida, o que significa que a estratégia de acumulação deve ser cautelosa e focada apenas em ativos com fundamental forte ou suporte técnico sólido. O trader experiente sabe que em dias de queda generalizada, a disciplina para não comprar no pânico é tão importante quanto a habilidade de identificar os poucos ativos que se destacam contra a maré baixa.
+O mercado de jogadores portugueses em console PS para 19/06/2026 apresenta um cenário de extrema volatilidade e pressão vendedora, onde a lógica de 'vender rápido' domina as negociações, refletida em um balanço desastroso de 12 altas contra 35 quedas no último dia. A média geral de variação negativa de -5.28% em 24 horas confirma que a liquidez está sendo drenada por traders que priorizam a proteção de capital em vez de especulação de longo prazo, criando um ambiente hostil para quem busca seguradoras tradicionais. Este tom de urgência é perceptível não apenas nos preços, mas na velocidade com que as cotações se ajustam, exigindo uma leitura técnica apurada para identificar os poucos ativos que resistem à gravidade do mercado. O investidor deve navegar com cautela, entendendo que a maioria dos movimentos hoje é reativa a quedas anteriores, e não impulsionada por demanda orgânica de base de jogadores. Portanto, a estratégia do dia deve focar em oportunidades de compra em ativos com alta probabilidade de correção positiva, enquanto se evita expor capital excessivo em itens que ainda estão em queda livre.
 
-> 🟢 **Maior alta:** Ivan Cavaleiro (85) **+50%** · 🔴 **Maior baixa:** Rodrigo Mora (88) **-25%**
+> 🟢 **Maior alta:** Ivan Cavaleiro (85) **+50.5%** · 🔴 **Maior baixa:** Diogo Dalot (87) **-40.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ivan Cavaleiro | 85 | Liga Portugal | 32k coins | +50% | +8.1% |
-| Eduardo Quaresma | 88 | Liga Portugal | 56k coins | +36.6% | +83.6% |
-| António Silva | 87 | Liga Portugal | 58k coins | +29.3% | +17.1% |
-| Geovany Quenda | 85 | Liga Portugal | 42k coins | +26.8% | -19.6% |
-| Andreia Jacinto | 88 | Liga F | 25k coins | +22% | +78.6% |
-| Vitinha | 91 | Ligue 1 McDonald's | 616k coins | +21.6% | +14.4% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 950k coins | +20.3% | +58.1% |
-| João Carvalho | 84 | Liga Portugal | 46k coins | +14.8% | +10.7% |
-| João Neves | 88 | Ligue 1 McDonald's | 160k coins | +14.3% | +60% |
-| Nuno Tavares | 91 | Serie A TIM | 37k coins | +11.1% | +5.3% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 34k coins | +50.5% | +55.7% |
+| António Silva | 87 | Liga Portugal | 55k coins | +36.2% | +25.3% |
+| Eduardo Quaresma | 88 | Liga Portugal | 56k coins | +20.7% | +62.3% |
+| Paulo Futre | 89 | LALIGA EA SPORTS | 152k coins | +18.1% | +13.6% |
+| João Carvalho | 84 | Liga Portugal | 45k coins | +11.7% | +11% |
+| Andreia Jacinto | 88 | Liga F | 28k coins | +11.4% | +60.7% |
+| Cláudio Braga | 87 | Scottish Premiership | 27k coins | +11.2% | -13.5% |
+| Nélson Oliveira | 86 | Liga Portugal | 22k coins | +3.7% | +66.7% |
+| Vitinha | 91 | Ligue 1 McDonald's | 592k coins | +3.1% | -3% |
 
 
-Entre os poucos ativos que conseguiram valorizar, destacam-se movimentos específicos que merecem análise individualizada para entender se são tendências ou apenas ruídos de curto prazo. Ivan Cavaleiro, da Liga Portugal, liderou as altas com um salto de 50% em 24 horas, chegando a 32k de coins, embora a probabilidade de continuidade dessa alta seja baixa, estimada em apenas 5%, sugerindo uma correção iminente. Eduardo Quaresma também se manteve firme, subindo 36.6% para atingir 56k, com uma probabilidade de alta de 35%, o que indica alguma sustentação, mas ainda assim requer cautela na entrada de capital. António Silva registrou um aumento de 29.3% e agora vale 58k, mas com apenas 5% de probabilidade de alta futura, tornando-se um ativo de risco para revenda rápida. Geovany Quenda é um caso interessante, com alta de 26.8% para 42k e uma probabilidade de alta de 93%, o que sugere forte compra por parte do mercado e potencial de continuidade. Andreia Jacinto subiu 22% para 25k com 8% de probabilidade de alta, enquanto Vitinha teve um movimento robusto de 21.6% para 616k com 68% de chance de alta, indicando solidez. Cristiano Ronaldo, icônico e caro, subiu 20.3% para 950k com 42% de probabilidade, e João Carvalho aumentou 14.8% para 46k com 93% de probabilidade de alta, sendo este último um dos ativos mais promissores do dia para holdings de médio prazo.
+Entre as raras exceções ao cenário negativo, Ivan Cavaleiro (85, Liga Portugal) lidera o ranking de altas com um impressionante salto de 50.5% em 24 horas, atingindo 34k coins, embora sua probabilidade de continuidade de alta seja baixa, de apenas 5%, sugerindo um movimento especulativo isolado. António Silva (87, Liga Portugal) acompanha com alta de 36.2% para 55k coins, mas também carrega uma probabilidade de alta de apenas 5%, indicando que o preço já incorporou a euforia momentânea e pode sofrer correção imediata. Eduardo Quaresma (88, Liga Portugal) subiu 20.7% para 56k coins, apresentando um perfil mais saudável com probabilidade de alta de 35%, o que pode atrair traders conservadores em busca de continuidade. Paulo Futre (89, LALIGA EA SPORTS) registrou alta de 18.1% para 152k coins, destacando-se pela probabilidade de alta de 50%, o que sugere um suporte técnico mais robusto nesse patamar de preço. Por fim, João Carvalho (84, Liga Portugal) subiu 11.7% para 45k coins, com a maior probabilidade de alta entre os ativos em ascensão, de 93%, tornando-o o ativo mais seguro para acompanhamento na sessão.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodrigo Mora | 88 | Liga Portugal | 25k coins | -25% | -8.5% |
-| Francisco Conceição | 85 | Serie A TIM | 20k coins | -24.1% | -21.9% |
-| Eusébio | 94 | Icons | 1.49M coins | -23.8% | -32.2% |
-| Francisco Moura | 90 | Liga Portugal | 28k coins | -23.6% | +15.4% |
-| Youssef Chermiti | 84 | Scottish Premiership | 43k coins | -21.8% | -1.1% |
-| João Félix | 84 | ROSHN Saudi League | 149k coins | -20.5% | -33.8% |
-| Dolores Silva | 84 | Liga F | 29k coins | -19.9% | -15.5% |
-| Bruno Fernandes | 93 | Premier League | 161k coins | -19.6% | -19.6% |
-| Quaresma | 88 | Trendyol Süper Lig | 116k coins | -17.9% | -15% |
-| Luís Figo | 90 | Icons | 32k coins | -15.6% | -2.2% |
+| Diogo Dalot | 87 | Premier League | 62k coins | -40.9% | -9.5% |
+| Bernardo Silva | 87 | Premier League | 32k coins | -31.7% | -31.7% |
+| Paulo Futre | 92 | Liga Portugal | 57k coins | -29.4% | -31% |
+| Ricardo Horta | 90 | Liga Portugal | 26k coins | -27.5% | +7.5% |
+| Vitinha | 90 | Ligue 1 McDonald's | 80k coins | -26.6% | -11.1% |
+| Francisco Moura | 90 | Liga Portugal | 31k coins | -23.2% | +20% |
+| João Félix | 84 | ROSHN Saudi League | 207k coins | -23% | -35.8% |
+| Eusébio | 92 | Icons | 597k coins | -22.4% | -12.2% |
+| Cristiano Ronaldo | 92 | ROSHN Saudi League | 1.15M coins | -21.7% | -6.1% |
+| Eusébio | 94 | Icons | 1.40M coins | -21.6% | -36.3% |
 
 
-As quedas foram massivas e afetaram alguns dos ativos mais líquidos e populares do mercado, criando oportunidades de compra para quem tem visão de longo prazo ou aguarda eventos específicos. Rodrigo Mora sofreu uma queda brutal de 25% em 24 horas, caindo para 25k, mas a alta probabilidade de alta de 83% sugere que este é um ponto de compra ideal para revenda futura. Francisco Conceição perdeu 24.1% do seu valor, chegando a 20k, com 38% de probabilidade de alta, o que indica uma recuperação possível, mas menos garantida que a de Mora. Eusébio, o ícone histórico, despencou 23.8% para 1.49M de coins, com apenas 23% de probabilidade de alta, refletindo talvez uma saturação de mercado ou falta de utilidade imediata em meta. Francisco Moura caiu 23.6% para 28k, com apenas 5% de probabilidade de alta, sinalizando que pode continuar caindo e devendo ser evitado por enquanto. Youssef Chermiti registrou uma queda de 21.8% para 43k, mas com 74% de probabilidade de alta, tornando-se um ativo de risco calculado para traders agressivos. João Félix caiu 20.5% para 149k com apenas 8% de probabilidade de alta, indicando fraqueza fundamental ou excesso de oferta. Dolores Silva perdeu 19.9% para 29k com 50% de probabilidade de alta, e Bruno Fernandes caiu 19.6% para 161k, mas com 68% de probabilidade de alta, sugerindo que a queda pode ter sido uma correção saudável antes de uma nova subida.
+As quedas dominam o volume de negócios, com Diogo Dalot (87, Premier League) sofrendo uma queda brutal de -40.9% para 62k coins, apesar de ter 50% de probabilidade de alta, o que indica uma venda massiva de pânico ou liquidação de inventário. Bernardo Silva (87, Premier League) despencou -31.7% para 32k coins, com probabilidade de alta de apenas 5%, sinalizando que o ativo perdeu seu suporte psicológico e pode continuar caindo até encontrar novo fundo. Paulo Futre (92, Liga Portugal) caiu -29.4% para 57k coins, com probabilidade de alta de 5%, mostrando que as versões de maior rating estão sob pressão extrema de venda. Ricardo Horta (90, Liga Portugal) recuou -27.5% para 26k coins, também com probabilidade de alta de 5%, confirmando a fraqueza generalizada dos ativos da liga portuguesa. Vitinha (90, Ligue 1 McDonald's) caiu -26.6% para 80k coins, mas sua probabilidade de alta de 56% sugere que esta pode ser uma oportunidade de compra se o suporte segurar, diferenciando-se das demais quedas sem suporte.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -74,17 +73,16 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Cristiano Ronaldo | 86 | 247k coins | 284k coins | 95% |
-| João Neves | 88 | 160k coins | 184k coins | 95% |
-| Pedro Neto | 85 | 32k coins | 40k coins | 95% |
-| Quaresma | 88 | 116k coins | 143k coins | 95% |
-| Rúben Neves | 87 | 20k coins | 25k coins | 95% |
-| Geovany Quenda | 85 | 42k coins | 47k coins | 93% |
-| João Carvalho | 84 | 46k coins | 52k coins | 93% |
-| João Félix | 86 | 204k coins | 225k coins | 84% |
+| Félix Correia | 89 | 18k coins | 20k coins | 95% |
+| Fábio Vieira | 87 | 20k coins | 23k coins | 95% |
+| Quaresma | 88 | 99k coins | 122k coins | 95% |
+| João Neves | 88 | 168k coins | 193k coins | 95% |
+| Cristiano Ronaldo | 86 | 255k coins | 294k coins | 95% |
+| João Carvalho | 84 | 45k coins | 51k coins | 93% |
+| Youssef Chermiti | 84 | 43k coins | 46k coins | 74% |
 
 
-O modelo preditivo identifica oportunidades de alta com probabilidade superior a 80% em ativos que ainda não sofreram os ajustes de preço esperados ou que estão acumulando volume de compra silencioso. Cristiano Ronaldo, na versão 86, é projetado para alta com 95% de probabilidade, atualmente cotado a 247k, o que representa uma das apostas mais seguras do dia para quem busca ativos premium. João Neves, da Ligue 1 McDonald's, também possui 95% de probabilidade de alta, estando a 160k, o que sugere uma forte entrada de capital em seu ativo nas próximas horas. Pedro Neto, da Premier League, é outro ativo com 95% de probabilidade de alta, cotado a 32k, ideal para traders com menos capital que buscam volatilidade controlada. Quaresma, na liga turca, tem 95% de probabilidade de alta e vale 116k, enquanto Rúben Neves, da Liga Saudita, também tem 95% de probabilidade e está a apenas 20k, oferecendo excelente relação risco-retorno. Geovany Quenda e João Carvalho, já citados nas altas, mantêm suas altas probabilidades de 93%, reforçando a tese de compra. João Félix, na versão 86, tem 84% de probabilidade de alta a 204k, completando o grupo de ativos com projeção positiva forte.
+O modelo de previsão projeta altas significativas para Félix Correia (89, Ligue 1 McDonald's) a 18k coins com 95% de probabilidade, e para Fábio Vieira (87, Bundesliga) a 20k coins, também com 95% de probabilidade, indicando fortes oportunidades de compra em ativos de baixo custo. Quaresma (88, Trendyol Süper Lig) a 99k coins e João Neves (88, Ligue 1 McDonald's) a 168k coins, ambos com 95% de probabilidade de alta, são indicados como ativos de médio a alto valor com forte potencial de valorização. Cristiano Ronaldo (86, ROSHN Saudi League) a 255k coins, com 95% de probabilidade, representa a aposta de maior valor com menor risco relativo segundo o modelo. João Carvalho (84, Liga Portugal) a 45k coins, com 93% de probabilidade, e Youssef Chermiti (84, Scottish Premiership) a 43k coins, com 74% de probabilidade, completam a lista de ativos com projeção positiva.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -93,18 +91,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| João Moutinho | 88 | 96k coins | -29.1% |
-| Rafael Leão | 86 | 365k coins | -17.4% |
-| Paulo Futre | 92 | 70k coins | -15.6% |
-| António Silva | 87 | 58k coins | -17.5% |
-| Pedro Neto | 88 | 70k coins | -17.5% |
-| Bernardo Silva | 87 | 60k coins | -24.1% |
-| Francisco Moura | 90 | 28k coins | -34.2% |
 | Rúben Neves | 87 | 30k coins | -21.4% |
+| Rafael Leão | 86 | 365k coins | -17.4% |
+| Paulo Futre | 92 | 57k coins | -15.6% |
+| António Silva | 87 | 55k coins | -17.5% |
+| Francisco Moura | 90 | 31k coins | -34.2% |
+| Ricardo Horta | 90 | 26k coins | -15.6% |
+| Ivan Cavaleiro | 85 | 34k coins | -21.4% |
+| Nuno Tavares | 87 | 39k coins | -24.1% |
 
 
 ## 🎯 O que fazer hoje
-A estratégia recomendada para hoje é focar na compra agressiva de ativos com alta probabilidade de alta e preços atuais descontados, evitando a venda prematura de ativos fundamentais e a compra de ativos em queda livre sem suporte. Compre imediatamente Rodrigo Mora a 25k e Youssef Chermiti a 43k, pois suas altas probabilidades de alta (83% e 74% respectivamente) indicam uma reversão iminente após as quedas de 25% e 21.8%. Segure os ativos como João Carvalho e Geovany Quenda, que já subiram e têm 93% de probabilidade de continuar subindo, visando lucros maiores antes de qualquer correção. Evite comprar Francisco Moura e João Félix (versão 84) por enquanto, pois suas baixas probabilidades de alta (5% e 8%) sugerem que o fundo ainda não foi atingido. Para investidores de maior capital, a entrada em Cristiano Ronaldo (86) e João Neves, ambos com 95% de probabilidade de alta, oferece segurança relativa em um mercado volátil. A chave do dia é paciência nas compras de ativos em queda e disciplina na venda de ativos que atingiram seus alvos de probabilidade máxima.
+A estratégia recomendada para hoje é comprar seletivamente nos ativos com alta probabilidade de alta e baixo custo, como Félix Correia e Fábio Vieira, que oferecem margem de erro maior devido aos seus preços de entrada de 18k e 20k coins. Deve-se evitar expor capital em ativos em queda livre com baixa probabilidade de recuperação, como Bernardo Silva e Ricardo Horta, pois o risco de perda acumulada é alto. Segurar ativos como Paulo Futre (89) e Vitinha pode ser viável se o suporte segurar, dada a probabilidade de alta superior a 50%, mas com monitoramento constante. Comprar João Carvalho e Youssef Chermiti é aconselhável pela alta probabilidade de valorização, equilibrando risco e retorno. Evitar compras em Ivan Cavaleiro e António Silva é prudente, pois suas altas recentes não são sustentáveis pela baixa probabilidade de continuidade, sugerindo correção iminente.
 
 
 ## 🧪 De onde vêm estes números
@@ -114,16 +112,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Ivan Cavaleiro (85, Liga Portugal), com +50% em 24h, a 32k coins no Console (PS).
+Ivan Cavaleiro (85, Liga Portugal), com +50.5% em 24h, a 34k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Rodrigo Mora (88), -25% em 24h, a 25k coins.
+Diogo Dalot (87), -40.9% em 24h, a 62k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 247k coins.
+Pelo modelo FutQuant, Félix Correia (89) — 95% de probabilidade de alta, a 18k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 20 cartas em alta contra 40 em queda (média -2.28%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 12 cartas em alta contra 35 em queda (média -5.28%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

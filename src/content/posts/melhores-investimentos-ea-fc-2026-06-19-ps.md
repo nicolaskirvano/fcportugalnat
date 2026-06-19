@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:24:07.000Z
+pubDatetime: 2026-06-19T22:24:34.000Z
 title: "Melhores investimentos em Portugueses no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Eduardo Quaresma (88, Liga Portugal) lidera, com +83.6% em 7 dias a 56k coins no Console (PS), e o modelo dá 35% de chance de seguir subindo."
+    a: "Nélson Oliveira (86, Liga Portugal) lidera, com +66.7% em 7 dias a 22k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Eduardo Quaresma (88) acumula **+83.6% em 7 dias** a 56k coins.
+> 🔝 **Destaque:** Nélson Oliveira (86) acumula **+66.7% em 7 dias** a 22k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário do EA FC Ultimate Team para consoles PlayStation, a data de 19 de junho de 2026 marca um momento crucial para os investidores focados no mercado de jogadores portugueses. A análise da tendência de valorização nos últimos sete dias revela oportunidades distintas, variando desde ativos de baixo custo com alta volatilidade até cartas premium com fundamentos sólidos de apreciação. Para o investidor prudente, a chave não está apenas no aumento percentual imediato, mas na combinação entre o salto de 24 horas e a probabilidade estatística de continuação dessa alta, permitindo filtrar ruídos de mercado de tendências reais.
+No cenário do EA FC Ultimate Team para consoles PlayStation, a data de 19 de junho de 2026 marca um momento interessante para os investidores que buscam oportunidades com passaporte português. A análise de mercado baseada na tendência de valorização dos últimos sete dias revela movimentos significativos em várias categorias, exigindo uma leitura atenta para distinguir ruído de oportunidade real. O foco principal recai sobre jogadores que não apenas apresentaram alta de preço nas últimas 24 horas, mas que também carregam uma probabilidade estatística robusta de continuarem essa trajetória ascendente, oferecendo assim uma margem de segurança maior para entradas de capital.
 
-Dentre as opções de entrada mais acessíveis, João Carvalho se destaca como a aposta mais racional. Com uma valorização de 14.8% nas últimas 24 horas e um preço atual de 46k coins, o meio-campista da Liga Portugal apresenta a maior probabilidade de alta entre os analisados, chegando a impressionantes 93%. Esse indicador sugere uma demanda consistente e crescente, provavelmente impulsionada por sua utilidade em squads específicos ou promoções de evento, tornando-o um ativo de baixo risco relativo com potencial de retorno significativo para carteiras limitadas.
+Entre as opções de entrada mais acessíveis, Nélson Oliveira se destaca como uma escolha prudente. Com uma classificação de 86 e atuando na Liga Portugal, sua carta registrou um aumento de 3,7% em 24 horas, cotada atualmente em 22 mil coins. O fator determinante aqui não é apenas o ganho percentual modesto, mas sim a probabilidade de alta de 50%. Isso indica que há uma chance equilibrada, mas favorável, de que a tendência se mantenha, tornando-o um ativo de risco controlado para carteiras menores que buscam crescimento orgânico sem expor grandes quantias de mercado.
 
-Outro nome que merece atenção imediata no segmento de preço médio é Eduardo Quaresma. O extremo da Liga Portugal registrou um vigoroso aumento de 36.6% em apenas um dia, cotado a 56k coins. Embora a probabilidade de alta seja classificada como alta em apenas 35%, o momentum atual é forte. Para investidores com perfil mais agressivo, essa carta oferece a chance de capitalizar em uma correção rápida ou em um pico de demanda, desde que haja monitoramento constante, pois a alta probabilidade de reversão exige saída estratégica no momento certo.
+No outro extremo da faixa de preço, Paulo Futre apresenta um caso fascinante para investidores de maior capital. O meia lendário, classificado com 89 na LALIGA EA SPORTS, subiu 18,1% em 24 horas, atingindo o valor expressivo de 152 mil coins. Apesar do preço elevado, a probabilidade de alta de 50% sugere que a demanda por sua carta está se consolidando. Para quem possui liquidez, Futre representa uma aposta em ativos premium com tendência de valorização sustentada, embora exija monitoramento constante devido à volatilidade inerente a preços tão altos.
 
-No topo da cadeia de valor, João Félix permanece como uma das pedras angulares do investimento de alto risco e alto retorno. Mesmo com uma valorização modesta de 1.5% nas últimas 24 horas, a probabilidade de alta é exorbitante, chegando a 84%, enquanto sua cotação se mantém em 204k coins. Isso indica que o mercado confia na sustentação do preço, possivelmente devido à escassez de ofertas ou à sua presença central em squads de alta dificuldade. É uma carta de "compra e segure", ideal para quem busca preservação de capital com ganhos graduais e seguros.
+Já na faixa intermediária, João Carvalho oferece talvez a proporção risco-recompensa mais atrativa do momento. Com 84 de rating na Liga Portugal, sua carta disparou 11,7% em 24 horas, valendo 45 mil coins. O dado mais crítico é a probabilidade de alta de 93%, um indicador extremamente forte de que a valorização não é um acidente isolado, mas sim uma tendência estrutural de curto prazo. Essa alta probabilidade sugere que a carta pode estar se tornando item de construção de times específicos ou meta, justificando uma entrada agressiva antes de possíveis correções naturais.
 
-Já no meio do campo financeiro, Nélson Oliveira e Paulo Futre oferecem um equilíbrio interessante. Oliveira, a 22k coins, tem 50% de probabilidade de alta após subir 2.4%, enquanto Futre, a 135k coins, repete essa probabilidade de 50% com um aumento de 7.2%. Ambos parecem ser escolhas estáveis para quem deseja diversificar o portfólio sem expor todo o capital em ativos de extrema volatilidade como Quaresma ou de crescimento lento como Félix.
-
-Finalmente, cartas como Pizzi (19k, 16% de alta, 27% de probabilidade) e Andréia Jacinto (25k, 22% de alta, 8% de probabilidade) devem ser evitadas para investimento de longo prazo. Apesar dos números positivos imediatos, a baixa probabilidade de continuação da alta (especialmente os 8% de Jacinto) sugere que esses movimentos podem ser picos efêmeros causados por flutuações de curto prazo. Portanto, a estratégia recomendada para 19/06/2026 é priorizar João Carvalho pela segurança estatística e João Félix pela solidez de mercado, utilizando Quaresma apenas para operações de day trading com gestão de risco rigorosa.
+Outros nomes merecem menção, mas exigem cautela. Eduardo Quaresma (88, 56k coins) subiu 20,7%, mas com apenas 35% de probabilidade de alta, o que torna a entrada mais especulativa e dependente de eventos imediatos. Da mesma forma, Andréia Jacinto (88, 28k coins) e António Silva (87, 55k coins) apresentam altas de 11,4% e 36,2% respectivamente, mas com probabilidades de alta de apenas 8% e 5%. Esses baixos índices indicam que as altas recentes podem ser picos efêmeros, sugerindo que a melhor estratégia para esses ativos seria aguardar uma correção ou evitar compra imediata, focando-se nas oportunidades com maior segurança estatística, como Oliveira, Futre e, especialmente, Carvalho.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,30 +43,25 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Eduardo Quaresma | 88 | Liga Portugal | 56k coins | +36.6% | +83.6% | 35% |
-| Andreia Jacinto | 88 | Liga F | 25k coins | +22% | +78.6% | 8% |
-| Nélson Oliveira | 86 | Liga Portugal | 22k coins | +2.4% | +67.3% | 50% |
-| João Neves | 88 | Ligue 1 McDonald's | 160k coins | +14.3% | +60% | 38% |
-| João Félix | 86 | ROSHN Saudi League | 204k coins | +1.5% | +38.5% | 84% |
-| Pizzi | 85 | Liga Portugal | 19k coins | +16% | +26.1% | 27% |
-| António Silva | 87 | Liga Portugal | 58k coins | +29.3% | +17.1% | 5% |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 135k coins | +7.2% | +12.1% | 50% |
-| João Carvalho | 84 | Liga Portugal | 46k coins | +14.8% | +10.7% | 93% |
-| Francisco Conceição | 84 | Serie A TIM | 47k coins | +5% | +7.4% | 27% |
-| Nuno Tavares | 91 | Serie A TIM | 37k coins | +11.1% | +5.3% | 95% |
+| Nélson Oliveira | 86 | Liga Portugal | 22k coins | +3.7% | +66.7% | 50% |
+| Eduardo Quaresma | 88 | Liga Portugal | 56k coins | +20.7% | +62.3% | 35% |
+| Andreia Jacinto | 88 | Liga F | 28k coins | +11.4% | +60.7% | 8% |
+| António Silva | 87 | Liga Portugal | 55k coins | +36.2% | +25.3% | 5% |
+| Paulo Futre | 89 | LALIGA EA SPORTS | 152k coins | +18.1% | +13.6% | 50% |
+| João Carvalho | 84 | Liga Portugal | 45k coins | +11.7% | +11% | 93% |
 
 
 ## 📈 Análise dos destaques
 
-- **Eduardo Quaresma (88)** — 56k coins, **+83.6% em 7 dias** (+36.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nélson Oliveira (86)** — 22k coins, **+66.7% em 7 dias** (+3.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Andreia Jacinto (88)** — 25k coins, **+78.6% em 7 dias** (+22% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Eduardo Quaresma (88)** — 56k coins, **+62.3% em 7 dias** (+20.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nélson Oliveira (86)** — 22k coins, **+67.3% em 7 dias** (+2.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andreia Jacinto (88)** — 28k coins, **+60.7% em 7 dias** (+11.4% em 24h). Preço +41% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **João Neves (88)** — 160k coins, **+60% em 7 dias** (+14.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **António Silva (87)** — 55k coins, **+25.3% em 7 dias** (+36.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **João Félix (86)** — 204k coins, **+38.5% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+0%). 🔮 O modelo reforça a tese: **84% de chance de seguir subindo**.
+- **Paulo Futre (89)** — 152k coins, **+13.6% em 7 dias** (+18.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +79,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Eduardo Quaresma (88, Liga Portugal) lidera, com +83.6% em 7 dias a 56k coins no Console (PS), e o modelo dá 35% de chance de seguir subindo.
+Nélson Oliveira (86, Liga Portugal) lidera, com +66.7% em 7 dias a 22k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
