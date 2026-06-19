@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:38:25.000Z
+pubDatetime: 2026-06-19T01:24:49.000Z
 title: "Portugueses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Paulo Futre (88, LALIGA EA SPORTS), com +51.9% em 24h, a 28k coins no PC."
+    a: "João Moutinho (88, Liga Portugal), com +41.7% em 24h, a 85k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nuno Tavares (87), -42.9% em 24h, a 48k coins."
+    a: "Trincão (86), -43.2% em 24h, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 28 cartas em alta contra 24 em queda (média 2.92%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 26 cartas em alta contra 27 em queda (média 0.63%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de cartas portuguesas no EA FC Ultimate Team apresenta um cenário dominado por um sentimento claramente comprador, onde a liquidez parece ter favorecido os ativos de menor e médio valor, resultando em uma dinâmica de 28 altas contra apenas 24 quedas nas últimas 24 horas. Essa disparidade numérica indica que o capital dos traders está sendo direcionado para oportunidades de rápido retorno, impulsionando uma média de valorização de 2.92% no segmento, o que sugere uma fase de acumulação e especulação ativa antes de possíveis eventos maiores. A volatilidade observada não é aleatória, mas sim uma resposta estruturada à oferta e demanda, onde cartas com probabilidade de alta significativa estão sendo rapidamente ajustadas pelos algoritmos de precificação. Para o trader experiente, este é o momento ideal para identificar ineficiências de preço, especialmente em ativos que ainda não atingiram seu pico de valuation, aproveitando a euforia do mercado para entradas estratégicas. O tom do dia é de oportunidade, mas exige disciplina rigorosa para não cair em armadilhas de carteis ou sobreavaliações momentâneas que podem reverter rapidamente.
+O mercado de jogadores portugueses em 18 de junho de 2026 apresenta um cenário de extrema neutralidade, caracterizado por um equilíbrio quase perfeito entre as forças de compra e venda, com 26 altas e 27 quedas registradas nas últimas 24 horas, resultando em uma variação média de apenas 0.63%. Essa lateralidade indica que os traders estão hesitantes, aguardando clareza sobre promoções futuras ou ajustes de meta-game, o que cria um ambiente de volatilidade controlada onde oportunidades pontuais surgem rapidamente, mas sem direcionalidade clara para o portfólio como um todo. O sentimento geral é de cautela, pois a probabilidade de alta se distribui de forma heterogênea entre os ativos, exigindo uma análise granular de cada carta para evitar armadilhas de valor percebido. Traders experientes devem focar na rotação de capital em ativos de médio porte, onde a liquidez permite entradas e saídas rápidas sem o impacto excessivo de slippage visto em cards de alto valor. A ausência de um catalisador macro forte, como um evento de campeonato ou nova atualização, mantém o mercado em um estado de espera, onde apenas movimentos de especulação interna e ajustes de inventário movem os preços significativamente.
 
-> 🟢 **Maior alta:** Paulo Futre (88) **+51.9%** · 🔴 **Maior baixa:** Nuno Tavares (87) **-42.9%**
+> 🟢 **Maior alta:** João Moutinho (88) **+41.7%** · 🔴 **Maior baixa:** Trincão (86) **-43.2%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 28k coins | +51.9% | +31.5% |
-| Bruno Fernandes | 93 | Premier League | 449k coins | +42.9% | +42.4% |
-| João Moutinho | 88 | Liga Portugal | 85k coins | +41.7% | +51.8% |
-| Francisco Conceição | 84 | Serie A TIM | 46k coins | +36.9% | +7.2% |
-| João Félix | 93 | ROSHN Saudi League | 728k coins | +34% | +32.8% |
+| João Moutinho | 88 | Liga Portugal | 85k coins | +41.7% | +41.7% |
+| Pedro Neto | 88 | Premier League | 101k coins | +35.4% | -12.6% |
+| Bruno Fernandes | 93 | Premier League | 400k coins | +32.9% | +35.1% |
 | Ricardo Horta | 90 | Liga Portugal | 45k coins | +26.8% | +68.2% |
-| Luís Figo | 90 | Icons | 44k coins | +19% | +23.8% |
+| Bruno Fernandes | 88 | Premier League | 55k coins | +26.3% | +42.9% |
+| Eusébio | 91 | Icons | 792k coins | +25.7% | +21.8% |
+| Francisco Conceição | 84 | Serie A TIM | 50k coins | +20.6% | -5.6% |
+| João Carvalho | 84 | Liga Portugal | 47k coins | +18.9% | +24.3% |
 | Francisco Moura | 90 | Liga Portugal | 40k coins | +17.6% | +77.8% |
-| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +15.2% | +28.1% |
-| Eusébio | 91 | Icons | 792k coins | +14.1% | +14.8% |
+| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +14.3% | +27.3% |
 
 
-A liderança absoluta das altas pertence a Paulo Futre, cuja carta de 88 da LaLiga EA Sports disparou impressionantes 51.9% em apenas 24 horas, estabelecendo um novo preço de 28 mil moedas, um movimento impulsionado por uma probabilidade de alta de 33% que atraiu compradores agressivos buscando lucros rápidos em ativos acessíveis. Em contrapartida, no topo da tabela de valor, Bruno Fernandes sofreu uma valorização robusta de 42.9%, atingindo um patamar de 449 mil moedas para sua versão de 93 da Premier League, refletindo a constante demanda por elites de ataque que servem como reserva de valor em times competitivos. João Moutinho, com 88 de overall na Liga Portugal, apresentou um dos movimentos mais técnicos do dia, subindo 41.7% para 85 mil moedas, com uma probabilidade de alta de 75% que sugere forte sustentação no preço devido à escassez relativa de sua versão específica no mercado. Francisco Conceição também chamou a atenção, com sua carta de 84 da Serie A TIM valorizando 36.9% para 46 mil moedas, aproveitando uma probabilidade de alta de 40% que indica um ajuste de preço necessário após períodos de subvalorização. João Félix, apesar de ser um ativo de alto valor com 93 overall na Roshn Saudi League, acompanhou a tendência de alta com um aumento de 34% para 728 mil moedas, demonstrando que mesmo os ativos premium não estão imunes à euforia do mercado quando a probabilidade de alta atinge 43%.
+A liderança das altas é dominada por João Moutinho, cujo card de 88 na Liga Portugal disparou 41.7% em 24 horas, atingindo a marca de 85k coins, impulsionado por uma probabilidade de alta de 75% que sugere forte acumulação institucional ou demanda orgânica para times temáticos. Logo atrás, Pedro Neto, com 88 de overall na Premier League, subiu 35.4% para 101k coins, embora sua probabilidade de alta de 40% indique que o movimento pode ser mais volátil e sujeito a correções rápidas se a compra não se sustentar. Bruno Fernandes, em sua versão de 93 overall, registrou um aumento robusto de 32.9% para 400k coins, mas a probabilidade de alta de apenas 24% alerta para a possibilidade de um topo local, típico de cards premium onde grandes investidores lucram em curto prazo. Ricardo Horta, com 90 overall, ganhou 26.8% para 45k coins, oferecendo uma exposição mais barata ao mercado português com uma probabilidade de alta moderada de 28%, ideal para traders com menos capital. Outro Bruno Fernandes, desta vez com 88 overall, subiu 26.3% para 55k coins, enquanto Eusébio, o ícone com 91 overall, encareceu 25.7% para 792k coins, movendo-se por uma probabilidade de alta de 32% que reflete a demanda constante por cards de status e alta raridade em times de exibição.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 87 | Serie A TIM | 48k coins | -42.9% | -40.9% |
-| Trincão | 86 | Liga Portugal | 22k coins | -39.6% | -15.9% |
-| Rafa | 84 | Trendyol Süper Lig | 34k coins | -28.9% | -28.9% |
-| Youssef Chermiti | 84 | Scottish Premiership | 36k coins | -24.1% | +6.5% |
+| Trincão | 86 | Liga Portugal | 20k coins | -43.2% | -21.5% |
+| Nuno Tavares | 87 | Serie A TIM | 47k coins | -41.8% | -42.8% |
+| Youssef Chermiti | 84 | Scottish Premiership | 32k coins | -31.8% | -16.9% |
+| Rafa | 84 | Trendyol Süper Lig | 34k coins | -30.2% | -29.8% |
+| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | -28.7% | -23.7% |
+| Cristiano Ronaldo | 88 | ROSHN Saudi League | 1.20M coins | -25% | +29% |
 | Ricardo Carvalho | 89 | Liga Portugal | 80k coins | -23.8% | +42.9% |
-| Rodrigo Mora | 88 | Liga Portugal | 34k coins | -20.3% | -7.4% |
-| Cristiano Ronaldo | 88 | ROSHN Saudi League | 1.32M coins | -17.5% | +41.9% |
-| Rui Costa | 88 | Serie A TIM | 35k coins | -17.2% | +37.3% |
-| Rafael Leão | 87 | Serie A TIM | 810k coins | -15.5% | +30.6% |
-| Rodrigo Mora | 87 | Liga Portugal | 22k coins | -13.5% | -35.7% |
+| Rui Costa | 88 | Serie A TIM | 35k coins | -20.9% | +37.3% |
+| Rodrigo Mora | 88 | Liga Portugal | 33k coins | -16.2% | -9.5% |
+| Vitinha | 91 | Ligue 1 McDonald's | 801k coins | -14.3% | -19.9% |
 
 
-Por outro lado, o lado vendedor se manifestou com força em Nuno Tavares, cuja carta de 87 da Serie A TIM despencou 42.9% em 24 horas, estabelecendo um novo piso de 48 mil moedas, um movimento que pode estar relacionado a uma saturação de oferta ou à perda de relevância em pacotes específicos, apesar de manter uma probabilidade de alta de 26%. Trincão, com 86 overall na Liga Portugal, registrou uma queda acentuada de 39.6% para 22 mil moedas, um sinal de alerta para traders que seguram esse ativo, pois a probabilidade de alta de 39% pode ser insuficiente para reverter a tendência de baixa imediata. Rafa, da Trendyol Süper Lig com 84 overall, caiu 28.9% para 34 mil moedas, um movimento que parece ser uma correção técnica após ganhos anteriores, já que a probabilidade de alta de 53% indica que o ativo pode estar próximo de um suporte temporário. Youssef Chermiti, com 84 overall na Scottish Premiership, também sofreu uma desvalorização de 24.1% para 36 mil moedas, refletindo a instabilidade de jovens talentos que flutuam conforme a percepção de seu potencial de crescimento no mercado de trading. Ricardo Carvalho, uma defesa de 89 overall na Liga Portugal, perdeu 23.8% de seu valor, caindo para 80 mil moedas, um movimento preocupante dado que a probabilidade de alta é de 69%, sugerindo que a queda pode ser uma oportunidade de compra para traders de longo prazo que acreditam na correção de preço.
+As quedas mais acentuadas revelam uma correção severa em cards de médio overall, liderada por Trincão, que despencou 43.2% para 20k coins, apesar de manter uma probabilidade de alta de 39%, sugerindo que o preço atual pode ser um fundo técnico de interesse para compra agressiva. Nuno Tavares, com 87 overall, sofreu uma queda de 41.8% para 47k coins, com uma probabilidade de alta baixa de 26%, indicando fraqueza estrutural na demanda e riscos elevados para quem tentar pegar a faca caindo sem sinais de reversão. Youssef Chermiti e Rafa, ambos com 84 overall, caíram 31.8% e 30.2% respectivamente, atingindo 32k e 34k coins, mas suas altas probabilidades de alta de 53% apontam para uma possível sobreoferta momentânea seguida de recuperação rápida. Rúben Neves, com 87 overall, perdeu 28.7% para 22k coins, com uma probabilidade de alta de 44% que sugere equilíbrio iminente. Cristiano Ronaldo, em seu card de 88, caiu 25% para 1.20M coins, mas sua probabilidade de alta minúscula de 5% indica que o ativo está em tendência de baixa estrutural ou saturação de oferta, devendo ser evitado. Ricardo Carvalho, com 89 overall, desceu 23.8% para 80k coins, mas com uma probabilidade de alta de 69%, o que configura uma oportunidade de compra de valor significativa.
 
 
 ## 🎯 Conclusão do dia
-A estratégia do dia deve focar em comprar ativos de médio valor com alta probabilidade de valorização, como João Moutinho e Francisco Conceição, que apresentam fundos técnicos sólidos e momentum positivo, evitando por enquanto ativos em queda livre como Nuno Tavares e Trincão, que ainda não mostraram sinais claros de reversão. É aconselhável segurar cartas de elite como Bruno Fernandes e João Félix, que demonstram resiliência e capacidade de valorização mesmo em mercados voláteis, utilizando-as como reserva de valor em portfólios mais conservadores. Traders agressivos podem considerar a compra de Ricardo Carvalho e Youssef Chermiti, que, apesar das quedas recentes, possuem probabilidades de alta significativas (69% e 53%, respectivamente), sugerindo que os preços atuais podem ser oportunidades de entrada antes de uma correção técnica para cima. O timing é crucial: entradas devem ser realizadas no início do ciclo de mercado, quando a liquidez é maior, e saídas devem ser programadas para momentos de pico de demanda, aproveitando a euforia do sentimento comprador. Evite operar com alavancagem excessiva em ativos de alta volatilidade como Paulo Futre, cujos movimentos rápidos podem resultar em perdas significativas se não forem acompanhados de rigorosa gestão de risco.
+A estratégia do dia deve focar na compra seletiva de ativos com alta probabilidade de recuperação e queda recente acentuada, como Ricardo Carvalho e Youssef Chermiti, aproveitando o pânico de venda para entrar em preços descontados. Evite expor capital pesado em cards como Cristiano Ronaldo e Nuno Tavares, cujas probabilidades de alta baixas e quedas expressivas sugerem continuidade da desvalorização ou falta de liquidez de compra. Segure posições em João Moutinho e Bruno Fernandes (93) apenas para lucros rápidos, pois as probabilidades de alta variam drasticamente, exigindo monitoramento constante para venda no topo. Considere rotacionar capital de cards de alta valorização imediata, como João Moutinho, para ativos subvalorizados como Francisco Conceição, que subiu 20.6% com 40% de chance de alta, oferecendo melhor risco-retorno. O timing ideal é agora, enquanto o mercado está em equilíbrio, permitindo entradas sem pressão de FOMO excessiva, mas com a disciplina de estabelecer stops de perda claros devido à volatilidade inerente de cards com alta variação percentual.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -77,13 +77,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Paulo Futre (88, LALIGA EA SPORTS), com +51.9% em 24h, a 28k coins no PC.
+João Moutinho (88, Liga Portugal), com +41.7% em 24h, a 85k coins no PC.
 
 **E a maior queda do dia?**  
-Nuno Tavares (87), -42.9% em 24h, a 48k coins.
+Trincão (86), -43.2% em 24h, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 28 cartas em alta contra 24 em queda (média 2.92%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 26 cartas em alta contra 27 em queda (média 0.63%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:38:47.000Z
+pubDatetime: 2026-06-19T01:25:13.000Z
 title: "Melhores investimentos em Portugueses no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -27,15 +27,17 @@ Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pi
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário do EA FC Ultimate Team para PC, datado de 18 de junho de 2026, a análise de mercado revela uma movimentação significativa entre jogadores portugueses, com oportunidades claras de investimento baseadas na tendência de valorização dos últimos sete dias. Ao observar o comportamento das cartas, nota-se que o mercado está reagindo a fatores específicos de escassez e demanda, criando um ambiente propício para quem busca lucros rápidos ou consolidados. A chave para identificar as melhores entradas reside na combinação entre o percentual de alta nas últimas 24 horas e a probabilidade estatística de continuação dessa tendência, elementos que definem o risco e o potencial retorno de cada ativo na bolsa virtual.
+No cenário de EA FC Ultimate Team para PC, datado de 18 de junho de 2026, a análise das tendências de mercado revela oportunidades claras para investidores focados em jogadores portugueses. Ao observar as variações de preço nas últimas 24 horas, identifica-se um padrão interessante de valorização em diferentes faixas de preço, permitindo estratégias diversificadas. A chave para o sucesso neste momento reside na seleção de cartas que apresentam não apenas um aumento imediato no valor, mas também uma probabilidade estatística elevada de continuidade dessa alta, garantindo assim a segurança e a rentabilidade do capital investido.
 
-Entre as opções de menor custo, Francisco Moura, da Liga Portugal, destaca-se com uma impressionante alta de 17,6% em apenas 24 horas, posicionando-se a 40 mil coins. Com uma probabilidade de alta de 23%, esta carta oferece um equilíbrio interessante entre risco moderado e ganho potencial, sendo uma entrada acessível para portfólios diversificados. Paralelamente, Cláudio Braga, atuando na Scottish Premiership, apresenta uma valorização de 15,2% nas últimas 24 horas a 28 mil coins. Apesar de ser uma carta de rating 87, sua probabilidade de alta de 38% sugere uma sustentabilidade maior na tendência ascendente, tornando-o um candidato sólido para quem prefere evitar os preços mais elevados do mercado.
+Entre as opções de baixo custo, Francisco Moura destaca-se como uma entrada atrativa. Com uma avaliação de 90 e atuando na Liga Portugal, a carta registrou um impressionante aumento de 17,6% em apenas 24 horas, situando-se atualmente a 40 mil moedas. O que torna esta carta particularmente interessante é a sua probabilidade de alta de 23%, indicando um movimento de mercado sólido. Para investidores com orçamentos mais apertados, Cláudio Braga, com 87 de rating e da Scottish Premiership, oferece outra alternativa viável. Sua valorização de 14,3% nas últimas 24 horas, somada a uma probabilidade de alta de 38% e um preço acessível de 28 mil moedas, configura um perfil de risco-benefício equilibrado para quem deseja exposição ao mercado sem comprometer grandes somas.
 
-Ricardo Horta também chama a atenção no cenário de médio investimento. O atacante da Liga Portugal registrou uma alta de 26,8% em 24 horas, com preço atual de 45 mil coins. Com uma probabilidade de alta de 28%, Horta demonstra força de mercado consistente, possivelmente impulsionado por pacotes específicos ou demandas de SQUADs. Já João Carvalho, com 84 de rating na Liga Portugal, subiu 13,1% em 24 horas e está cotado a 48 mil coins. Sua probabilidade de alta de 33% indica uma tendência estável, ideal para investidores que buscam segurança em ativos que já acumularam valorização recente sem oscilações bruscas.
+Para quem busca oportunidades em meio campo, Bruno Fernandes e Ricardo Horta apresentam números robustos. Bruno Fernandes, com 88 de rating na Premier League, subiu 26,3% em 24 horas e está cotado a 55 mil moedas, com uma probabilidade de alta de 29%. Paralelamente, Ricardo Horta, também com 90 de rating na Liga Portugal, registrou alta de 26,8% em 24 horas, valendo 45 mil moedas e possuindo probabilidade de alta de 28%. Ambas as cartas demonstram forte momentum, sugerindo que a demanda por jogadores portugueses de elite tem se intensificado, tornando-as candidatas naturais para aquisições de curto a médio prazo.
 
-No segmento de alto valor, João Neves emerge como uma das apostas mais seguras. O meia da Ligue 1 McDonald's, com rating 88, registrou 9,7% de alta em 24 horas e está a 215 mil coins. O que torna Neves excepcional é sua probabilidade de alta de 41%, a maior entre as cartas de elite listadas, sugerindo uma demanda estrutural forte no mercado. Luís Figo, o Ícone com 90 de rating, também merece destaque. Com 19% de alta em 24 horas e preço de 44 mil coins, Figo possui a maior probabilidade de alta geral da lista (46%), o que é incomum para cartas de ícone, indicando uma liquidez e popularidade excepcionais no momento.
+No segmento de alto valor, João Neves emerge como uma das apostas mais seguras, apesar do seu preço elevado. A versão de 88 rating, da Ligue 1 McDonald's, tem apenas 1% de alta em 24 horas, mas compensa com uma probabilidade de alta de 41% e um preço de 198 mil moedas. Esta discrepância entre a variação recente e a probabilidade futura sugere um acumulação silenciosa de valor. Da mesma forma, a versão de 86 rating de João Neves, também da Ligue 1 McDonald's, apresenta 4% de alta em 24 horas, probabilidade de alta de 54% e preço de 130 mil moedas. A consistência entre as duas versões indica uma valorização estrutural da carreira do jogador no mercado virtual.
 
-Para investidores dispostos a arriscar em ativos de nicho ou feminino, Andreia Jacinto e Eduardo Quaresma apresentam probabilidades de alta muito elevadas. Jacinto, da Liga F, subiu 1,8% a 29 mil coins, mas com probabilidade de alta de 58%. Já Eduardo Quaresma, com 88 de rating, cresceu 7,5% a 43 mil coins, com probabilidade de 59%. Finalmente, a carta de Quaresma (89), a 239 mil coins, embora tenha subido apenas 1,7%, possui a probabilidade de alta mais alta da lista (61%), sugerindo que pode estar no início de uma tendência de longo prazo, apesar da volatilidade recente menor. A escolha final deve considerar a tolerância ao risco e o capital disponível.
+Outras cartas notáveis incluem Eduardo Quaresma e Andréia Jacinto. Quaresma, com 88 de rating na Liga Portugal, subiu 8,1% em 24 horas, está a 44 mil moedas e possui a segunda maior probabilidade de alta do grupo analisado, com 59%. Já Andréia Jacinto, da Liga F com 88 de rating, registrou 2,7% de alta em 24 horas, custa 29 mil moedas e lidera com uma probabilidade de alta de 58%. Essas altas probabilidades sugerem que o mercado está prestando atenção crescente a esses nomes, possivelmente devido a eventos in-game ou performance real que ainda não se refletiu totalmente nos preços atuais.
+
+Finalmente, não se pode ignorar a lenda Luís Figo. Com 90 de rating na categoria Icons, Figo registrou 10% de alta em 24 horas, está a 45 mil moedas e possui uma probabilidade de alta de 46%. A acessibilidade relativa de uma carta Icona nesta faixa de preço, combinada com uma probabilidade de valorização superior à média, a torna uma peça fundamental para portfólios diversificados. Em suma, a combinação de dados de variação recente e probabilidade futura aponta para uma janela de oportunidade favorável para investidores em jogadores portugueses nesta data específica.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,16 +47,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Francisco Moura | 90 | Liga Portugal | 40k coins | +17.6% | +77.8% | 23% |
 | Ricardo Horta | 90 | Liga Portugal | 45k coins | +26.8% | +68.2% | 28% |
-| João Neves | 88 | Ligue 1 McDonald's | 215k coins | +9.7% | +60.4% | 41% |
-| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +15.2% | +28.1% | 38% |
-| João Carvalho | 84 | Liga Portugal | 48k coins | +13.1% | +25% | 33% |
-| Luís Figo | 90 | Icons | 44k coins | +19% | +23.8% | 46% |
-| Andreia Jacinto | 88 | Liga F | 29k coins | +1.8% | +23.4% | 58% |
-| Eduardo Quaresma | 88 | Liga Portugal | 43k coins | +7.5% | +14.7% | 59% |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 39k coins | +1.3% | +12.9% | 39% |
-| Quaresma | 89 | Liga Portugal | 239k coins | +1.7% | +10.9% | 61% |
+| João Neves | 88 | Ligue 1 McDonald's | 198k coins | +1% | +48.9% | 41% |
+| Bruno Fernandes | 88 | Premier League | 55k coins | +26.3% | +42.9% | 29% |
+| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +14.3% | +27.3% | 38% |
+| Andreia Jacinto | 88 | Liga F | 29k coins | +2.7% | +24.7% | 58% |
+| João Carvalho | 84 | Liga Portugal | 47k coins | +18.9% | +24.3% | 33% |
+| Eduardo Quaresma | 88 | Liga Portugal | 44k coins | +8.1% | +14.6% | 59% |
+| Luís Figo | 90 | Icons | 45k coins | +10% | +11.5% | 46% |
 | João Neves | 86 | Ligue 1 McDonald's | 130k coins | +4% | +8.3% | 54% |
-| Francisco Conceição | 84 | Serie A TIM | 46k coins | +36.9% | +7.2% | 40% |
 
 
 ## 📈 Análise dos destaques
@@ -63,11 +63,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Ricardo Horta (90)** — 45k coins, **+68.2% em 7 dias** (+26.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **João Neves (88)** — 215k coins, **+60.4% em 7 dias** (+9.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **João Neves (88)** — 198k coins, **+48.9% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Cláudio Braga (87)** — 28k coins, **+28.1% em 7 dias** (+15.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bruno Fernandes (88)** — 55k coins, **+42.9% em 7 dias** (+26.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **João Carvalho (84)** — 48k coins, **+25% em 7 dias** (+13.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cláudio Braga (87)** — 28k coins, **+27.3% em 7 dias** (+14.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
