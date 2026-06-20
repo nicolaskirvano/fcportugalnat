@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:24:34.000Z
+pubDatetime: 2026-06-20T01:24:07.000Z
 title: "Melhores investimentos em Portugueses no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Nélson Oliveira (86, Liga Portugal) lidera, com +66.7% em 7 dias a 22k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
+    a: "João Moutinho (88, Liga Portugal) lidera, com +63.5% em 7 dias a 110k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Nélson Oliveira (86) acumula **+66.7% em 7 dias** a 22k coins.
+> 🔝 **Destaque:** João Moutinho (88) acumula **+63.5% em 7 dias** a 110k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário do EA FC Ultimate Team para consoles PlayStation, a data de 19 de junho de 2026 marca um momento interessante para os investidores que buscam oportunidades com passaporte português. A análise de mercado baseada na tendência de valorização dos últimos sete dias revela movimentos significativos em várias categorias, exigindo uma leitura atenta para distinguir ruído de oportunidade real. O foco principal recai sobre jogadores que não apenas apresentaram alta de preço nas últimas 24 horas, mas que também carregam uma probabilidade estatística robusta de continuarem essa trajetória ascendente, oferecendo assim uma margem de segurança maior para entradas de capital.
+No cenário atual do EA FC Ultimate Team, especificamente para a plataforma PlayStation, a data de 19 de junho de 2026 marca um momento crucial para os investidores que buscam oportunidades sólidas no mercado de jogadores portugueses. A análise das tendências de valorização dos últimos sete dias revela um padrão interessante de subvalorização em certas categorias, oferecendo janelas de entrada estratégicas para quem deseja diversificar seu portfólio de moedas. O foco principal deve ser direcionado para cartas que apresentam não apenas um aumento imediato no preço, mas também uma probabilidade estatística robusta de continuidade nessa trajetória de alta, garantindo assim uma margem de segurança maior para o capital investido.
 
-Entre as opções de entrada mais acessíveis, Nélson Oliveira se destaca como uma escolha prudente. Com uma classificação de 86 e atuando na Liga Portugal, sua carta registrou um aumento de 3,7% em 24 horas, cotada atualmente em 22 mil coins. O fator determinante aqui não é apenas o ganho percentual modesto, mas sim a probabilidade de alta de 50%. Isso indica que há uma chance equilibrada, mas favorável, de que a tendência se mantenha, tornando-o um ativo de risco controlado para carteiras menores que buscam crescimento orgânico sem expor grandes quantias de mercado.
+Dentre os destaques absolutos, Rúben Neves se impõe como a opção mais segura e recomendada para entrada imediata. Com uma classificação de 87 na Roshn Saudi League, a carta registrou um impressionante aumento de 5,9% nas últimas 24 horas, estabelecendo seu preço atual em 27.000 coins. O que torna essa carta particularmente atrativa não é apenas o ganho recente, mas sim a probabilidade de alta de 95%, um indicador extremamente raro e positivo que sugere uma forte demanda sustentada pelo mercado. Para investidores cautelosos, Neves representa o equilíbrio ideal entre risco mínimo e retorno previsível.
 
-No outro extremo da faixa de preço, Paulo Futre apresenta um caso fascinante para investidores de maior capital. O meia lendário, classificado com 89 na LALIGA EA SPORTS, subiu 18,1% em 24 horas, atingindo o valor expressivo de 152 mil coins. Apesar do preço elevado, a probabilidade de alta de 50% sugere que a demanda por sua carta está se consolidando. Para quem possui liquidez, Futre representa uma aposta em ativos premium com tendência de valorização sustentada, embora exija monitoramento constante devido à volatilidade inerente a preços tão altos.
+Em segundo plano, mas com potencial de explosão, destaca-se Pizzi. O meia de 85 pontos da Liga Portugal apresentou o maior percentual de alta em 24 horas entre os analisados, saltando 14,3% e posicionando-se a apenas 20.000 coins. Com uma probabilidade de alta de 27%, Pizzi oferece uma oportunidade de "compre baixo" para quem acredita na continuidade da tendência. O baixo preço de entrada reduz o risco financeiro inicial, enquanto o volume significativo de alta recente indica que a comunidade do Ultimate Team está redescobrindo o valor utilitário deste jogador em times específicos ou metas de liga.
 
-Já na faixa intermediária, João Carvalho oferece talvez a proporção risco-recompensa mais atrativa do momento. Com 84 de rating na Liga Portugal, sua carta disparou 11,7% em 24 horas, valendo 45 mil coins. O dado mais crítico é a probabilidade de alta de 93%, um indicador extremamente forte de que a valorização não é um acidente isolado, mas sim uma tendência estrutural de curto prazo. Essa alta probabilidade sugere que a carta pode estar se tornando item de construção de times específicos ou meta, justificando uma entrada agressiva antes de possíveis correções naturais.
+João Carvalho também merece atenção plena, especialmente para quem busca ativos em faixas de preço intermediárias. Com 84 de rating na Liga Portugal, sua carta subiu 3,3% em 24 horas e está cotada a 47.000 coins. O fator decisivo aqui é a probabilidade de alta de 93%, que se aproxima da segurança oferecida por Neves. Essa consistência sugere que Carvalho está se tornando uma peça fixa em meta squads de ligas nacionais, impulsionando sua demanda de forma constante e previsível, o que o torna uma aposta sólida para ganhos a médio prazo.
 
-Outros nomes merecem menção, mas exigem cautela. Eduardo Quaresma (88, 56k coins) subiu 20,7%, mas com apenas 35% de probabilidade de alta, o que torna a entrada mais especulativa e dependente de eventos imediatos. Da mesma forma, Andréia Jacinto (88, 28k coins) e António Silva (87, 55k coins) apresentam altas de 11,4% e 36,2% respectivamente, mas com probabilidades de alta de apenas 8% e 5%. Esses baixos índices indicam que as altas recentes podem ser picos efêmeros, sugerindo que a melhor estratégia para esses ativos seria aguardar uma correção ou evitar compra imediata, focando-se nas oportunidades com maior segurança estatística, como Oliveira, Futre e, especialmente, Carvalho.
+Para os investidores dispostos a assumir riscos maiores em busca de retornos proporcionais, Ivan Cavaleiro e João Moutinho oferecem perfis distintos. Cavaleiro, com 85 de rating, subiu 3,9% e custa 40.000 coins, mantendo uma probabilidade de alta de 5%. Já Moutinho, com 88 de rating, registrou 2,8% de alta e está a 110.000 coins, também com 5% de probabilidade de alta. Ambos operam em uma zona de incerteza moderada, onde a alta probabilidade é baixa, mas o potencial de valorização existe caso eventos de jogo ou atualizações de meta favoreçam suas posições ou nacionalidades específicas.
+
+Em conclusão, a estratégia para 19 de junho de 2026 deve priorizar a segurança estatística oferecida por Rúben Neves e João Carvalho, cujas altas probabilidades de valorização minimizam o risco de perdas. Pizzi serve como uma aposta agressiva de baixo custo, enquanto Cavaleiro e Moutinho devem ser monitorados de perto, mas com cautela, devido às baixas probabilidades de continuidade da alta. O mercado português, embora nichado, apresenta nestas datas oportunidades claras de arbitragem para quem sabe interpretar os dados de tendência em conjunto com as probabilidades de valorização.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +45,24 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nélson Oliveira | 86 | Liga Portugal | 22k coins | +3.7% | +66.7% | 50% |
-| Eduardo Quaresma | 88 | Liga Portugal | 56k coins | +20.7% | +62.3% | 35% |
-| Andreia Jacinto | 88 | Liga F | 28k coins | +11.4% | +60.7% | 8% |
-| António Silva | 87 | Liga Portugal | 55k coins | +36.2% | +25.3% | 5% |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 152k coins | +18.1% | +13.6% | 50% |
-| João Carvalho | 84 | Liga Portugal | 45k coins | +11.7% | +11% | 93% |
+| João Moutinho | 88 | Liga Portugal | 110k coins | +2.8% | +63.5% | 5% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 40k coins | +3.9% | +52.3% | 5% |
+| Pizzi | 85 | Liga Portugal | 20k coins | +14.3% | +27.5% | 27% |
+| Rúben Neves | 87 | ROSHN Saudi League | 27k coins | +5.9% | +22.7% | 95% |
+| João Carvalho | 84 | Liga Portugal | 47k coins | +3.3% | +14.6% | 93% |
 
 
 ## 📈 Análise dos destaques
 
-- **Nélson Oliveira (86)** — 22k coins, **+66.7% em 7 dias** (+3.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **João Moutinho (88)** — 110k coins, **+63.5% em 7 dias** (+2.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Eduardo Quaresma (88)** — 56k coins, **+62.3% em 7 dias** (+20.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ivan Cavaleiro (85)** — 40k coins, **+52.3% em 7 dias** (+3.9% em 24h). Preço +97% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Andreia Jacinto (88)** — 28k coins, **+60.7% em 7 dias** (+11.4% em 24h). Preço +41% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Pizzi (85)** — 20k coins, **+27.5% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+1%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **António Silva (87)** — 55k coins, **+25.3% em 7 dias** (+36.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Rúben Neves (87)** — 27k coins, **+22.7% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (+3%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Paulo Futre (89)** — 152k coins, **+13.6% em 7 dias** (+18.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **João Carvalho (84)** — 47k coins, **+14.6% em 7 dias** (+3.3% em 24h). Preço em linha com a média de 7 dias (+7%). 🔮 O modelo reforça a tese: **93% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -79,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Nélson Oliveira (86, Liga Portugal) lidera, com +66.7% em 7 dias a 22k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
+João Moutinho (88, Liga Portugal) lidera, com +63.5% em 7 dias a 110k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
