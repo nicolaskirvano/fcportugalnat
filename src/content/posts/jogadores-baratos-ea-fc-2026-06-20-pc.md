@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:24:52.000Z
+pubDatetime: 2026-06-20T22:24:59.000Z
 title: "Jogadores baratos de Portugueses no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -29.5% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -10% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | +10.5% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -36.4% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +6.5% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -6.7% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 3k coins | +57.9% |
 
 
 ## 📈 Destaques
@@ -41,9 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins**
 
-- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins**
+- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

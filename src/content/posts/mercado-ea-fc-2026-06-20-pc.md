@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:24:28.000Z
+pubDatetime: 2026-06-20T22:24:56.000Z
 title: "Portugueses no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Nuno Mendes (97, Ligue 1 McDonald's), com +48.4% em 24h, a 3.10M coins no PC."
+    a: "Gonçalo Guedes (89, LALIGA EA SPORTS), com +58% em 24h, a 32k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nuno Tavares (87), -46.8% em 24h, a 52k coins."
+    a: "Nuno Tavares (91), -44.2% em 24h, a 34k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 31 em queda (média 1.4%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 33 em queda (média 1.49%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de jogadores portugueses neste dia 20 de junho de 2026 exibe um comportamento marcadamente lateral, caracterizado pela ausência de uma direção clara e predominante, o que exige do trader uma leitura atenta dos micro-movimentos em vez de apostas em tendências generalizadas. Com um balanço de 24 altas contra 31 quedas e uma variação média modesta de apenas 1.4% nas últimas 24 horas, o cenário reflete um ambiente de incerteza onde a liquidez está distribuída de forma irregular entre os diferentes segmentos de preço. Esta estabilidade relativa, embora possa parecer monótona à primeira vista, esconde oportunidades significativas para quem consegue identificar dissonâncias entre o sentimento do mercado e as probabilidades estatísticas de alta, especialmente em ativos com baixa captação de atenção da massa. A volatilidade reduzida na média mascara movimentos extremos pontuais, como a disparada de Nuno Mendes e a queda acentuada de Nuno Tavares, demonstrando que o capital inteligente está operando em nichos específicos independentemente do fluxo geral. Portanto, a estratégia hoje deve focar na seletividade extrema, ignorando o ruído das variações mínimas e concentrando esforços nos ativos que apresentam divergências claras entre seu preço atual e seu potencial de valorização projetado pelo modelo.
+O mercado de jogadores portugueses em PC apresenta um cenário predominantemente de descompressão hoje, 20 de junho de 2026, com uma clara predominância de quedas que sinaliza cautela excessiva entre os traders e usuários finais. Dos movimentos registrados nas últimas 24 horas, apenas 22 jogadores subiram de preço enquanto 33 sofreram quedas, resultando em uma média de variação negativa de 1.49% que define o tom pessimista do dia. Este desequilíbrio entre oferta e demanda sugere que muitos cartolas estão tentando liquidar posições antes de possíveis atualizações ou eventos de fim de semana, pressionando artificialmente os valores de ativos que antes pareciam estáveis. A volatilidade é evidente, mas a direção geral aponta para baixo, exigindo que os traders observem atentamente os poucos ativos que conseguiram romper a tendência de baixa com força significativa. Entender essa dinâmica é crucial para não ser pegos de surpresa por quedas bruscas em cards que ainda mantêm uma probabilidade de alta considerável a longo prazo.
 
-> 🟢 **Maior alta:** Nuno Mendes (97) **+48.4%** · 🔴 **Maior baixa:** Nuno Tavares (87) **-46.8%**
+> 🟢 **Maior alta:** Gonçalo Guedes (89) **+58%** · 🔴 **Maior baixa:** Nuno Tavares (91) **-44.2%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 3.10M coins | +48.4% | -40.4% |
-| Diogo Dalot | 87 | Premier League | 140k coins | +38.2% | +12.8% |
-| Paulo Futre | 92 | Liga Portugal | 110k coins | +36.6% | -18.5% |
-| João Cancelo | 87 | ROSHN Saudi League | 92k coins | +31.7% | +32.6% |
-| Cláudio Braga | 87 | Scottish Premiership | 30k coins | +28% | +16.7% |
-| Quaresma | 88 | Trendyol Süper Lig | 250k coins | +25.6% | -12.3% |
-| Rafael Leão | 86 | Serie A TIM | 880k coins | +25.2% | +29.5% |
-| Francisco Conceição | 85 | Serie A TIM | 28k coins | +22.8% | +1.8% |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 32k coins | +16.1% | +21.5% |
-| Bruno Fernandes | 89 | Premier League | 64k coins | +15.5% | -2.3% |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 32k coins | +58% | +34.7% |
+| Rafael Leão | 86 | Serie A TIM | 826k coins | +51.1% | +22% |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 28k coins | +48.6% | +32.5% |
+| João Cancelo | 87 | ROSHN Saudi League | 100k coins | +42.9% | +13.6% |
+| Eusébio | 91 | Icons | 769k coins | +26.2% | +5.6% |
+| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.20M coins | +20.1% | -51.9% |
+| Ricardo Carvalho | 89 | Liga Portugal | 66k coins | +19.1% | -40.5% |
+| Paulo Futre | 92 | Liga Portugal | 79k coins | +17.6% | -16.7% |
+| Andreia Jacinto | 88 | Liga F | 32k coins | +16.1% | +85.7% |
+| Nélson Oliveira | 86 | Liga Portugal | 26k coins | +15.7% | +3% |
 
 
-O destaque absoluto para as altas é Nuno Mendes, cujos 48.4% de valorização em 24 horas, levando o card a 3.10M de moedas, representam uma anomalia estatística alarmante dado que a probabilidade de alta é de apenas 4%, sugerindo uma corrida de preços irracional ou uma manipulação de curto prazo que deve ser evitada por traders prudentes. Em contraste, Diogo Dalot apresenta um movimento mais saudável com 38.2% de alta para 140k de moedas, apoiado por uma probabilidade robusta de 58%, indicando uma fundamentação sólida baseada em desempenho ou rotatividade de squads que sustenta o valor. Paulo Futre também chama a atenção com 36.6% de crescimento para 110k, onde a probabilidade de 42% confirma que o mercado está reagindo de forma coerente à escassez percebida ou à utilidade do jogador em meta squads específicos. João Cancelo, com 31.7% de alta para 92k e uma probabilidade de 40%, segue a mesma lógica de ativos de médio porte que estão sendo recomprados por traders que buscam segurança relativa em um mercado lateral. Cláudio Braga, subindo 28% para apenas 30k com probabilidade de 38%, exemplifica como ativos de baixo custo estão sendo usados como reserva de valor segura, enquanto Rafael Leão, apesar de subir 25.2% para 880k, tem uma probabilidade de alta de apenas 4%, sinalizando um topo técnico iminente e risco de correção acentuada para quem comprar agora.
+Entre os poucos destaques positivos, Gonçalo Guedes se destaca com um salto impressionante de 58% em 24 horas, atingindo 32 mil coins, embora sua probabilidade de alta futura seja moderada em apenas 28%, indicando um movimento especulativo de curto prazo. Rafael Leão também chamou muita atenção ao subir 51.1% para 826 mil coins, mas a probabilidade de alta de apenas 4% alerta para um possível topo local, sugerindo que compradores tardios podem estar em risco imediato. Paulo Futre, em sua versão de 88 rating da LaLiga, subiu 48.6% para 28 mil coins com uma probabilidade de alta de 33%, mostrando uma correlação interessante com o movimento do seu card de 92 rating que subiu 17.6% para 79 mil coins. João Cancelo registrou alta de 42.9% chegando a 100 mil coins, apoiado por uma probabilidade de alta de 40%, o que sugere sustentação mais sólida para negociações de médio prazo. Eusébio, o ícone eterno, subiu 26.2% para 769 mil coins com 32% de probabilidade de alta, servindo como refúgio de valor em meio à incerteza do mercado, enquanto Nuno Mendes disparou 20.1% para 2.2 milhões de coins, apesar da baixa probabilidade de alta de 4%, refletindo a escassez extrema de cards de elite.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 87 | Serie A TIM | 52k coins | -46.8% | -56.1% |
-| Vitinha | 95 | Ligue 1 McDonald's | 699k coins | -33.4% | -34.7% |
-| Eusébio | 94 | Icons | 1.60M coins | -29.5% | -38.5% |
-| Francisco Conceição | 84 | Serie A TIM | 28k coins | -25.8% | -38.1% |
-| Eusébio | 92 | Icons | 891k coins | -19.2% | -10.2% |
-| Cristiano Ronaldo | 88 | ROSHN Saudi League | 1.27M coins | -15.3% | +38.8% |
-| Ricardo Carvalho | 88 | Liga Portugal | 24k coins | -14.5% | +19% |
-| José Fonte | 85 | Liga Portugal | 58k coins | -14.2% | -17.9% |
-| Gonçalo Inácio | 89 | Liga Portugal | 126k coins | -13.7% | +0.8% |
-| Luís Figo | 90 | Icons | 37k coins | -12.4% | -23.6% |
+| Nuno Tavares | 91 | Serie A TIM | 34k coins | -44.2% | -48.5% |
+| Rafa | 84 | Trendyol Süper Lig | 47k coins | -33.9% | +1% |
+| João Moutinho | 88 | Liga Portugal | 60k coins | -30% | -3.3% |
+| Nuno Tavares | 87 | Serie A TIM | 48k coins | -28.8% | -40.5% |
+| Cristiano Ronaldo | 92 | ROSHN Saudi League | 2M coins | -26.1% | -2.8% |
+| José Fonte | 85 | Liga Portugal | 54k coins | -20.7% | -15.9% |
+| Francisco Conceição | 89 | Serie A TIM | 43k coins | -20.5% | -23.9% |
+| Rodrigo Mora | 87 | Liga Portugal | 35k coins | -17.7% | +20% |
+| Francisco Conceição | 84 | Serie A TIM | 28k coins | -15.5% | -33.7% |
+| Cristiano Ronaldo | 88 | ROSHN Saudi League | 1.27M coins | -15.3% | +43.3% |
 
 
-A liderança negativa é ocupada por Nuno Tavares, que despencou 46.8% para 52k de moedas, um movimento severo que, apesar da probabilidade de alta de 26%, indica uma perda massiva de confiança ou uma descarbonização de squads que o utilizavam, tornando-o um ativo de altíssimo risco para compra imediata. Vitinha sofreu uma queda expressiva de 33.4% para 699k, e com uma probabilidade de alta de apenas 18%, o mercado parece estar reavaliando seu papel em squads premium, sugerindo que o suporte de preço está colapsando e que fundos podem estar saindo do ativo rapidamente. Eusébio (94 Icons) caiu 29.5% para 1.60M, e embora seja um ativo icônico, a probabilidade de alta de 22% não oferece garantia de recuperação rápida, refletindo possivelmente uma rotação de capital para ativos mais voláteis ou uma saturação de demanda no topo de mercado. Francisco Conceição (84) registrou uma queda de 25.8% para 28k, mas a alta probabilidade de 40% sugere que esta pode ser uma oportunidade de compra contrária, pois o preço está desconectado do potencial de valorização estatística. Cristiano Ronaldo (88), caindo 15.3% para 1.27M com apenas 5% de probabilidade de alta, demonstra uma tendência de baixa estrutural para este card específico, onde a demanda está sendo consumida por versões mais baratas ou alternativas mais eficientes no meta atual.
+No lado negativo, Nuno Tavares sofreu uma queda devastadora de 44.2% para 34 mil coins em sua versão de 91 rating, mesmo com uma probabilidade de alta de 57%, indicando um pânico de vendas irracional que pode representar oportunidade de compra. Rafa caiu 33.9% para 47 mil coins com probabilidade de alta de 53%, outro exemplo claro de venda de pânico que ignora os fundamentos de valorização futura do ativo. João Moutinho desceu 30% para 60 mil coins, mas sua alta probabilidade de alta de 75% sugere fortemente que o mercado está subestimando seu valor real neste momento de desconfiança generalizada. O card de 87 rating de Nuno Tavares caiu 28.8% para 48 mil coins, reforçando a tendência de queda na posição de lateral-esquerda, embora a probabilidade de alta de 26% seja menos convidativa para compra imediata. Cristiano Ronaldo, em seu card de 92 rating, perdeu 26.1% chegando a 2 milhões de coins, com probabilidade de alta de 29%, mostrando que até os maiores ícones não estão imunes à pressão vendedora do dia.
 
 
 ## 🎯 A estratégia do dia
-A estratégia recomendada para hoje é de cautela seletiva, focando na compra de ativos com alta probabilidade estatística e queda recente, como Francisco Conceição (84) e Ricardo Carvalho, que oferece 56% de probabilidade de alta após cair 14.5%, representando um risco-recompensa atrativo. Deve-se evitar agressivamente a compra de Nuno Mendes e Rafael Leão, pois suas altas percentuais não são sustentadas por probabilidades de continuidade, indicando armadilhas de preços inflacionados. Segurar posições em Diogo Dalot e Paulo Futre é aconselhável, pois a convergência entre alta de preço e probabilidade estatística sugere momentum real e sustentado pelo mercado. Vender oportunidades de lucro em ativos que caíram sem suporte, como Cristiano Ronaldo e Eusébio (88), é prudente, já que a baixa probabilidade de alta indica pouca intenção de compra no curto prazo. O trader deve monitorar de perto as probabilidades de 40% ou mais em ativos em queda, pois esses são os indicadores mais confiáveis de reversão de tendência em um mercado lateral, onde a paciência e a disciplina estatística superam a intuição emocional.
+A estratégia recomendada para hoje é focar na compra seletiva dos ativos que caíram drasticamente mas mantêm alta probabilidade de valorização, como João Moutinho e Rafa, visando lucros de correção de preço. Evite comprar os cards que subiram muito com baixa probabilidade de alta, como Rafael Leão e Nuno Mendes, pois o risco de correção imediata é elevado e pode liquidar posições apressadas. Segure seus ícones e cards de elite como Eusébio e Cristiano Ronaldo, pois a volatilidade atual é apenas ruído de mercado e o valor intrínseco tende a se estabilizar nos próximos dias. Considere acumular pequenas quantias de Gonçalo Guedes e Paulo Futre se o preço se mantiver estável, aproveitando a probabilidade de alta superior a 30% para lucros de curto a médio prazo. O timing é crucial: compre nas quedas profundas com alta probabilidade de alta e venda nas altas especulativas com baixa sustentação, mantendo sempre uma reserva de coins para explorar as oportunidades que surgirão na descompressão final do fim de semana.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -77,13 +77,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Nuno Mendes (97, Ligue 1 McDonald's), com +48.4% em 24h, a 3.10M coins no PC.
+Gonçalo Guedes (89, LALIGA EA SPORTS), com +58% em 24h, a 32k coins no PC.
 
 **E a maior queda do dia?**  
-Nuno Tavares (87), -46.8% em 24h, a 52k coins.
+Nuno Tavares (91), -44.2% em 24h, a 34k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 31 em queda (média 1.4%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 33 em queda (média 1.49%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
