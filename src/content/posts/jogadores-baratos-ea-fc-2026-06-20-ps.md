@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:23:54.000Z
+pubDatetime: 2026-06-21T01:23:56.000Z
 title: "Jogadores baratos de Portugueses no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Rui Costa (87, Serie A TIM) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Félix Correia (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Rui Costa (87) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Félix Correia (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +2.1% |
-| Rodrigo Mora | 87 | CAM | Liga Portugal | 14k coins | +5.6% |
-| Rafa | 83 | CAM | Trendyol Süper Lig | 2k coins | +4.8% |
-| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 4k coins | -6.7% |
+| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14k coins | -27.8% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
+| Rodrigo Mora | 87 | CAM | Liga Portugal | 12k coins | -43% |
+| Vitinha | 85 | CM | Ligue 1 McDonald's | 2k coins | -46.5% |
 
 
 ## 📈 Destaques
 
+- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Rodrigo Mora (87, CAM)** da Liga Portugal, a apenas **14k coins**
+- **Rodrigo Mora (87, CAM)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rafa (83, CAM)** da Trendyol Süper Lig, a apenas **2k coins**
-
-- **Nuno Mendes (83, LB)** da Ligue 1 McDonald's, a apenas **4k coins**
+- **Vitinha (85, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -60,7 +60,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Rui Costa (87, Serie A TIM) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Félix Correia (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

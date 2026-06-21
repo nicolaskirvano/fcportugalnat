@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:24:51.000Z
+pubDatetime: 2026-06-21T01:25:01.000Z
 title: "Melhores investimentos em Portugueses no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -27,17 +27,15 @@ Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pi
 
 
 ## 🔎 Análise do mercado hoje
-No cenário do EA FC Ultimate Team para PC, analisando o mercado na data de 20 de junho de 2026, a atenção dos investidores deve se voltar para os jogadores portugueses que demonstram uma tendência de valorização significativa nos últimos sete dias. A volatilidade do mercado exige uma análise criteriosa, focando não apenas no aumento percentual do preço, mas também na probabilidade estatística de continuação dessa alta. Entre as opções disponíveis, destacam-se seis cartas que se apresentam como oportunidades relevantes, cada uma com particularidades que justificam diferentes estratégias de entrada, variando desde investimentos de baixo risco até apostas mais agressivas em ativos de maior valor.
+No cenário atual do mercado do EA FC Ultimate Team, observado em 20 de junho de 2026, a análise dos jogadores portugueses revela oportunidades distintas baseadas na volatilidade recente e nas probabilidades estatísticas de valorização. Entre as opções que se destacam por apresentar uma tendência de alta robusta e uma probabilidade significativa de continuidade nesse movimento, o lateral-direito António Silva emerge como a aposta mais sólida. Com um aumento impressionante de 34,8% em apenas 24 horas, sua carta de rating 87, da Liga Portugal, atingiu a marca de 57k coins. A probabilidade de alta de 56% sugere que a demanda por seu perfil defensivo e versátil está em ascensão, tornando-o uma entrada atrativa para quem busca segurança relativa aliada a um potencial de retorno imediato no curto prazo.
 
-Diogo Dalot se posiciona como um dos ativos mais robustos para entrada neste momento. O lateral-esquerdo do Manchester United, com uma carta de 87 de rating na Premier League, registrou um impressionante aumento de 38,2% em 24 horas. Com um preço atual de 140 mil coins, o jogador apresenta uma probabilidade alta de 58% de continuar subindo. Essa combinação de alta volatilidade recente com uma probabilidade estatística elevada sugere que o mercado está consolidando uma valorização sustentável, tornando-o uma opção segura para quem busca proteger capital enquanto aguarda lucros moderados a longo prazo.
+Outro nome que comanda atenção é João Cancelo, cuja carta de rating 87, agora na ROSHN Saudi League, registrou uma valorização de 35,1% nas últimas 24 horas, encerrando em 100k coins. Embora a probabilidade de alta seja de 40%, ligeiramente inferior à de António Silva, o valor absoluto da carta e a magnitude do salto percentual indicam uma liquidez alta e interesse sustentado da comunidade. Para investidores com capital mais elevado, Cancelo representa uma oportunidade de alavancagem, pois a tendência de alta em cartas de elite costuma ser acompanhada por picos de demanda durante eventos de SBC ou atualizações de torneios, mesmo que a probabilidade estatística não seja a mais elevada do grupo.
 
-Outro nome que chama a atenção pela consistência é Andreia Jacinto. A atacante da Liga F, com carta de 88 rating, subiu 11,1% em apenas 24 horas e está cotada a 32 mil coins. O diferencial aqui é a probabilidade de alta, que também é de 58%, igualando-se a Dalot. Para investidores com orçamentos mais limitados ou que desejam diversificar portfólios de baixo custo, Jacinto oferece um perfil de risco reduzido. A estabilidade do seu crescimento indica uma demanda constante, possivelmente ligada a meta-squads ou rotacionações de time, garantindo liquidez e segurança relativa na manutenção do valor.
+No segmento de intermediários, Andréia Jacinto se destaca com uma performance notável. A goleira de rating 88, da Liga F, subiu 19,3% em 24 horas, posicionando-se a 32k coins. O que realmente fortalece o argumento de investimento é a alta probabilidade de alta de 58%, a maior entre os nomes listados com variação expressiva. Isso indica que o mercado está reagindo positivamente à sua utilidade tática, e a combinação de preço acessível com alta probabilidade de continuidade torna-a uma peça-chave para carteiras diversificadas que buscam minimizar riscos enquanto capturam ganhos consistentes.
 
-Para aqueles dispostos a assumir riscos maiores em busca de retornos percentuais mais expressivos, João Cancelo e Cláudio Braga merecem destaque. Cancelo, da Liga Saudi ROSHN (87 rating), disparou 31,7% em 24 horas e custa 92 mil coins, embora sua probabilidade de alta seja de apenas 40%. Já Braga, do Scottish Premiership (87 rating), tem uma alta de 28% em 24 horas por apenas 30 mil coins, com probabilidade de 38%. Ambos representam oportunidades de "swing trading", onde a decisão de venda deve ser rápida, aproveitando o impulso momentâneo da demanda antes que a probabilidade de reversão aumente.
+Ivan Cavaleiro também merece menção especial. O meia de rating 85, da Liga Portugal, apresentou um salto de 22% em 24 horas, custando 30k coins. Com uma probabilidade de alta de 47%, ele se situa em uma zona intermediária interessante: o preço é competitivo e o momentum recente é forte. Para traders que operam com volume, a entrada em Cavaleiro pode ser estratégica, aproveitando a inércia da alta recente para realizar lucros rápidos antes de qualquer possível correção, especialmente considerando que a probabilidade de alta ainda está acima da média de 50% em termos de expectativa de continuidade.
 
-Gonçalo Guedes e João Neves completam a lista com perfis distintos. Guedes, na LaLiga EA Sports (89 rating), subiu 16,1% em 24 horas por 32 mil coins, mas possui uma probabilidade de alta baixa de apenas 28%, sugerindo que a correção pode ser iminente. Por outro lado, João Neves, da Ligue 1 McDonald's (88 rating), é o ativo mais caro da lista, a 213 mil coins, com alta de 7,6% e probabilidade de 41%. A baixa volatilidade recente de Neves, aliada ao seu alto preço, indica um ativo de reserva de valor, ideal para holdings a longo prazo, enquanto Guedes deve ser tratado com cautela devido à baixa expectativa de continuação da tendência.
-
-Em resumo, a estratégia ideal para 20/06/2026 envolve priorizar Dalot e Jacinto pela alta probabilidade de continuidade, usar Cancelo e Braga para ganhos rápidos de curto prazo e evitar posições longas em Guedes devido à baixa probabilidade de alta. Neves serve como âncora de valor para carteiras robustas. O investidor deve monitorar diariamente essas métricas, pois a probabilidade de alta é um indicador dinâmico que pode mudar rapidamente com novos eventos do jogo ou atualizações de mercado.
+Por outro lado, nomes como Pizzi, Dolores Silva, Cláudio Braga e Francisco Conceição apresentam perfis mais conservadores ou de menor convicção estatística. Pizzi (85, Liga Portugal) subiu 4,4% a 36k coins, mas com apenas 31% de probabilidade de alta, o que sugere cautela. Dolores Silva (84, Liga F) tem alta probabilidade de 57%, mas o crescimento de apenas 2,1% a 37k coins indica uma tendência lenta. Cláudio Braga (87, Scottish Premiership) e Francisco Conceição (85, Serie A TIM) mostram aumentos de 8,3% e 12,3% respectivamente, mas com probabilidades de alta de 38% e 35%, indicando que os ganhos recentes podem ser mais voláteis e menos sustentáveis. Portanto, a prioridade deve ser mantida em António Silva, João Cancelo e Andréia Jacinto, onde a confluência de volume, percentual de alta e probabilidade estatística oferece o melhor equilíbrio risco-retorno para o dia 20 de junho de 2026.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,25 +43,27 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andreia Jacinto | 88 | Liga F | 32k coins | +11.1% | +85.7% | 58% |
-| João Cancelo | 87 | ROSHN Saudi League | 92k coins | +31.7% | +32.6% | 40% |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 32k coins | +16.1% | +21.5% | 28% |
-| Cláudio Braga | 87 | Scottish Premiership | 30k coins | +28% | +16.7% | 38% |
-| Diogo Dalot | 87 | Premier League | 140k coins | +38.2% | +12.8% | 58% |
-| João Neves | 88 | Ligue 1 McDonald's | 213k coins | +7.6% | +9.2% | 41% |
+| Andreia Jacinto | 88 | Liga F | 32k coins | +19.3% | +85.7% | 58% |
+| Pizzi | 85 | Liga Portugal | 36k coins | +4.4% | +68.2% | 31% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 30k coins | +22% | +29.8% | 47% |
+| Dolores Silva | 84 | Liga F | 37k coins | +2.1% | +23.5% | 57% |
+| António Silva | 87 | Liga Portugal | 57k coins | +34.8% | +20% | 56% |
+| Cláudio Braga | 87 | Scottish Premiership | 32k coins | +8.3% | +19.3% | 38% |
+| João Cancelo | 87 | ROSHN Saudi League | 100k coins | +35.1% | +13.6% | 40% |
+| Francisco Conceição | 85 | Serie A TIM | 30k coins | +12.3% | +10.2% | 35% |
 
 
 ## 📈 Análise dos destaques
 
-- **Andreia Jacinto (88)** — 32k coins, **+85.7% em 7 dias** (+11.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andreia Jacinto (88)** — 32k coins, **+85.7% em 7 dias** (+19.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **João Cancelo (87)** — 92k coins, **+32.6% em 7 dias** (+31.7% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pizzi (85)** — 36k coins, **+68.2% em 7 dias** (+4.4% em 24h). Preço +43% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gonçalo Guedes (89)** — 32k coins, **+21.5% em 7 dias** (+16.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ivan Cavaleiro (85)** — 30k coins, **+29.8% em 7 dias** (+22% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Cláudio Braga (87)** — 30k coins, **+16.7% em 7 dias** (+28% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Dolores Silva (84)** — 37k coins, **+23.5% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Diogo Dalot (87)** — 140k coins, **+12.8% em 7 dias** (+38.2% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **António Silva (87)** — 57k coins, **+20% em 7 dias** (+34.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
