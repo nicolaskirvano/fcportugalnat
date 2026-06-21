@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T10:23:05.000Z
+pubDatetime: 2026-06-21T13:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,23 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -38.1% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 11k coins | -32.8% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +6.4% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -12.5% |
-| Nélson Oliveira | 86 | ST | Liga Portugal | 14k coins | +14.3% |
-| Rafael Leão | 84 | LW | Serie A Enilive | 2k coins | +7.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -34.9% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | +10.6% |
+| Trincão | 86 | CAM | Liga Portugal | 12k coins | -34.1% |
+| Nélson Oliveira | 86 | ST | Liga Portugal | 14k coins | +12.2% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins**
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
-
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Trincão (86, CAM)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Nélson Oliveira (86, ST)** da Liga Portugal, a apenas **14k coins**
 
