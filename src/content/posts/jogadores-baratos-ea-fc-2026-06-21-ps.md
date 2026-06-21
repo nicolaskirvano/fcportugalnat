@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T13:23:05.000Z
+pubDatetime: 2026-06-21T16:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,19 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -34.9% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | +10.6% |
-| Trincão | 86 | CAM | Liga Portugal | 12k coins | -34.1% |
-| Nélson Oliveira | 86 | ST | Liga Portugal | 14k coins | +12.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -32.6% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +2.1% |
+| Rúben Neves | 87 | CDM | ROSHN Saudi League | 14k coins | -37.5% |
+| Rodrigo Mora | 87 | CAM | Liga Portugal | 15k coins | -30.2% |
+| Nélson Oliveira | 86 | ST | Liga Portugal | 14k coins | +14.3% |
+| Trincão | 86 | CAM | Liga Portugal | 15k coins | -41.2% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | +11.1% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins**
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Trincão (86, CAM)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Rodrigo Mora (87, CAM)** da Liga Portugal, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Nélson Oliveira (86, ST)** da Liga Portugal, a apenas **14k coins**
 
