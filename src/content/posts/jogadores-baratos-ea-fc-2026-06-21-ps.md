@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T19:23:06.000Z
+pubDatetime: 2026-06-21T22:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -31.8% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
-| Nélson Oliveira | 86 | ST | Liga Portugal | 14k coins | +10.2% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | +12.5% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -36.7% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 15k coins | -23.7% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -2.1% |
+| Nélson Oliveira | 86 | ST | Liga Portugal | 14k coins | -8.2% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Nélson Oliveira (86, ST)** da Liga Portugal, a apenas **14k coins**
-
-- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins**
+- **Nélson Oliveira (86, ST)** da Liga Portugal, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
