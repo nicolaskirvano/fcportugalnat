@@ -1,25 +1,25 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T01:23:05.000Z
-title: "Jogadores baratos de Portugueses no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-06-22T01:23:09.000Z
+title: "Jogadores baratos de Portugueses no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 21/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 21/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/06/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Vitinha (89) por apenas 3k coins.
 
@@ -29,25 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -36% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 15k coins | -11.4% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -8.3% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -39.6% |
-| Nélson Oliveira | 86 | ST | Liga Portugal | 12k coins | -30.4% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | +37.5% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -42.4% |
+| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -17% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -16.7% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 3k coins | +36.8% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nélson Oliveira (86, ST)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -64,7 +60,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/06/2026)?**  
-Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no Console (PS).
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -77,4 +73,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 21/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 21/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
