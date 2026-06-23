@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T10:23:05.000Z
+pubDatetime: 2026-06-23T13:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -44% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 15k coins | -28.9% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -46.2% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -8.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -42% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -44.6% |
+| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -30.4% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 3k coins | +4% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
+
+- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **3k coins**
 
 
 ## Por que estas cartas?
