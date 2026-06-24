@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T10:23:05.000Z
+pubDatetime: 2026-06-24T16:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -33.3% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 13k coins | -35% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 12k coins | -54.6% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
-| Rúben Neves | 87 | CDM | ROSHN Saudi League | 15k coins | -38.5% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -20.6% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -6.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -34.7% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 14k coins | -29.4% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -55.6% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -4.2% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -25.7% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
