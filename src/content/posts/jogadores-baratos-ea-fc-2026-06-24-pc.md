@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T19:23:09.000Z
+pubDatetime: 2026-06-24T22:23:09.000Z
 title: "Jogadores baratos de Portugueses no EA FC (24/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | -31.2% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -18.5% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -45.7% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -23.1% |
+| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -20% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -44.1% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | -32% |
 
 
 ## 📈 Destaques
