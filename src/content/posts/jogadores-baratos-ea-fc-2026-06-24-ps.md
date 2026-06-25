@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T19:23:05.000Z
+pubDatetime: 2026-06-25T01:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -42.3% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 13k coins | -36.2% |
-| Andreia Jacinto | 88 | CM | Liga F | 13k coins | -39.8% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -8.3% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -36.1% |
-| Pizzi | 85 | RM | Liga Portugal | 13k coins | -1.2% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -50% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -37.7% |
+| Andreia Jacinto | 88 | CM | Liga F | 15k coins | -29.1% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -6.4% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -34.6% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andreia Jacinto (88, CM)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
