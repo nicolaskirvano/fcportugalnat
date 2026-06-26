@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T10:23:05.000Z
+pubDatetime: 2026-06-26T16:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | 0% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -47.2% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | +35.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | +27.6% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 14k coins | -20% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +6.4% |
+| Fábio Vieira | 87 | CAM | Bundesliga | 13k coins | 0% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -42.1% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4k coins**
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fábio Vieira (87, CAM)** da Bundesliga, a apenas **13k coins**
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
