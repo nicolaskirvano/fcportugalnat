@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T10:23:05.000Z
+pubDatetime: 2026-06-28T13:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (28/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,23 +30,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Félix Correia | 89 | RM | Ligue 1 McDonald's | 14k coins | -25.7% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 15k coins | 0% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -4.3% |
-| Rúben Neves | 87 | CDM | ROSHN Saudi League | 14k coins | -5% |
-| Fábio Vieira | 87 | CAM | Bundesliga | 14k coins | 0% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 14k coins | -6.5% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 13k coins | -49% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | +1.6% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -4.3% |
+| Rúben Neves | 87 | CDM | ROSHN Saudi League | 15k coins | 0% |
+| Fábio Vieira | 87 | CAM | Bundesliga | 15k coins | -4.2% |
 
 
 ## 📈 Destaques
 
 - **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **15k coins**
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
+- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **14k coins**
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins**
 
-- **Fábio Vieira (87, CAM)** da Bundesliga, a apenas **14k coins**
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
 
 ## Por que estas cartas?
