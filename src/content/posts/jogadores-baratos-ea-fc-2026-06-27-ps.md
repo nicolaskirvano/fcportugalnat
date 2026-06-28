@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T19:23:05.000Z
+pubDatetime: 2026-06-28T01:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Félix Correia (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Gonçalo Guedes (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Félix Correia (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Gonçalo Guedes (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14k coins | -18.1% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 15k coins | -1.9% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -2.1% |
-| Francisco Conceição | 85 | RM | Serie A TIM | 15k coins | -23.1% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 12k coins | +5.6% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 15k coins | +22.2% |
+| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -4.3% |
+| Fábio Vieira | 87 | CAM | Bundesliga | 14k coins | -14.9% |
+| Pizzi | 85 | RM | Liga Portugal | 15k coins | +17.6% |
 
 
 ## 📈 Destaques
 
-- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins**
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **15k coins**
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
-- **Francisco Conceição (85, RM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fábio Vieira (87, CAM)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Pizzi (85, RM)** da Liga Portugal, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -60,7 +63,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Félix Correia (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Gonçalo Guedes (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
