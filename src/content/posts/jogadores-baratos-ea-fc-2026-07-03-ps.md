@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:23:05.000Z
+pubDatetime: 2026-07-03T19:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Félix Correia (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Paulo Futre (88, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Félix Correia (89) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Paulo Futre (88) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Félix Correia | 89 | RM | Ligue 1 McDonald's | 15k coins | -14.3% |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 12k coins | -40.2% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -10% |
-| Bruno Fernandes | 87 | CAM | Premier League | 2k coins | +88.9% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -11.8% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 13k coins | -3.6% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 13k coins | -19.4% |
+| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -16.2% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +2.1% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | +16.7% |
 
 
 ## 📈 Destaques
 
-- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **13k coins**
 
-- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bruno Fernandes (87, CAM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
+- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -64,7 +63,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Félix Correia (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Paulo Futre (88, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
