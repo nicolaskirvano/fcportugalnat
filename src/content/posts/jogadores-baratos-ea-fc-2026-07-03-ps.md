@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:23:05.000Z
+pubDatetime: 2026-07-03T16:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,23 +30,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Félix Correia | 89 | RM | Ligue 1 McDonald's | 15k coins | -14.3% |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 14k coins | -50.9% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
-| João Cancelo | 84 | RB | LALIGA EA SPORTS | 2k coins | +64.7% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | +25% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 12k coins | -40.2% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -10% |
+| Bruno Fernandes | 87 | CAM | Premier League | 2k coins | +88.9% |
+| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | 0% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -11.8% |
 
 
 ## 📈 Destaques
 
 - **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **João Cancelo (84, RB)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Bruno Fernandes (87, CAM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?
