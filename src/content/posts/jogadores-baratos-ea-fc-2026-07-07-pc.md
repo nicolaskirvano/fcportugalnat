@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T16:23:09.000Z
+pubDatetime: 2026-07-07T19:23:09.000Z
 title: "Jogadores baratos de Portugueses no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 07/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (07/07/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no PC."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **07/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vitinha (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 3k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,17 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +52.9% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | +300% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | +113.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +16.7% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +31.8% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | +200% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | +88.2% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
@@ -60,7 +60,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (07/07/2026)?**  
-Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no PC.
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
