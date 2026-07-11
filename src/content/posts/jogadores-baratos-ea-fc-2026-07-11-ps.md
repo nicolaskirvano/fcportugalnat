@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:23:05.000Z
+pubDatetime: 2026-07-11T19:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,18 +30,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -30.4% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | +2% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2k coins | +15.4% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -15% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 14k coins | -50.9% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +5.9% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -10.5% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins**
+- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
 - **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
