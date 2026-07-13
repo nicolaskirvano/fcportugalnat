@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T16:23:05.000Z
+pubDatetime: 2026-07-13T22:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 13/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (13/07/2026)?"
-    a: "Ricardo Carvalho (88, Liga Portugal) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Andreia Jacinto (88, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **13/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ricardo Carvalho (88) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Andreia Jacinto (88) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,19 +29,22 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 12k coins | -49.5% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -11.1% |
-| Rúben Neves | 87 | CDM | ROSHN Saudi League | 14k coins | -23.2% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 2k coins | +112.5% |
+| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -42.1% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 14k coins | -35.5% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -7.5% |
+| Rúben Neves | 87 | CDM | ROSHN Saudi League | 12k coins | -16.5% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 2k coins | +137.5% |
 
 
 ## 📈 Destaques
 
-- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
+
+- **Rúben Neves (87, CDM)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **João Neves (85, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
@@ -60,7 +63,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (13/07/2026)?**  
-Ricardo Carvalho (88, Liga Portugal) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Andreia Jacinto (88, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
