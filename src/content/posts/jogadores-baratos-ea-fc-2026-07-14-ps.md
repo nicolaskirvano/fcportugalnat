@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T10:23:05.000Z
+pubDatetime: 2026-07-14T13:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -34.8% |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 13k coins | -25% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -13% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -47.7% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 3k coins | +287.5% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -16.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -30.4% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 14k coins | -24.3% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | -11.1% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -48.9% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **João Neves (85, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
