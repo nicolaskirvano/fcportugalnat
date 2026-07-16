@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcportugalnat.pages.dev/",
     title: "Portugal FUT Market",
     description:
-      "Precos e mercado dos jogadores portugueses no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores portugueses no EA FC Ultimate Team, todos os dias.",
     author: "Portugal FUT Market",
-    profile: "https://fcportugalnat.pages.dev/",
+    profile: "https://fcportugalnat.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Portugal FUT Market",
