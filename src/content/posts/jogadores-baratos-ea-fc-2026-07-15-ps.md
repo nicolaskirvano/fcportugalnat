@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T22:23:05.000Z
+pubDatetime: 2026-07-16T01:23:05.000Z
 title: "Jogadores baratos de Portugueses no EA FC (15/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 15/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (15/07/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **15/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vitinha (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 3k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | 0% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -23.5% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | -3.7% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 3k coins | +264.7% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -34.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +12.5% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 14k coins | -7.1% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | -5.6% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 3k coins | +226.3% |
+| Rafael Leão | 84 | LW | Serie A Enilive | 2k coins | +7.7% |
+| João Cancelo | 84 | RB | ROSHN Saudi League | 2k coins | -21.7% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins**
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins**
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins**
 
 - **João Neves (85, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rafael Leão (84, LW)** da Serie A Enilive, a apenas **2k coins**
 
 
 ## Por que estas cartas?
@@ -63,7 +64,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (15/07/2026)?**  
-Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
