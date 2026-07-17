@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:23:09.000Z
+pubDatetime: 2026-07-17T17:22:52.000Z
 title: "Investimentos EA FC: Portugueses em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Francisco Moura (90, Liga Portugal) lidera, com +77.4% em 7 dias a 47k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Quaresma (85, Liga Portugal) lidera, com +75% em 7 dias a 133k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Francisco Moura (90) acumula **+77.4% em 7 dias** a 47k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Quaresma (85) acumula **+75% em 7 dias** a 133k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.3% em 24h** e **+25.9% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.7% em 24h** e **+33.3% em 7 dias**.
+- **7 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Francisco Moura | 90 | Liga Portugal | 47k coins | +9.3% | +77.4% | Esticada |
 | Quaresma | 85 | Liga Portugal | 133k coins | +15.7% | +75% | Esticada |
-| João Neves | 86 | Ligue 1 McDonald's | 55k coins | +20% | +74% | Esticada |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 222k coins | +12.5% | +66.7% | Esticada |
-| Ivan Cavaleiro | 85 | Liga Portugal | 60k coins | +2.5% | +58.4% | Momentum moderado |
-| Francisco Conceição | 89 | Serie A TIM | 65k coins | +25.9% | +39.5% | Esticada |
-| Bruno Fernandes | 89 | Premier League | 84k coins | +28% | +31% | Esticada |
-| Rodrigo Mora | 87 | Liga Portugal | 34k coins | +6.2% | +25.9% | Momentum moderado |
-| Félix Correia | 89 | Ligue 1 McDonald's | 22k coins | +12.2% | +21.1% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 42k coins | +9.1% | +17.5% | Momentum moderado |
-| Pedro Neto | 85 | Premier League | 34k coins | +7.9% | +12.8% | Momentum moderado |
-| João Neves | 93 | Ligue 1 McDonald's | 195k coins | +2.3% | +12.5% | Entrada a observar |
-| Rúben Neves | 87 | ROSHN Saudi League | 23k coins | +10.8% | +12.2% | Momentum moderado |
-| Paulo Futre | 92 | Liga Portugal | 112k coins | +6.5% | +9.6% | Momentum moderado |
-| Luís Figo | 89 | Icons | 70k coins | +8.9% | +7.3% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 54k coins | +15.8% | +71.9% | Esticada |
+| Bernardo Silva | 87 | Premier League | 94k coins | +27.4% | +68.1% | Esticada |
+| Paulo Futre | 89 | LALIGA EA SPORTS | 200k coins | +11% | +64.4% | Esticada |
+| Ivan Cavaleiro | 85 | Liga Portugal | 59k coins | +3.5% | +53.2% | Momentum moderado |
+| Félix Correia | 89 | Ligue 1 McDonald's | 26k coins | +17.1% | +33.3% | Momentum moderado |
+| Francisco Conceição | 89 | Serie A TIM | 63k coins | +20.4% | +33.3% | Esticada |
+| Bruno Fernandes | 89 | Premier League | 84k coins | +30% | +31% | Esticada |
+| Rodrigo Mora | 87 | Liga Portugal | 34k coins | +24.8% | +25.9% | Esticada |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 15.000 coins | +13% | +23.8% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 16.500 coins | +15% | +17.9% | Momentum moderado |
+| Paulo Futre | 92 | Liga Portugal | 100k coins | +4.7% | +8.7% | Entrada a observar |
+| Fábio Vieira | 87 | Bundesliga | 24k coins | +4.8% | +6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Francisco Moura (90)** — 47k coins, **+77.4% em 7 dias** (+9.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quaresma (85)** — 133k coins, **+75% em 7 dias** (+15.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Quaresma (85)** — 133k coins, **+75% em 7 dias** (+15.7% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 54k coins, **+71.9% em 7 dias** (+15.8% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 55k coins, **+74% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bernardo Silva (87)** — 94k coins, **+68.1% em 7 dias** (+27.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paulo Futre (89)** — 222k coins, **+66.7% em 7 dias** (+12.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Futre (89)** — 200k coins, **+64.4% em 7 dias** (+11% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Cavaleiro (85)** — 60k coins, **+58.4% em 7 dias** (+2.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Cavaleiro (85)** — 59k coins, **+53.2% em 7 dias** (+3.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +86,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Francisco Moura (90, Liga Portugal) lidera, com +77.4% em 7 dias a 47k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Quaresma (85, Liga Portugal) lidera, com +75% em 7 dias a 133k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +95,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
+> **Link patrocinado:** ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 
