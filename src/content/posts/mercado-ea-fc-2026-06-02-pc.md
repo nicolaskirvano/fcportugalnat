@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Portugal FUT Market"
 pubDatetime: 2026-06-02T13:23:02.000Z
-title: "Portugueses no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Portugueses no EA FC em 02/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 02/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (02/06/2026)?"
-    a: "Francisco Conceição (89, Serie A TIM), com +42.9% em 24h, a 40k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Rodrigo Mora (88), -35% em 24h, a 49k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 39 em queda (média 0.89%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 02/06/2026 no PC: Francisco Conceição liderou as altas e Rodrigo Mora as baixas em Portugueses. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **20 subiram** e **39 caíram**, com variação média de **0.89%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Francisco Conceição** registrou o maior movimento de 24h (+42,9%), enquanto **Rodrigo Mora** marcou o menor (-35,0%). A distância entre os extremos foi de **77,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,5%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Portugueses no EA FC em 02/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-02-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **20 subiram** e **39 caíram**, com variação média de **0.89%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Francisco Conceição (89) **+42.9%** · 🔴 **Maior baixa:** Rodrigo Mora (88) **-35%**
 
@@ -46,11 +51,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Francisco Conceição (89)** subiu **+42.9%** em 24h, a **40k coins** (faixa do dia: 28k–40k). Está +24% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Francisco Conceição (89)** subiu **+42.9%** em 24h, a **40k coins** (faixa do dia: 28k–40k). Está +24% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Pizzi (85)** subiu **+39.1%** em 24h, a **40k coins** (faixa do dia: 28k–42k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
+- **Pizzi (85)** subiu **+39.1%** em 24h, a **40k coins** (faixa do dia: 28k–42k). Está em linha com a média de 7 dias (+5%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Geovany Quenda (85)** subiu **+38.7%** em 24h, a **120k coins** (faixa do dia: 86k–130k). Está +45% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Geovany Quenda (85)** subiu **+38.7%** em 24h, a **120k coins** (faixa do dia: 86k–130k). Está +45% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -71,11 +76,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Rodrigo Mora (88)** caiu **-35%** em 24h, a **49k coins** (faixa do dia: 42k–75k). Está +24% acima da média de 7 dias (aquecida). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Rodrigo Mora (88)** caiu **-35%** em 24h, a **49k coins** (faixa do dia: 42k–75k). Está +24% acima da média de 7 dias (aquecida). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
-- **Quaresma (89)** caiu **-30.1%** em 24h, a **300k coins** (faixa do dia: 300k–499k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
+- **Quaresma (89)** caiu **-30.1%** em 24h, a **300k coins** (faixa do dia: 300k–499k). Está em linha com a média de 7 dias (-3%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Félix Correia (89)** caiu **-26.9%** em 24h, a **22k coins** (faixa do dia: 20k–32k). Está -20% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 74% de probabilidade.
+- **Félix Correia (89)** caiu **-26.9%** em 24h, a **22k coins** (faixa do dia: 20k–32k). Está -20% abaixo da média de 7 dias (descontada). 🔮 Naquele snapshot, o modelo projetava **recuperação** (reversão para alta), com 74% de probabilidade.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -85,16 +90,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (02/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (02/06/2026)?**
 Francisco Conceição (89, Serie A TIM), com +42.9% em 24h, a 40k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Rodrigo Mora (88), -35% em 24h, a 49k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 39 em queda (média 0.89%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 20 cartas em alta contra 39 em queda (média 0.89%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -103,3 +108,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Portugueses baratos no EA FC em 02/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-02-pc/)
+- [Momentum de Portugueses no EA FC em 02/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-02-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Portugal FUT Market"
 pubDatetime: 2026-06-21T01:24:39.000Z
-title: "Portugueses no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Portugueses no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Rafael Leão (86, Serie A TIM), com +50.7% em 24h, a 900k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Diogo Dalot (87), -48.7% em 24h, a 76k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 26 cartas em alta contra 34 em queda (média 0.75%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Rafael Leão liderou as altas e Diogo Dalot as baixas em Portugueses. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Rafael Leão** registrou o maior movimento de 24h (+50,7%), enquanto **Diogo Dalot** marcou o menor (-48,7%). A distância entre os extremos foi de **99,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-3,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Portugueses no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de cartas portuguesas no PC apresenta hoje, em 20 de junho de 2026, um cenário de lateralidade acentuada, onde a falta de direção clara domina as negociações e exige uma leitura atenta dos fluxos de oferta e demanda. Com um balanço de 26 altas contra 34 quedas e uma variação média positiva de apenas 0.75% nas últimas 24 horas, observamos que a volatilidade está contida, sugerindo que os traders estão cautelosos e aguardando gatilos específicos para moverem volumes significativos. Essa estabilidade relativa cria um ambiente propício para operações de curto prazo, onde a identificação de dissonâncias entre a probabilidade de alta e a variação atual pode revelar oportunidades de arbitragem ou flips rápidos. O tom do dia é de precaução calculada, pois a ausência de grandes eventos de mercado ou lançamentos massivos mantém os preços ancorados a seus fundamentos técnicos recentes, forçando os analistas a olharem para micro-sinais de volume e liquidez. A divergência entre o número de quedas e altas indica que a pressão vendedora ainda tem leve vantagem, o que deve ser considerado ao montar portfólios para a próxima semana.
 
@@ -76,16 +81,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Rafael Leão (86, Serie A TIM), com +50.7% em 24h, a 900k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Diogo Dalot (87), -48.7% em 24h, a 76k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 26 cartas em alta contra 34 em queda (média 0.75%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 26 cartas em alta contra 34 em queda (média 0.75%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Portugueses baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Portugueses no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

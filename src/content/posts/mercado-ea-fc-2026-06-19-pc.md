@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Portugal FUT Market"
 pubDatetime: 2026-06-20T01:24:47.000Z
-title: "Portugueses no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Portugueses no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,17 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Rúben Neves (87, ROSHN Saudi League), com +50% em 24h, a 38k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Ricardo Carvalho (89), -47.6% em 24h, a 55k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 22 cartas em alta contra 34 em queda (média -1.08%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 19/06/2026 no PC: Rúben Neves liderou as altas e Ricardo Carvalho as baixas em Portugueses. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Rúben Neves** registrou o maior movimento de 24h (+50,0%), enquanto **Ricardo Carvalho** marcou o menor (-47,6%). A distância entre os extremos foi de **97,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-4,5%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Portugueses no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -76,16 +81,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Rúben Neves (87, ROSHN Saudi League), com +50% em 24h, a 38k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Ricardo Carvalho (89), -47.6% em 24h, a 55k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 22 cartas em alta contra 34 em queda (média -1.08%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 22 cartas em alta contra 34 em queda (média -1.08%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -94,3 +99,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Portugueses no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Portugueses no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

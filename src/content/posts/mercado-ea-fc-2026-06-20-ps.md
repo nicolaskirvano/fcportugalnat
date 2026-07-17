@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Portugal FUT Market"
 pubDatetime: 2026-06-21T01:23:53.000Z
-title: "Portugueses no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Portugueses no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Dolores Silva (84, Liga F), com +29% em 24h, a 48k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "João Neves (88), -42.1% em 24h, a 85k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 248k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 28 em queda (média -3.81%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Dolores Silva liderou as altas e João Neves as baixas em Portugueses. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Dolores Silva** registrou o maior movimento de 24h (+29,0%), enquanto **João Neves** marcou o menor (-42,1%). A distância entre os extremos foi de **71,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-1,5%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Portugueses no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de jogadores portugueses em consoles PlayStation apresenta uma dinâmica claramente desfavorável para os traders que buscam ganhos rápidos, com um sentimento de baixa predominante que se reflete nos números do dia 20 de junho de 2026. A análise estatística revela uma assimetria preocupante para os investidores de curto prazo, onde apenas 22 jogadores registraram altas em contraste com 28 quedas, resultando em uma média negativa de -3.81% nas últimas 24 horas. Este cenário de desequilíbrio indica que a maioria das carteiras está sofrendo pressão de venda, possivelmente devido a uma liquidez reduzida ou a uma expectativa de eventos futuros que estão fazendo os traders se posicionarem de forma defensiva. O tom do dia é de cautela extrema, pois a probabilidade de encontrar oportunidades de lucro imediato é baixa, exigindo uma leitura mais apurada dos poucos ativos que conseguem se manter resilientes ou até subir contra a correnteza. É fundamental entender que, neste ambiente de queda generalizada, a preservação de capital deve ser priorizada em detrimento da busca por ganhos agressivos, já que o risco de perder valor nos ativos estáveis é significativamente maior do que o potencial de lucro.
 
@@ -68,7 +71,7 @@ Entre os poucos ativos que conseguiram valorizar, destaca-se Dolores Silva, que 
 No lado das quedas, a situação é crítica para vários ativos, com João Neves sendo o principal exemplo de destruição de valor, registrando uma queda brutal de 42.1% para 85k de coins, apesar de uma probabilidade de alta estranha de 38% que pode indicar uma tentativa de recuperação não sustentada. A mesma versão de João Neves, mas com rating 93, também sofreu uma queda significativa de 30.4% para 223k de coins, com probabilidade de alta de apenas 27%, reforçando a ideia de que há uma venda em pânico ou uma correção de preço excessivo neste jogador. Nuno Tavares caiu 27.5% para 31k de coins, com uma probabilidade de alta de apenas 5%, o que praticamente descarta a possibilidade de uma recuperação imediata e sinaliza que o ativo pode continuar a desvalorizar se não houver intervenção de compra. Paulo Futre acompanhou a queda acentuada, caindo 26.2% para 35k de coins, também com probabilidade de alta de 5%, demonstrando que ícones mais antigos ou com menor utilidade competitiva estão sendo abandonados pelos traders em favor de ativos mais eficientes. Ivan Cavaleiro completou o grupo de grandes perdedores com uma queda de 19.1% para 32k de coins e probabilidade de alta de 5%, enquanto João Félix, apesar de ter uma probabilidade de alta de 84%, ainda caiu 15.9% para 163k de coins, o que pode representar uma oportunidade de compra se a probabilidade se materializar, mas requer paciência.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Dolores Silva (84, Liga F), com +29% em 24h, a 48k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 João Neves (88), -42.1% em 24h, a 85k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 248k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Cristiano Ronaldo (86) — 95% de probabilidade de alta, a 248k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 28 em queda (média -3.81%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 22 cartas em alta contra 28 em queda (média -3.81%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Portugueses baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Portugueses no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
