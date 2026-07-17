@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:23:10.000Z
+pubDatetime: 2026-07-17T22:23:10.000Z
 title: "Jogadores baratos EA FC: Portugueses em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Ricardo Carvalho (88, Liga Portugal) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
+    a: "Ricardo Carvalho (88, Liga Portugal) aparece como melhor custo-benefício, a 12.250 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ricardo Carvalho (88) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Ricardo Carvalho (88) por apenas 12.250 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Portugueses em 17/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-17-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 7.138 coins.
+- **Preço médio das 4 opções:** 10.225 coins.
 - **Posição mais frequente:** CB, com 1 cartas.
-- **Faixa real:** 1.500 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.900 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 12.500 coins | -14% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 12.250 coins | -9.3% |
+| Andreia Jacinto | 88 | CM | Liga F | 14.500 coins | -3.3% |
 | Rui Costa | 87 | CAM | Serie A TIM | 12.250 coins | -2% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2.300 coins | +53.3% |
-| João Cancelo | 84 | RB | ROSHN Saudi League | 1.500 coins | -5.3% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 1.900 coins | -5.6% |
 
 
 ## 📈 Destaques
 
-- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Andreia Jacinto (88, CM)** da Liga F, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12.250 coins**
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
-
-- **João Cancelo (84, RB)** da ROSHN Saudi League, a apenas **1.500 coins**
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Ricardo Carvalho (88, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Ricardo Carvalho (88, CB) por 12.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Rui Costa (87, CAM) por 12.250 coins é a referência de rating deste recorte.
+- **Meio:** Andreia Jacinto (88, CM) por 14.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -80,7 +80,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Ricardo Carvalho (88, Liga Portugal) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
+Ricardo Carvalho (88, Liga Portugal) aparece como melhor custo-benefício, a 12.250 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
