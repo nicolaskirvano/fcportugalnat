@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:23:01.000Z
+pubDatetime: 2026-07-17T19:23:18.000Z
 title: "Investimentos EA FC: Portugueses em 17/07 — PC"
 draft: false
 featured: true
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** João Moutinho (88) acumula **+58.7% em 7 dias** a 119k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** João Moutinho (88) acumula **+58.7% em 7 dias** a 119k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.5% em 24h** e **+26.2% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.5% em 24h** e **+18.5% em 7 dias**.
+- **3 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Moutinho | 88 | Liga Portugal | 119k coins | +22.1% | +58.7% | Esticada |
-| Diogo Dalot | 87 | Premier League | 96k coins | +10% | +57.1% | Momentum moderado |
-| Bruno Fernandes | 88 | Premier League | 66k coins | +14.5% | +48.9% | Momentum moderado |
-| Trincão | 86 | Liga Portugal | 37k coins | +31.9% | +40.4% | Esticada |
+| João Moutinho | 88 | Liga Portugal | 119k coins | +9.2% | +58.7% | Momentum moderado |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 44k coins | +14.2% | +46.3% | Momentum moderado |
 | Rui Costa | 88 | Serie A TIM | 42k coins | +5.7% | +36.6% | Momentum moderado |
-| Pizzi | 85 | Liga Portugal | 39k coins | +23.6% | +29.8% | Esticada |
-| Nélson Oliveira | 86 | Liga Portugal | 30k coins | +11.7% | +29.2% | Momentum moderado |
-| Francisco Conceição | 89 | Serie A TIM | 95k coins | +2.5% | +26.2% | Momentum moderado |
-| Rafa | 84 | Trendyol Süper Lig | 85k coins | +20.7% | +25.2% | Esticada |
-| João Neves | 86 | Ligue 1 McDonald's | 50k coins | +27.3% | +22.5% | Esticada |
-| Bernardo Silva | 86 | Premier League | 60k coins | +3.4% | +20% | Entrada a observar |
-| Luís Figo | 90 | Icons | 49k coins | +7.4% | +17.2% | Momentum moderado |
-| João Neves | 88 | Ligue 1 McDonald's | 185k coins | +32.1% | +15.6% | Esticada |
-| Nuno Tavares | 91 | Serie A TIM | 65k coins | +25% | +12.1% | Esticada |
-| Rúben Neves | 87 | ROSHN Saudi League | 28k coins | +13.3% | +11% | Momentum moderado |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 29k coins | +12.3% | +28% | Momentum moderado |
+| Vitinha | 90 | Ligue 1 McDonald's | 195k coins | +30% | +24.2% | Esticada |
+| Rafa | 84 | Trendyol Süper Lig | 75k coins | +14.3% | +18.5% | Momentum moderado |
+| Pedro Gonçalves | 86 | Liga Portugal | 52k coins | +5% | +14.8% | Entrada a observar |
+| Nuno Tavares | 91 | Serie A TIM | 66k coins | +31.7% | +12.9% | Esticada |
+| Youssef Chermiti | 86 | Scottish Premiership | 46k coins | +38.9% | +11.7% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 27k coins | +13.5% | +9% | Momentum moderado |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 28k coins | +2.7% | +7.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **João Moutinho (88)** — 119k coins, **+58.7% em 7 dias** (+22.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Moutinho (88)** — 119k coins, **+58.7% em 7 dias** (+9.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diogo Dalot (87)** — 96k coins, **+57.1% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Bruno Fernandes (88)** — 66k coins, **+48.9% em 7 dias** (+14.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Trincão (86)** — 37k coins, **+40.4% em 7 dias** (+31.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Afonso Moreira (84)** — 44k coins, **+46.3% em 7 dias** (+14.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Rui Costa (88)** — 42k coins, **+36.6% em 7 dias** (+5.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Paulo Futre (88)** — 29k coins, **+28% em 7 dias** (+12.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Vitinha (90)** — 195k coins, **+24.2% em 7 dias** (+30% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
