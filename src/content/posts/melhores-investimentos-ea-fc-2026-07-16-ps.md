@@ -1,72 +1,84 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:23:09.000Z
-title: "Melhores investimentos em Portugueses no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-17T00:06:14.000Z
+title: "Investimentos EA FC: Portugueses em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "João Cancelo (87, ROSHN Saudi League) lidera, com +77.8% em 7 dias a 64k coins no Console (PS), e o modelo dá 54% de chance de seguir subindo."
+    a: "João Cancelo (87, ROSHN Saudi League) lidera, com +75% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** João Cancelo (87) acumula **+77.8% em 7 dias** a 64k coins.
+> 🔝 **Destaque:** João Cancelo (87) acumula **+75% em 7 dias** a 50k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+9.7% em 24h** e **+33.3% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Cancelo | 87 | ROSHN Saudi League | 64k coins | +33.3% | +77.8% | 54% |
-| João Neves | 88 | Ligue 1 McDonald's | 85k coins | +19.4% | +73.9% | 23% |
-| Bernardo Silva | 87 | Premier League | 82k coins | +34.7% | +63% | 10% |
-| Youssef Chermiti | 86 | Scottish Premiership | 55k coins | +4.8% | +63% | 25% |
-| Quaresma | 85 | Liga Portugal | 111k coins | +7.8% | +37.9% | 0% |
-| Quaresma | 89 | Liga Portugal | 220k coins | +3.9% | +31.2% | 0% |
-| Vitinha | 90 | Ligue 1 McDonald's | 114k coins | +9.2% | +25.1% | 38% |
-| Francisco Moura | 90 | Liga Portugal | 50k coins | +1% | +22.7% | 14% |
-| Rui Costa | 88 | Serie A TIM | 30k coins | +38.4% | +19% | 18% |
-| Pedro Neto | 88 | Premier League | 70k coins | +23.9% | +18.6% | 19% |
-| Paulo Futre | 92 | Liga Portugal | 116k coins | +10.8% | +16.5% | 10% |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 42k coins | +18.6% | +13.7% | 38% |
-| Rafa | 84 | Trendyol Süper Lig | 48k coins | +6.1% | +13.7% | 35% |
-| João Neves | 86 | Ligue 1 McDonald's | 38k coins | +1.4% | +10.3% | 0% |
-| João Félix | 87 | ROSHN Saudi League | 54k coins | +13.4% | +6.8% | 23% |
+| João Cancelo | 87 | ROSHN Saudi League | 50k coins | +16.7% | +75% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 84k coins | +9.7% | +74.2% | Esticada |
+| Bruno Fernandes | 88 | Premier League | 100k coins | +11.1% | +68.1% | Esticada |
+| João Moutinho | 88 | Liga Portugal | 142k coins | +28.2% | +65.9% | Esticada |
+| Bernardo Silva | 87 | Premier League | 97k coins | +38.6% | +63% | Esticada |
+| Bruno Fernandes | 93 | Premier League | 218k coins | +5.3% | +46.7% | Momentum moderado |
+| Francisco Conceição | 85 | Serie A TIM | 20k coins | +9% | +36.2% | Momentum moderado |
+| Ricardo Horta | 90 | Liga Portugal | 40k coins | +3.9% | +33.3% | Momentum moderado |
+| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +18.9% | +27% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 42k coins | +16.4% | +18.6% | Momentum moderado |
+| Rui Costa | 88 | Serie A TIM | 30k coins | +29.3% | +15.5% | Esticada |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 40k coins | +9.2% | +13.7% | Momentum moderado |
+| Luís Figo | 89 | Icons | 76k coins | +2% | +10.9% | Entrada a observar |
+| Paulo Futre | 92 | Liga Portugal | 115k coins | +6.9% | +9% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 33k coins | +2% | +7.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **João Cancelo (87)** — 64k coins, **+77.8% em 7 dias** (+33.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **54% de chance de seguir subindo**.
+- **João Cancelo (87)** — 50k coins, **+75% em 7 dias** (+16.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (88)** — 85k coins, **+73.9% em 7 dias** (+19.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **João Neves (88)** — 84k coins, **+74.2% em 7 dias** (+9.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bernardo Silva (87)** — 82k coins, **+63% em 7 dias** (+34.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Bruno Fernandes (88)** — 100k coins, **+68.1% em 7 dias** (+11.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youssef Chermiti (86)** — 55k coins, **+63% em 7 dias** (+4.8% em 24h). Preço +33% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **João Moutinho (88)** — 142k coins, **+65.9% em 7 dias** (+28.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Quaresma (85)** — 111k coins, **+37.9% em 7 dias** (+7.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bernardo Silva (87)** — 97k coins, **+63% em 7 dias** (+38.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## 🔍 Como apuramos os preços
@@ -76,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-João Cancelo (87, ROSHN Saudi League) lidera, com +77.8% em 7 dias a 64k coins no Console (PS), e o modelo dá 54% de chance de seguir subindo.
+João Cancelo (87, ROSHN Saudi League) lidera, com +75% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -90,3 +102,11 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Portugueses em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Portugueses — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
