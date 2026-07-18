@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:23:17.000Z
+pubDatetime: 2026-07-18T16:23:17.000Z
 title: "Mercado EA FC em 18/07: Portugueses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Nuno Tavares (87, Serie A TIM), com +49.4% em 24h, a 50k coins no PC."
+    a: "Rodrigo Mora (88, Liga Portugal), com +59.7% em 24h, a 60k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Paulo Futre (89), -42.9% em 24h, a 145k coins."
+    a: "Paulo Futre (89), -39.8% em 24h, a 145k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 22 cartas em alta contra 35 em queda (média -1.92%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 26 cartas em alta contra 33 em queda (média -1.07%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **22 subiram** e **35 caíram**, com variação média de **-1.92%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **26 subiram** e **33 caíram**, com variação média de **-1.07%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Nuno Tavares (87) **+49.4%** · 🔴 **Maior baixa:** Paulo Futre (89) **-42.9%**
+> 🟢 **Maior alta:** Rodrigo Mora (88) **+59.7%** · 🔴 **Maior baixa:** Paulo Futre (89) **-39.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Portugueses — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.6% entre as cartas que se moveram; o universo observado reúne 72 cartas.
-- **Concentração:** Liga Portugal aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 99.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.1% entre as cartas que se moveram; o universo observado reúne 73 cartas.
+- **Concentração:** Liga Portugal aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 87 | Serie A TIM | 50k coins | +49.4% | +49.4% |
+| Rodrigo Mora | 88 | Liga Portugal | 60k coins | +59.7% | +87.4% |
+| Pedro Neto | 88 | Premier League | 90k coins | +48.9% | +40.4% |
 | Rafael Leão | 93 | Serie A TIM | 2M coins | +37.9% | 0% |
-| Francisco Moura | 90 | Liga Portugal | 55k coins | +36.6% | +64.2% |
-| Eduardo Quaresma | 88 | Liga Portugal | 28k coins | +30.7% | -43.6% |
-| Nuno Tavares | 91 | Serie A TIM | 80k coins | +29% | +52.4% |
-| Andreia Jacinto | 88 | Liga F | 22k coins | +22.9% | +19.4% |
-| Luís Figo | 89 | Icons | 83k coins | +22.9% | +3.6% |
-| Bruno Fernandes | 89 | Premier League | 97k coins | +20.6% | +17.1% |
-| Cláudio Braga | 87 | Scottish Premiership | 30k coins | +15.3% | +45.5% |
-| Pedro Gonçalves | 86 | Liga Portugal | 55k coins | +12.8% | +31% |
+| Bruno Fernandes | 89 | Premier League | 100k coins | +35.8% | +37.5% |
+| Francisco Moura | 90 | Liga Portugal | 49k coins | +27.5% | -1.9% |
+| Nuno Tavares | 87 | Serie A TIM | 46k coins | +25.2% | +14.5% |
+| Pizzi | 85 | Liga Portugal | 39k coins | +21.6% | +58.8% |
+| Diogo Dalot | 87 | Premier League | 108k coins | +21.1% | +24.6% |
+| João Carvalho | 84 | Liga Portugal | 42k coins | +16.7% | -4% |
+| Eusébio | 91 | Icons | 750k coins | +8.7% | +14.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nuno Tavares (87)** subiu **+49.4%** em 24h, a **50k coins** (faixa do dia: 29k–70k). Está -9% abaixo da média de 7 dias (descontada).
+- **Rodrigo Mora (88)** subiu **+59.7%** em 24h, a **60k coins** (faixa do dia: 34k–60k). Está +57% acima da média de 7 dias (aquecida).
+
+- **Pedro Neto (88)** subiu **+48.9%** em 24h, a **90k coins** (faixa do dia: 55k–105k). Está em linha com a média de 7 dias (+5%).
 
 - **Rafael Leão (93)** subiu **+37.9%** em 24h, a **2M coins** (faixa do dia: 1.45M–2M). Está +29% acima da média de 7 dias (aquecida).
-
-- **Francisco Moura (90)** subiu **+36.6%** em 24h, a **55k coins** (faixa do dia: 40k–55k). Está +35% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 145k coins | -42.9% | -41.8% |
-| Trincão | 86 | Liga Portugal | 25k coins | -37.3% | +17.8% |
-| Fábio Vieira | 87 | Bundesliga | 24k coins | -36.2% | -32% |
+| Paulo Futre | 89 | LALIGA EA SPORTS | 145k coins | -39.8% | -41.8% |
+| Trincão | 86 | Liga Portugal | 25k coins | -34.7% | +6.7% |
 | Nuno Mendes | 97 | Ligue 1 McDonald's | 1.80M coins | -30.7% | -38.5% |
-| Gonçalo Inácio | 89 | Liga Portugal | 135k coins | -28.6% | -20.6% |
-| Youssef Chermiti | 84 | Scottish Premiership | 34k coins | -27.8% | -13.5% |
-| Rafa | 84 | Trendyol Süper Lig | 62k coins | -26.7% | -34.9% |
-| Diogo Dalot | 87 | Premier League | 110k coins | -18.6% | +4.1% |
-| Rodrigo Mora | 87 | Liga Portugal | 28k coins | -18% | -7.6% |
-| João Neves | 86 | Ligue 1 McDonald's | 110k coins | -15.3% | +11% |
+| Bruno Fernandes | 88 | Premier League | 46k coins | -28.7% | +1.7% |
+| Gonçalo Inácio | 89 | Liga Portugal | 130k coins | -28.6% | -15.6% |
+| Rafa | 84 | Trendyol Süper Lig | 58k coins | -28.1% | -32% |
+| João Cancelo | 87 | ROSHN Saudi League | 66k coins | -28.1% | +94.2% |
+| Youssef Chermiti | 84 | Scottish Premiership | 34k coins | -26.5% | -12.8% |
+| João Neves | 86 | Ligue 1 McDonald's | 36k coins | -26.1% | -8.1% |
+| Paulo Futre | 92 | Liga Portugal | 100k coins | -25.9% | -19.4% |
 
 
 ### Análise das baixas
 
-- **Paulo Futre (89)** caiu **-42.9%** em 24h, a **145k coins** (faixa do dia: 145k–251k). Está -39% abaixo da média de 7 dias (descontada).
+- **Paulo Futre (89)** caiu **-39.8%** em 24h, a **145k coins** (faixa do dia: 145k–251k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Trincão (86)** caiu **-37.3%** em 24h, a **25k coins** (faixa do dia: 22k–41k). Está -9% abaixo da média de 7 dias (descontada).
+- **Trincão (86)** caiu **-34.7%** em 24h, a **25k coins** (faixa do dia: 22k–38k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Fábio Vieira (87)** caiu **-36.2%** em 24h, a **24k coins** (faixa do dia: 20k–40k). Está -25% abaixo da média de 7 dias (descontada).
+- **Nuno Mendes (97)** caiu **-30.7%** em 24h, a **1.80M coins** (faixa do dia: 1.68M–2.60M). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nuno Tavares já avançou 49.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Rodrigo Mora já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Paulo Futre recuou -42.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paulo Futre recuou -39.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Nuno Tavares (87, Serie A TIM), com +49.4% em 24h, a 50k coins no PC.
+Rodrigo Mora (88, Liga Portugal), com +59.7% em 24h, a 60k coins no PC.
 
 **E a maior queda do dia?**
-Paulo Futre (89), -42.9% em 24h, a 145k coins.
+Paulo Futre (89), -39.8% em 24h, a 145k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 22 cartas em alta contra 35 em queda (média -1.92%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 26 cartas em alta contra 33 em queda (média -1.07%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
