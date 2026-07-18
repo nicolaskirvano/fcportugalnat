@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:23:18.000Z
+pubDatetime: 2026-07-18T01:23:19.000Z
 title: "Investimentos EA FC: Portugueses em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Rui Costa (88, Serie A TIM) lidera, com +36.6% em 7 dias a 38k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Paulo Futre (88, LALIGA EA SPORTS) lidera, com +21.1% em 7 dias a 27k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rui Costa (88) acumula **+36.6% em 7 dias** a 38k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Paulo Futre (88) acumula **+21.1% em 7 dias** a 27k coins; leitura atual: **entrada a observar**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.7% em 24h** e **+12.9% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+10.9% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rui Costa | 88 | Serie A TIM | 38k coins | +5.7% | +36.6% | Momentum moderado |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 28k coins | +7.5% | +26.4% | Momentum moderado |
-| Nuno Tavares | 91 | Serie A TIM | 66k coins | +4% | +12.9% | Entrada a observar |
-| Bruno Fernandes | 89 | Premier League | 110k coins | +29.4% | +12.8% | Esticada |
-| Rúben Neves | 87 | ROSHN Saudi League | 25k coins | +5.9% | +7% | Momentum moderado |
-| Nélson Oliveira | 86 | Liga Portugal | 24k coins | +20.9% | +6.1% | Esticada |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 27k coins | +1.9% | +21.1% | Entrada a observar |
+| Bruno Fernandes | 89 | Premier League | 110k coins | +22.9% | +12.8% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 90k coins | +12.5% | +9.1% | Momentum moderado |
+| Paulo Futre | 92 | Liga Portugal | 129k coins | +12.5% | +7.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Rui Costa (88)** — 38k coins, **+36.6% em 7 dias** (+5.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Futre (88)** — 27k coins, **+21.1% em 7 dias** (+1.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paulo Futre (88)** — 28k coins, **+26.4% em 7 dias** (+7.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bruno Fernandes (89)** — 110k coins, **+12.8% em 7 dias** (+22.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nuno Tavares (91)** — 66k coins, **+12.9% em 7 dias** (+4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 90k coins, **+9.1% em 7 dias** (+12.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bruno Fernandes (89)** — 110k coins, **+12.8% em 7 dias** (+29.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Rúben Neves (87)** — 25k coins, **+7% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Futre (92)** — 129k coins, **+7.1% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +75,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Rui Costa (88, Serie A TIM) lidera, com +36.6% em 7 dias a 38k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Paulo Futre (88, LALIGA EA SPORTS) lidera, com +21.1% em 7 dias a 27k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,6 +93,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Portugueses em 17/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-17-pc/)
 - [Mercado EA FC em 17/07: Portugueses — PC](/posts/mercado-ea-fc-2026-07-17-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
