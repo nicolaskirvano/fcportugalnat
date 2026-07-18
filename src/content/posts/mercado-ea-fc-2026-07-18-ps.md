@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:23:07.000Z
+pubDatetime: 2026-07-18T22:23:07.000Z
 title: "Mercado EA FC em 18/07: Portugueses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Geovany Quenda (85, Liga Portugal), com +41.1% em 24h, a 79k coins no Console (PS)."
+    a: "Vitinha (91, Ligue 1 McDonald's), com +41.6% em 24h, a 630k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Gonçalo Inácio (89), -30.9% em 24h, a 35k coins."
+    a: "João Moutinho (88), -44% em 24h, a 145k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 28 cartas em alta contra 33 em queda (média 1.85%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 25 cartas em alta contra 30 em queda (média 1.04%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **28 subiram** e **33 caíram**, com variação média de **1.85%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **25 subiram** e **30 caíram**, com variação média de **1.04%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Geovany Quenda (85) **+41.1%** · 🔴 **Maior baixa:** Gonçalo Inácio (89) **-30.9%**
+> 🟢 **Maior alta:** Vitinha (91) **+41.6%** · 🔴 **Maior baixa:** João Moutinho (88) **-44%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Portugueses — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 72.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.9% entre as cartas que se moveram; o universo observado reúne 66 cartas.
-- **Concentração:** Liga Portugal aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 85.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.5% entre as cartas que se moveram; o universo observado reúne 60 cartas.
+- **Concentração:** Serie A TIM aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Geovany Quenda | 85 | Liga Portugal | 79k coins | +41.1% | +15.3% |
-| Ivan Cavaleiro | 85 | Liga Portugal | 66k coins | +38% | +61.3% |
-| Nuno Tavares | 87 | Serie A TIM | 42k coins | +30.2% | +18.3% |
-| Vitinha | 90 | Ligue 1 McDonald's | 205k coins | +29.7% | +20.6% |
-| José Fonte | 85 | Liga Portugal | 24k coins | +28.4% | -5% |
-| Rafa | 84 | Trendyol Süper Lig | 41k coins | +24.1% | -1.8% |
-| Pedro Neto | 85 | Premier League | 40k coins | +11.9% | +7.9% |
-| Bruno Fernandes | 88 | Premier League | 72k coins | +11.4% | +9.1% |
-| Ricardo Carvalho | 89 | Liga Portugal | 48k coins | +9.9% | -58% |
-| Pedro Gonçalves | 86 | Liga Portugal | 38k coins | +9.1% | +21.9% |
+| Vitinha | 91 | Ligue 1 McDonald's | 630k coins | +41.6% | +19.5% |
+| Félix Correia | 89 | Ligue 1 McDonald's | 22k coins | +40% | +33.8% |
+| Fátima Pinto | 80 | Frauen-Bundesliga | 46k coins | +30% | -4.2% |
+| Francisco Moura | 90 | Liga Portugal | 50k coins | +25% | +106.2% |
+| Francisco Conceição | 84 | Serie A TIM | 50k coins | +23.8% | +25.3% |
+| Vitinha | 90 | Ligue 1 McDonald's | 200k coins | +22% | +10.9% |
+| Rúben Neves | 87 | ROSHN Saudi League | 49k coins | +18.5% | +27.6% |
+| Pizzi | 85 | Liga Portugal | 32k coins | +7.6% | +14.3% |
+| Quaresma | 89 | Liga Portugal | 280k coins | +7.4% | +34.3% |
+| Félix Correia | 81 | Ligue 1 McDonald's | 50k coins | +7% | +3.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Geovany Quenda (85)** subiu **+41.1%** em 24h, a **79k coins** (faixa do dia: 45k–80k). Está +13% acima da média de 7 dias (aquecida).
+- **Vitinha (91)** subiu **+41.6%** em 24h, a **630k coins** (faixa do dia: 390k–821k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Ivan Cavaleiro (85)** subiu **+38%** em 24h, a **66k coins** (faixa do dia: 42k–66k). Está +20% acima da média de 7 dias (aquecida).
+- **Félix Correia (89)** subiu **+40%** em 24h, a **22k coins** (faixa do dia: 15.000–30k). Está em linha com a média de 7 dias (+6%).
 
-- **Nuno Tavares (87)** subiu **+30.2%** em 24h, a **42k coins** (faixa do dia: 24k–55k). Está +15% acima da média de 7 dias (aquecida).
+- **Fátima Pinto (80)** subiu **+30%** em 24h, a **46k coins** (faixa do dia: 35k–46k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gonçalo Inácio | 89 | Liga Portugal | 35k coins | -30.9% | -10.2% |
-| Paulo Futre | 92 | Liga Portugal | 77k coins | -23.8% | -21.4% |
-| Quaresma | 89 | Liga Portugal | 261k coins | -19.4% | +2.3% |
-| Eusébio | 92 | Icons | 787k coins | -16% | -15.8% |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 20k coins | -14.8% | -1.4% |
-| Rúben Neves | 87 | ROSHN Saudi League | 42k coins | -14.3% | -5.3% |
-| Rodrigo Mora | 87 | Liga Portugal | 26k coins | -12.5% | +4% |
-| João Neves | 86 | Ligue 1 McDonald's | 42k coins | -11.8% | +30.3% |
-| Quaresma | 88 | Trendyol Süper Lig | 220k coins | -10.5% | +1.4% |
-| Dolores Silva | 84 | Liga F | 44k coins | -9.7% | +21.4% |
+| João Moutinho | 88 | Liga Portugal | 145k coins | -44% | +21.5% |
+| Francisco Conceição | 89 | Serie A TIM | 32k coins | -38.1% | -53.7% |
+| Bernardo Silva | 87 | Premier League | 60k coins | -25.9% | -3.1% |
+| Rafael Leão | 87 | Serie A TIM | 330k coins | -20.3% | -3.3% |
+| Eusébio | 94 | Icons | 1.31M coins | -18% | -3% |
+| Eusébio | 92 | Icons | 878k coins | -17.8% | -20.1% |
+| Nuno Tavares | 91 | Serie A TIM | 58k coins | -17.1% | +42.3% |
+| Quaresma | 88 | Trendyol Süper Lig | 233k coins | -16.6% | -5.5% |
+| Rui Costa | 88 | Serie A TIM | 22k coins | -15.1% | -7.2% |
+| Rafael Leão | 93 | Serie A TIM | 945k coins | -13.9% | -20.9% |
 
 
 ### Análise das baixas
 
-- **Gonçalo Inácio (89)** caiu **-30.9%** em 24h, a **35k coins** (faixa do dia: 30k–51k). Está -50% abaixo da média de 7 dias (descontada).
+- **João Moutinho (88)** caiu **-44%** em 24h, a **145k coins** (faixa do dia: 130k–239k). Está em linha com a média de 7 dias (+5%).
 
-- **Paulo Futre (92)** caiu **-23.8%** em 24h, a **77k coins** (faixa do dia: 66k–112k). Está -22% abaixo da média de 7 dias (descontada).
+- **Francisco Conceição (89)** caiu **-38.1%** em 24h, a **32k coins** (faixa do dia: 29k–109k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Quaresma (89)** caiu **-19.4%** em 24h, a **261k coins** (faixa do dia: 220k–275k). Está em linha com a média de 7 dias (+7%).
+- **Bernardo Silva (87)** caiu **-25.9%** em 24h, a **60k coins** (faixa do dia: 55k–100k). Está -26% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Geovany Quenda já avançou 41.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Vitinha já avançou 41.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Gonçalo Inácio recuou -30.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** João Moutinho recuou -44%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Geovany Quenda (85, Liga Portugal), com +41.1% em 24h, a 79k coins no Console (PS).
+Vitinha (91, Ligue 1 McDonald's), com +41.6% em 24h, a 630k coins no Console (PS).
 
 **E a maior queda do dia?**
-Gonçalo Inácio (89), -30.9% em 24h, a 35k coins.
+João Moutinho (88), -44% em 24h, a 145k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 28 cartas em alta contra 33 em queda (média 1.85%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 25 cartas em alta contra 30 em queda (média 1.04%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
