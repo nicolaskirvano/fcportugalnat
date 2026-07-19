@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:23:18.000Z
+pubDatetime: 2026-07-19T13:23:18.000Z
 title: "Investimentos EA FC: Portugueses em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Nélson Oliveira (86, Liga Portugal) lidera, com +43.6% em 7 dias a 34k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Luís Figo (90, Icons) lidera, com +75.8% em 7 dias a 54k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nélson Oliveira (86) acumula **+43.6% em 7 dias** a 34k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Luís Figo (90) acumula **+75.8% em 7 dias** a 54k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+22.1% em 7 dias**.
-- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.3% em 24h** e **+16.6% em 7 dias**.
+- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Scottish Premiership** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nélson Oliveira | 86 | Liga Portugal | 34k coins | +20.5% | +43.6% | Esticada |
-| Cláudio Braga | 87 | Scottish Premiership | 29k coins | +5.2% | +37.1% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 47k coins | +27.2% | +29.9% | Esticada |
-| Diogo Dalot | 87 | Premier League | 109k coins | +6.9% | +27.5% | Momentum moderado |
-| Pedro Neto | 88 | Premier League | 92k coins | +14.3% | +26.6% | Momentum moderado |
-| Bernardo Silva | 86 | Premier League | 60k coins | +5.3% | +17.6% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 139k coins | +25.2% | +16.8% | Esticada |
-| João Félix | 87 | ROSHN Saudi League | 99k coins | +24.2% | +16.3% | Esticada |
-| Pedro Neto | 85 | Premier League | 41k coins | +7.1% | +8.4% | Momentum moderado |
-| Vitinha | 90 | Ligue 1 McDonald's | 179k coins | +5.3% | +5.9% | Momentum moderado |
+| Luís Figo | 90 | Icons | 54k coins | +5.5% | +75.8% | Esticada |
+| Nélson Oliveira | 86 | Liga Portugal | 34k coins | +26.2% | +50% | Esticada |
+| Cláudio Braga | 87 | Scottish Premiership | 31k coins | +15.7% | +42% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 139k coins | +14.9% | +16.8% | Momentum moderado |
+| João Cancelo | 87 | ROSHN Saudi League | 99k coins | +37.5% | +16.5% | Esticada |
+| Pedro Neto | 85 | Premier League | 42k coins | +9% | +10.4% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 44k coins | +26.1% | +9.1% | Esticada |
+| Youssef Chermiti | 84 | Scottish Premiership | 35k coins | +3% | +5.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Nélson Oliveira (86)** — 34k coins, **+43.6% em 7 dias** (+20.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luís Figo (90)** — 54k coins, **+75.8% em 7 dias** (+5.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cláudio Braga (87)** — 29k coins, **+37.1% em 7 dias** (+5.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nélson Oliveira (86)** — 34k coins, **+50% em 7 dias** (+26.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 47k coins, **+29.9% em 7 dias** (+27.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cláudio Braga (87)** — 31k coins, **+42% em 7 dias** (+15.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diogo Dalot (87)** — 109k coins, **+27.5% em 7 dias** (+6.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 139k coins, **+16.8% em 7 dias** (+14.9% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Neto (88)** — 92k coins, **+26.6% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Cancelo (87)** — 99k coins, **+16.5% em 7 dias** (+37.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +81,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Nélson Oliveira (86, Liga Portugal) lidera, com +43.6% em 7 dias a 34k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Luís Figo (90, Icons) lidera, com +75.8% em 7 dias a 54k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
