@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:23:09.000Z
+pubDatetime: 2026-07-19T16:23:09.000Z
 title: "Investimentos EA FC: Portugueses em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Paulo Futre (89, LALIGA EA SPORTS) lidera, com +58.4% em 7 dias a 244k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "João Neves (86, Ligue 1 McDonald's) lidera, com +84.9% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Paulo Futre (89) acumula **+58.4% em 7 dias** a 244k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** João Neves (86) acumula **+84.9% em 7 dias** a 45k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 19/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-19-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.4% em 24h** e **+24.4% em 7 dias**.
-- **2 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.1% em 24h** e **+27.4% em 7 dias**.
+- **5 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 244k coins | +8.4% | +58.4% | Momentum moderado |
-| Cláudio Braga | 87 | Scottish Premiership | 25k coins | +13.6% | +40.8% | Momentum moderado |
-| Dolores Silva | 84 | Liga F | 50k coins | +5.3% | +37.9% | Momentum moderado |
-| Ivan Cavaleiro | 85 | Liga Portugal | 60k coins | +26.4% | +35% | Esticada |
-| Nélson Oliveira | 86 | Liga Portugal | 20k coins | +16.7% | +31.2% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 45k coins | +25% | +84.9% | Esticada |
+| Luís Figo | 90 | Icons | 52k coins | +4.9% | +84.6% | Esticada |
+| Cláudio Braga | 87 | Scottish Premiership | 25k coins | +12.5% | +54.7% | Momentum moderado |
+| João Moutinho | 88 | Liga Portugal | 163k coins | +2% | +53% | Momentum moderado |
+| Ivan Cavaleiro | 85 | Liga Portugal | 58k coins | +31.1% | +49.1% | Esticada |
+| Rodrigo Mora | 87 | Liga Portugal | 34k coins | +12.1% | +39.5% | Momentum moderado |
+| Paulo Futre | 89 | LALIGA EA SPORTS | 190k coins | +2% | +27.4% | Momentum moderado |
 | Youssef Chermiti | 84 | Scottish Premiership | 48k coins | +1.6% | +25% | Entrada a observar |
-| Andreia Jacinto | 88 | Liga F | 16.000 coins | +35.2% | +23.7% | Esticada |
-| Pedro Neto | 88 | Premier League | 59k coins | +19% | +20.8% | Momentum moderado |
-| Nuno Tavares | 87 | Serie A TIM | 41k coins | +3.8% | +19.4% | Entrada a observar |
-| Rúben Neves | 87 | ROSHN Saudi League | 48k coins | +3.2% | +18.5% | Entrada a observar |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 18.750 coins | +4% | +18.2% | Entrada a observar |
-| Francisco Conceição | 84 | Serie A TIM | 45k coins | +8.5% | +12.6% | Momentum moderado |
+| Pedro Neto | 88 | Premier League | 64k coins | +19% | +22.7% | Momentum moderado |
+| Paulo Futre | 92 | Liga Portugal | 100k coins | +24.4% | +20% | Esticada |
+| Rafa | 84 | Trendyol Süper Lig | 40k coins | +20.7% | +15.1% | Esticada |
+| Luís Figo | 89 | Icons | 78k coins | +5.8% | +6.6% | Momentum moderado |
+| Bruno Fernandes | 93 | Premier League | 165k coins | +9% | +5.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Paulo Futre (89)** — 244k coins, **+58.4% em 7 dias** (+8.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 45k coins, **+84.9% em 7 dias** (+25% em 24h). Preço -29% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cláudio Braga (87)** — 25k coins, **+40.8% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luís Figo (90)** — 52k coins, **+84.6% em 7 dias** (+4.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dolores Silva (84)** — 50k coins, **+37.9% em 7 dias** (+5.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cláudio Braga (87)** — 25k coins, **+54.7% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Cavaleiro (85)** — 60k coins, **+35% em 7 dias** (+26.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Moutinho (88)** — 163k coins, **+53% em 7 dias** (+2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nélson Oliveira (86)** — 20k coins, **+31.2% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Cavaleiro (85)** — 58k coins, **+49.1% em 7 dias** (+31.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Paulo Futre (89, LALIGA EA SPORTS) lidera, com +58.4% em 7 dias a 244k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+João Neves (86, Ligue 1 McDonald's) lidera, com +84.9% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -103,7 +104,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Portugueses em 19/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-19-ps/)
 - [Mercado EA FC em 19/07: Portugueses — Console (PS)](/posts/mercado-ea-fc-2026-07-19-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
