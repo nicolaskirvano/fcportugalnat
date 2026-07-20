@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:23:09.000Z
+pubDatetime: 2026-07-20T13:23:09.000Z
 title: "Investimentos EA FC: Portugueses em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Cláudio Braga (87, Scottish Premiership) lidera, com +82.3% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Trincão (86, Liga Portugal) lidera, com +46.6% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Cláudio Braga (87) acumula **+82.3% em 7 dias** a 30k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Trincão (86) acumula **+46.6% em 7 dias** a 30k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+18.3% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Scottish Premiership** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.7% em 24h** e **+13.7% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cláudio Braga | 87 | Scottish Premiership | 30k coins | +13% | +82.3% | Esticada |
-| Francisco Conceição | 84 | Serie A TIM | 37k coins | +30.4% | +56.9% | Esticada |
-| Trincão | 86 | Liga Portugal | 25k coins | +22% | +37% | Esticada |
-| Bruno Fernandes | 88 | Premier League | 51k coins | +30.1% | +26.5% | Esticada |
-| Luís Figo | 89 | Icons | 72k coins | +4.1% | +10.1% | Entrada a observar |
-| Pizzi | 85 | Liga Portugal | 33k coins | +6.5% | +10% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 38k coins | +7% | +9.3% | Momentum moderado |
-| Youssef Chermiti | 86 | Scottish Premiership | 38k coins | +6.2% | +8.3% | Momentum moderado |
+| Trincão | 86 | Liga Portugal | 30k coins | +20.2% | +46.6% | Esticada |
+| Ricardo Carvalho | 88 | Liga Portugal | 15.750 coins | +16.7% | +21.2% | Momentum moderado |
+| Pizzi | 85 | Liga Portugal | 35k coins | +11.1% | +20.7% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 46k coins | +18.1% | +13.7% | Momentum moderado |
+| João Cancelo | 87 | ROSHN Saudi League | 40k coins | +7.9% | +13.4% | Momentum moderado |
+| António Silva | 87 | Liga Portugal | 20k coins | +35.6% | +11.1% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 17.500 coins | +9.1% | +10.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Cláudio Braga (87)** — 30k coins, **+82.3% em 7 dias** (+13% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trincão (86)** — 30k coins, **+46.6% em 7 dias** (+20.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Francisco Conceição (84)** — 37k coins, **+56.9% em 7 dias** (+30.4% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Carvalho (88)** — 15.750 coins, **+21.2% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trincão (86)** — 25k coins, **+37% em 7 dias** (+22% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pizzi (85)** — 35k coins, **+20.7% em 7 dias** (+11.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bruno Fernandes (88)** — 51k coins, **+26.5% em 7 dias** (+30.1% em 24h). Preço -38% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (86)** — 46k coins, **+13.7% em 7 dias** (+18.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luís Figo (89)** — 72k coins, **+10.1% em 7 dias** (+4.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Cancelo (87)** — 40k coins, **+13.4% em 7 dias** (+7.9% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +89,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Cláudio Braga (87, Scottish Premiership) lidera, com +82.3% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Trincão (86, Liga Portugal) lidera, com +46.6% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
