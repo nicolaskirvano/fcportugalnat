@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:23:17.000Z
+pubDatetime: 2026-07-20T01:23:17.000Z
 title: "Mercado EA FC em 19/07: Portugueses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Rafa (84, Trendyol Süper Lig), com +54.5% em 24h, a 85k coins no PC."
+    a: "Paulo Futre (92, Liga Portugal), com +59.1% em 24h, a 97k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Rafael Leão (93), -49.3% em 24h, a 1.01M coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 29 cartas em alta contra 26 em queda (média 0.92%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 30 cartas em alta contra 33 em queda (média 3.73%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **19/07/2026** (PC): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **29 em alta** e **26 em queda**, média de **0.92%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **19/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **30 em alta** e **33 em queda**, média de **3.73%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rafa (84) **+54.5%** · 🔴 **Maior baixa:** Rafael Leão (93) **-49.3%**
+> 🟢 **Maior alta:** Paulo Futre (92) **+59.1%** · 🔴 **Maior baixa:** Rafael Leão (93) **-49.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Portugueses — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **19/07/2026** (PC): dia **indefinido** — sem tendência dominante
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.7% entre as cartas que se moveram; o universo observado reúne 65 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.6% entre as cartas que se moveram; o universo observado reúne 73 cartas.
+- **Concentração:** Liga Portugal aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rafa | 84 | Trendyol Süper Lig | 85k coins | +54.5% | +1.8% |
-| Gonçalo Inácio | 89 | Liga Portugal | 201k coins | +44.7% | 0% |
+| Paulo Futre | 92 | Liga Portugal | 97k coins | +59.1% | -14.8% |
+| Youssef Chermiti | 86 | Scottish Premiership | 50k coins | +50.8% | +32.7% |
+| Félix Correia | 89 | Ligue 1 McDonald's | 28k coins | +46.1% | -31.9% |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 28k coins | +41.7% | -8.9% |
 | Paulo Futre | 89 | LALIGA EA SPORTS | 198k coins | +36.6% | -1% |
-| Nélson Oliveira | 86 | Liga Portugal | 34k coins | +35.3% | +46.8% |
-| Vitinha | 90 | Ligue 1 McDonald's | 378k coins | +20.7% | +5.3% |
-| João Neves | 86 | Ligue 1 McDonald's | 147k coins | +19.2% | +34.2% |
-| Francisco Conceição | 84 | Serie A TIM | 50k coins | +17.6% | +20.5% |
-| Fátima Pinto | 80 | Frauen-Bundesliga | 48k coins | +17.3% | 0% |
-| Rafael Leão | 86 | Serie A TIM | 800k coins | +14.4% | +14.4% |
-| Geovany Quenda | 85 | Liga Portugal | 73k coins | +13.6% | 0% |
+| Rafa | 84 | Trendyol Süper Lig | 85k coins | +34.9% | +9% |
+| Fátima Pinto | 80 | Frauen-Bundesliga | 48k coins | +30.1% | 0% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 34k coins | +28.2% | +27% |
+| Gonçalo Inácio | 89 | Liga Portugal | 191k coins | +25.7% | -13.2% |
+| Nélson Oliveira | 86 | Liga Portugal | 31k coins | +21.8% | +17.1% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Panorama de **19/07/2026** (PC): dia **indefinido** — sem tendência dominante
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rafa (84)** subiu **+54.5%** em 24h, a **85k coins** (faixa do dia: 35k–85k). Está +20% acima da média de 7 dias (aquecida).
+- **Paulo Futre (92)** subiu **+59.1%** em 24h, a **97k coins** (faixa do dia: 60k–134k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Gonçalo Inácio (89)** subiu **+44.7%** em 24h, a **201k coins** (faixa do dia: 125k–220k). Está em linha com a média de 7 dias (+6%).
+- **Youssef Chermiti (86)** subiu **+50.8%** em 24h, a **50k coins** (faixa do dia: 32k–50k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Paulo Futre (89)** subiu **+36.6%** em 24h, a **198k coins** (faixa do dia: 120k–220k). Está -12% abaixo da média de 7 dias (descontada).
+- **Félix Correia (89)** subiu **+46.1%** em 24h, a **28k coins** (faixa do dia: 14.000–28k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -73,29 +73,29 @@ Panorama de **19/07/2026** (PC): dia **indefinido** — sem tendência dominante
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.3% | -32.4% |
-| Rodrigo Mora | 88 | Liga Portugal | 32k coins | -46.2% | -13.4% |
-| Fábio Vieira | 87 | Bundesliga | 24k coins | -41.2% | -34.3% |
-| João Neves | 88 | Ligue 1 McDonald's | 61k coins | -27.2% | -12.5% |
-| Francisco Conceição | 89 | Serie A TIM | 60k coins | -25% | -9.1% |
-| Rúben Neves | 86 | Brasileirão | 35k coins | -23.2% | -19.3% |
-| Vitinha | 95 | Ligue 1 McDonald's | 468k coins | -19.2% | -23.3% |
-| Bruno Fernandes | 88 | Premier League | 33k coins | -17.7% | -11.6% |
-| João Neves | 88 | Ligue 1 McDonald's | 182k coins | -16.1% | -23.5% |
-| Rafael Leão | 87 | Serie A TIM | 1M coins | -15.3% | +18.5% |
+| Quaresma | 88 | Trendyol Süper Lig | 240k coins | -27.3% | -19.2% |
+| Vitinha | 95 | Ligue 1 McDonald's | 524k coins | -23.6% | -23.1% |
+| Pizzi | 85 | Liga Portugal | 26k coins | -22.1% | -33.8% |
+| Rúben Neves | 87 | ROSHN Saudi League | 26k coins | -21.1% | -30.1% |
+| Francisco Conceição | 89 | Serie A TIM | 54k coins | -17.2% | -8.4% |
+| Luís Figo | 90 | Icons | 54k coins | -11.6% | +55.1% |
+| Bernardo Silva | 87 | Premier League | 70k coins | -11.4% | -11.4% |
+| João Neves | 86 | Ligue 1 McDonald's | 43k coins | -10.5% | -3.9% |
+| Félix Correia | 81 | Ligue 1 McDonald's | 43k coins | -10% | -14.5% |
 
 
 ### Análise das baixas
 
 - **Rafael Leão (93)** caiu **-49.3%** em 24h, a **1.01M coins** (faixa do dia: 1M–2M). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Rodrigo Mora (88)** caiu **-46.2%** em 24h, a **32k coins** (faixa do dia: 24k–60k). Está -20% abaixo da média de 7 dias (descontada).
+- **Quaresma (88)** caiu **-27.3%** em 24h, a **240k coins** (faixa do dia: 240k–330k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Fábio Vieira (87)** caiu **-41.2%** em 24h, a **24k coins** (faixa do dia: 22k–40k). Está -23% abaixo da média de 7 dias (descontada).
+- **Vitinha (95)** caiu **-23.6%** em 24h, a **524k coins** (faixa do dia: 420k–579k). Está -17% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rafa já avançou 54.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Paulo Futre já avançou 59.1% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Rafael Leão recuou -49.3%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Rafa (84, Trendyol Süper Lig), com +54.5% em 24h, a 85k coins no PC.
+Paulo Futre (92, Liga Portugal), com +59.1% em 24h, a 97k coins no PC.
 
 **E a maior queda do dia?**
 Rafael Leão (93), -49.3% em 24h, a 1.01M coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 29 cartas em alta contra 26 em queda (média 0.92%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 30 cartas em alta contra 33 em queda (média 3.73%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
