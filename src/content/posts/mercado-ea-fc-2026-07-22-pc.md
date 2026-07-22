@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:23:17.000Z
+pubDatetime: 2026-07-22T13:23:17.000Z
 title: "Mercado EA FC em 22/07: Portugueses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Ricardo Carvalho (89, Liga Portugal), com +53.8% em 24h, a 100k coins no PC."
+    a: "Luís Figo (90, Icons), com +50.3% em 24h, a 60k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Bruno Fernandes (88), -43.1% em 24h, a 103k coins."
+    a: "João Félix (84), -36.8% em 24h, a 295k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 26 cartas em alta contra 30 em queda (média 3.32%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 26 cartas em alta contra 31 em queda (média 1.49%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**22/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **26 subiram**, **30 caíram** (80+ e 5k+ coins), média de **3.32%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**22/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **26 subiram**, **31 caíram** (80+ e 5k+ coins), média de **1.49%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ricardo Carvalho (89) **+53.8%** · 🔴 **Maior baixa:** Bruno Fernandes (88) **-43.1%**
+> 🟢 **Maior alta:** Luís Figo (90) **+50.3%** · 🔴 **Maior baixa:** João Félix (84) **-36.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Portugueses — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**22/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.4% entre as cartas que se moveram; o universo observado reúne 68 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 87.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.6% entre as cartas que se moveram; o universo observado reúne 69 cartas.
+- **Concentração:** Liga Portugal aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Carvalho | 89 | Liga Portugal | 100k coins | +53.8% | +42.9% |
-| Pizzi | 85 | Liga Portugal | 26k coins | +38.2% | -40.5% |
-| Andreia Jacinto | 88 | Liga F | 26k coins | +35.1% | +73.3% |
-| Bernardo Silva | 87 | Premier League | 90k coins | +34.3% | +20.8% |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 192k coins | +33.8% | -9.6% |
-| Diogo Dalot | 87 | Premier League | 159k coins | +29.3% | +36.4% |
-| Youssef Chermiti | 84 | Scottish Premiership | 49k coins | +27.3% | -10.9% |
-| Quaresma | 89 | Liga Portugal | 369k coins | +22.2% | +15.3% |
-| Rúben Neves | 87 | ROSHN Saudi League | 46k coins | +17.9% | -2.1% |
-| Nuno Tavares | 91 | Serie A TIM | 90k coins | +11.1% | +166.7% |
+| Luís Figo | 90 | Icons | 60k coins | +50.3% | +68.1% |
+| Andreia Jacinto | 88 | Liga F | 25k coins | +47.8% | +70% |
+| Fábio Vieira | 87 | Bundesliga | 32k coins | +42.9% | +9.1% |
+| Diogo Dalot | 87 | Premier League | 110k coins | +39.5% | +59.8% |
+| Ricardo Carvalho | 89 | Liga Portugal | 90k coins | +38.9% | +42.9% |
+| Bernardo Silva | 87 | Premier League | 89k coins | +34.6% | +12.6% |
+| Youssef Chermiti | 84 | Scottish Premiership | 48k coins | +25.3% | -12.3% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 21k coins | +21.7% | -15.2% |
+| Rúben Neves | 86 | Brasileirão | 40k coins | +19.4% | +15.1% |
+| Pedro Neto | 85 | Premier League | 40k coins | +13.5% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**22/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ricardo Carvalho (89)** subiu **+53.8%** em 24h, a **100k coins** (faixa do dia: 65k–100k). Está +50% acima da média de 7 dias (aquecida).
+- **Luís Figo (90)** subiu **+50.3%** em 24h, a **60k coins** (faixa do dia: 40k–65k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Pizzi (85)** subiu **+38.2%** em 24h, a **26k coins** (faixa do dia: 13.000–39k). Está -14% abaixo da média de 7 dias (descontada).
+- **Andreia Jacinto (88)** subiu **+47.8%** em 24h, a **25k coins** (faixa do dia: 11.000–27k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Andreia Jacinto (88)** subiu **+35.1%** em 24h, a **26k coins** (faixa do dia: 11.000–27k). Está +39% acima da média de 7 dias (aquecida).
+- **Fábio Vieira (87)** subiu **+42.9%** em 24h, a **32k coins** (faixa do dia: 18.750–50k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bruno Fernandes | 88 | Premier League | 103k coins | -43.1% | -35.6% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 2M coins | -35.5% | -33.3% |
-| Vitinha | 95 | Ligue 1 McDonald's | 375k coins | -24.8% | -47.7% |
-| Francisco Moura | 90 | Liga Portugal | 47k coins | -21% | +35.3% |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 42k coins | -20.6% | -19.2% |
-| Pedro Neto | 88 | Premier League | 66k coins | -20.2% | -31.3% |
-| João Félix | 86 | ROSHN Saudi League | 218k coins | -19.3% | +24.6% |
-| Vitinha | 90 | Ligue 1 McDonald's | 123k coins | -14.8% | -31.7% |
-| Cristiano Ronaldo | 92 | ROSHN Saudi League | 2.78M coins | -14.4% | -44.4% |
-| Bernardo Silva | 86 | Premier League | 52k coins | -14.2% | -14.2% |
+| João Félix | 84 | ROSHN Saudi League | 295k coins | -36.8% | +18.1% |
+| Rafael Leão | 86 | Serie A TIM | 380k coins | -36.6% | -53.6% |
+| Bruno Fernandes | 88 | Premier League | 100k coins | -36.4% | -31.3% |
+| João Félix | 87 | ROSHN Saudi League | 60k coins | -33.7% | +3.3% |
+| Vitinha | 90 | Ligue 1 McDonald's | 114k coins | -24.5% | -37.8% |
+| Cristiano Ronaldo | 90 | ROSHN Saudi League | 11.50M coins | -23.3% | -4% |
+| Francisco Moura | 90 | Liga Portugal | 50k coins | -23.1% | +7.5% |
+| Rafael Leão | 87 | Serie A TIM | 875k coins | -21% | -31.8% |
+| Gonçalo Inácio | 89 | Liga Portugal | 139k coins | -20.1% | -34.7% |
+| Ricardo Horta | 90 | Liga Portugal | 52k coins | -16.7% | +66.7% |
 
 
 ### Análise das baixas
 
-- **Bruno Fernandes (88)** caiu **-43.1%** em 24h, a **103k coins** (faixa do dia: 100k–228k). Está -29% abaixo da média de 7 dias (descontada).
+- **João Félix (84)** caiu **-36.8%** em 24h, a **295k coins** (faixa do dia: 192k–475k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Cristiano Ronaldo (89)** caiu **-35.5%** em 24h, a **2M coins** (faixa do dia: 1.44M–3.10M). Está -21% abaixo da média de 7 dias (descontada).
+- **Rafael Leão (86)** caiu **-36.6%** em 24h, a **380k coins** (faixa do dia: 380k–601k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Vitinha (95)** caiu **-24.8%** em 24h, a **375k coins** (faixa do dia: 299k–510k). Está -31% abaixo da média de 7 dias (descontada).
+- **Bruno Fernandes (88)** caiu **-36.4%** em 24h, a **100k coins** (faixa do dia: 100k–145k). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ricardo Carvalho já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Luís Figo já avançou 50.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Bruno Fernandes recuou -43.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** João Félix recuou -36.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Ricardo Carvalho (89, Liga Portugal), com +53.8% em 24h, a 100k coins no PC.
+Luís Figo (90, Icons), com +50.3% em 24h, a 60k coins no PC.
 
 **E a maior queda do dia?**
-Bruno Fernandes (88), -43.1% em 24h, a 103k coins.
+João Félix (84), -36.8% em 24h, a 295k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 26 cartas em alta contra 30 em queda (média 3.32%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 26 cartas em alta contra 31 em queda (média 1.49%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
