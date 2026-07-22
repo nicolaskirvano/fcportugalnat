@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:23:09.000Z
+pubDatetime: 2026-07-22T19:23:09.000Z
 title: "Investimentos EA FC: Portugueses em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Ricardo Horta (90, Liga Portugal) lidera, com +80.3% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ricardo Horta (90, Liga Portugal) lidera, com +80.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ricardo Horta (90) acumula **+80.3% em 7 dias** a 48k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ricardo Horta (90) acumula **+80.3% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.2% em 24h** e **+26.1% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.3% em 24h** e **+35.1% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ricardo Horta | 90 | Liga Portugal | 48k coins | +22.2% | +80.3% | Esticada |
-| Luís Figo | 90 | Icons | 50k coins | +16.3% | +39.9% | Momentum moderado |
-| Youssef Chermiti | 84 | Scottish Premiership | 48k coins | +2.1% | +12.3% | Entrada a observar |
-| Rúben Neves | 86 | Brasileirão | 42k coins | +23% | +6.9% | Esticada |
+| Ricardo Horta | 90 | Liga Portugal | 55k coins | +10% | +80.3% | Esticada |
+| Nuno Tavares | 91 | Serie A TIM | 63k coins | +10.7% | +40.6% | Momentum moderado |
+| Francisco Moura | 90 | Liga Portugal | 65k coins | +14.4% | +29.6% | Momentum moderado |
+| Dolores Silva | 84 | Liga F | 38k coins | +4.9% | +9.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Ricardo Horta (90)** — 48k coins, **+80.3% em 7 dias** (+22.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Horta (90)** — 55k coins, **+80.3% em 7 dias** (+10% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luís Figo (90)** — 50k coins, **+39.9% em 7 dias** (+16.3% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (91)** — 63k coins, **+40.6% em 7 dias** (+10.7% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youssef Chermiti (84)** — 48k coins, **+12.3% em 7 dias** (+2.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francisco Moura (90)** — 65k coins, **+29.6% em 7 dias** (+14.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (86)** — 42k coins, **+6.9% em 7 dias** (+23% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dolores Silva (84)** — 38k coins, **+9.4% em 7 dias** (+4.9% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +75,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Ricardo Horta (90, Liga Portugal) lidera, com +80.3% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ricardo Horta (90, Liga Portugal) lidera, com +80.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
