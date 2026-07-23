@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Geovany Quenda</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bruno Fernandes</text>
-<rect x="285" y="153" width="347" height="28" rx="7" fill="#22c55e"/>
-<text x="642" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
-<rect x="285" y="211" width="340" height="28" rx="7" fill="#22c55e"/>
-<text x="635" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Carvalho</text>
-<rect x="285" y="269" width="295" height="28" rx="7" fill="#22c55e"/>
-<text x="590" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eduardo Quaresma</text>
-<rect x="285" y="327" width="286" height="28" rx="7" fill="#22c55e"/>
-<text x="581" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bruno Fernandes</text>
-<rect x="285" y="385" width="281" height="28" rx="7" fill="#22c55e"/>
-<text x="576" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cláudio Braga</text>
+<rect x="285" y="153" width="450" height="28" rx="7" fill="#22c55e"/>
+<text x="745" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diogo Dalot</text>
+<rect x="285" y="211" width="418" height="28" rx="7" fill="#22c55e"/>
+<text x="713" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
+<rect x="285" y="269" width="317" height="28" rx="7" fill="#22c55e"/>
+<text x="612" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luís Figo</text>
+<rect x="285" y="327" width="247" height="28" rx="7" fill="#22c55e"/>
+<text x="542" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<rect x="285" y="385" width="164" height="28" rx="7" fill="#22c55e"/>
+<text x="459" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.4%</text>
 </svg>
