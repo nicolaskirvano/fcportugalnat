@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:23:09.000Z
+pubDatetime: 2026-07-23T22:23:09.000Z
 title: "Investimentos EA FC: Portugueses em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Nuno Tavares (91, Serie A TIM) lidera, com +26.2% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nuno Tavares (91, Serie A TIM) lidera, com +18.5% em 7 dias a 84k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nuno Tavares (91) acumula **+26.2% em 7 dias** a 58k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Nuno Tavares (91) acumula **+18.5% em 7 dias** a 84k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+12.5% em 7 dias**.
+- A mediana é de **+10.0% em 24h** e **+15.1% em 7 dias**.
 - **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Serie A TIM** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 91 | Serie A TIM | 58k coins | +17.1% | +26.2% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 52k coins | +6.7% | +23.1% | Momentum moderado |
-| Nélson Oliveira | 86 | Liga Portugal | 24k coins | +25.3% | +12.5% | Esticada |
-| Francisco Conceição | 84 | Serie A TIM | 41k coins | +13.6% | +11.3% | Momentum moderado |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 26k coins | +7% | +5.6% | Momentum moderado |
+| Nuno Tavares | 91 | Serie A TIM | 84k coins | +10% | +18.5% | Momentum moderado |
+| João Carvalho | 84 | Liga Portugal | 44k coins | +16.7% | +15.1% | Momentum moderado |
+| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 21k coins | +27.3% | +15.1% | Esticada |
+| Pedro Neto | 85 | Premier League | 39k coins | +9.9% | +9.1% | Momentum moderado |
+| Luís Figo | 89 | Icons | 78k coins | +6.9% | +8.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nuno Tavares (91)** — 58k coins, **+26.2% em 7 dias** (+17.1% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (91)** — 84k coins, **+18.5% em 7 dias** (+10% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 52k coins, **+23.1% em 7 dias** (+6.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Carvalho (84)** — 44k coins, **+15.1% em 7 dias** (+16.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nélson Oliveira (86)** — 24k coins, **+12.5% em 7 dias** (+25.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gonçalo Guedes (89)** — 21k coins, **+15.1% em 7 dias** (+27.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Francisco Conceição (84)** — 41k coins, **+11.3% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pedro Neto (85)** — 39k coins, **+9.1% em 7 dias** (+9.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gonçalo Guedes (89)** — 26k coins, **+5.6% em 7 dias** (+7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luís Figo (89)** — 78k coins, **+8.4% em 7 dias** (+6.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Nuno Tavares (91, Serie A TIM) lidera, com +26.2% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nuno Tavares (91, Serie A TIM) lidera, com +18.5% em 7 dias a 84k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -96,7 +96,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Portugueses em 23/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-23-ps/)
 - [Mercado EA FC em 23/07: Portugueses — Console (PS)](/posts/mercado-ea-fc-2026-07-23-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

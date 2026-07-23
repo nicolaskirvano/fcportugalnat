@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:23:18.000Z
+pubDatetime: 2026-07-23T22:23:18.000Z
 title: "Investimentos EA FC: Portugueses em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Ricardo Horta (90, Liga Portugal) lidera, com +33.3% em 7 dias a 49k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Francisco Conceição (84, Serie A TIM) lidera, com +35.4% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ricardo Horta (90) acumula **+33.3% em 7 dias** a 49k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Francisco Conceição (84) acumula **+35.4% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.1% em 24h** e **+24.6% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.3% em 24h** e **+19.0% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ricardo Horta | 90 | Liga Portugal | 49k coins | +15.4% | +33.3% | Momentum moderado |
-| Eduardo Quaresma | 88 | Liga Portugal | 32k coins | +9.2% | +25% | Momentum moderado |
-| João Félix | 86 | ROSHN Saudi League | 175k coins | +16.9% | +24.1% | Momentum moderado |
-| Youssef Chermiti | 86 | Scottish Premiership | 44k coins | +33.8% | +5.8% | Esticada |
+| Francisco Conceição | 84 | Serie A TIM | 50k coins | +5.3% | +35.4% | Momentum moderado |
+| Eduardo Quaresma | 88 | Liga Portugal | 32k coins | +17.1% | +25% | Momentum moderado |
+| Nuno Tavares | 91 | Serie A TIM | 100k coins | +22% | +19% | Esticada |
+| João Carvalho | 84 | Liga Portugal | 47k coins | +15.3% | +11.9% | Momentum moderado |
+| Luís Figo | 89 | Icons | 87k coins | +1.8% | +9.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Ricardo Horta (90)** — 49k coins, **+33.3% em 7 dias** (+15.4% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francisco Conceição (84)** — 50k coins, **+35.4% em 7 dias** (+5.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eduardo Quaresma (88)** — 32k coins, **+25% em 7 dias** (+9.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eduardo Quaresma (88)** — 32k coins, **+25% em 7 dias** (+17.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Félix (86)** — 175k coins, **+24.1% em 7 dias** (+16.9% em 24h). Preço -29% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (91)** — 100k coins, **+19% em 7 dias** (+22% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youssef Chermiti (86)** — 44k coins, **+5.8% em 7 dias** (+33.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Carvalho (84)** — 47k coins, **+11.9% em 7 dias** (+15.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Luís Figo (89)** — 87k coins, **+9.4% em 7 dias** (+1.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Ricardo Horta (90, Liga Portugal) lidera, com +33.3% em 7 dias a 49k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Francisco Conceição (84, Serie A TIM) lidera, com +35.4% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
