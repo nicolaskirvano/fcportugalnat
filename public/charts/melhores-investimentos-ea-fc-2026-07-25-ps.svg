@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pedro Gonçalves</text>
-<rect x="285" y="153" width="201" height="28" rx="7" fill="#22c55e"/>
-<text x="496" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
-<rect x="285" y="211" width="124" height="28" rx="7" fill="#22c55e"/>
-<text x="419" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
-<rect x="285" y="269" width="103" height="28" rx="7" fill="#22c55e"/>
-<text x="398" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
-<rect x="285" y="327" width="74" height="28" rx="7" fill="#22c55e"/>
-<text x="369" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+8.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andreia Jacinto</text>
-<rect x="285" y="385" width="52" height="28" rx="7" fill="#22c55e"/>
-<text x="347" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rafa</text>
+<rect x="285" y="153" width="248" height="28" rx="7" fill="#22c55e"/>
+<text x="543" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Carvalho</text>
+<rect x="285" y="211" width="200" height="28" rx="7" fill="#22c55e"/>
+<text x="495" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<rect x="285" y="269" width="128" height="28" rx="7" fill="#22c55e"/>
+<text x="423" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bernardo Silva</text>
+<rect x="285" y="327" width="94" height="28" rx="7" fill="#22c55e"/>
+<text x="389" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
+<rect x="285" y="385" width="84" height="28" rx="7" fill="#22c55e"/>
+<text x="379" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.1%</text>
 </svg>
