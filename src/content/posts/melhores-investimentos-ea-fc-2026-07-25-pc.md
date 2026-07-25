@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:23:45.000Z
+pubDatetime: 2026-07-25T13:23:18.000Z
 title: "Investimentos EA FC: Portugueses em 25/07 — PC"
 draft: false
 featured: true
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Francisco Moura (90) acumula **+35.8% em 7 dias** a 74k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Francisco Moura (90) acumula **+35.8% em 7 dias** a 74k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.1% em 24h** e **+22.6% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.2% em 24h** e **+21.9% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Francisco Moura | 90 | Liga Portugal | 74k coins | +14.7% | +35.8% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 142k coins | +27.9% | +27.9% | Esticada |
-| Pedro Gonçalves | 86 | Liga Portugal | 53k coins | +11.6% | +24.7% | Momentum moderado |
-| José Fonte | 85 | Liga Portugal | 40k coins | +2.6% | +20.5% | Entrada a observar |
-| Bruno Fernandes | 89 | Premier League | 118k coins | +32.6% | +13% | Esticada |
-| Rúben Neves | 87 | ROSHN Saudi League | 39k coins | +15.4% | +9.8% | Momentum moderado |
+| Francisco Moura | 90 | Liga Portugal | 74k coins | +20.3% | +35.8% | Esticada |
+| Pedro Gonçalves | 86 | Liga Portugal | 54k coins | +14.7% | +32.1% | Momentum moderado |
+| Fábio Vieira | 87 | Bundesliga | 38k coins | +11.1% | +28.2% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 42k coins | +11.8% | +15.6% | Momentum moderado |
+| Nuno Tavares | 91 | Serie A TIM | 72k coins | +2% | +11.1% | Entrada a observar |
+| Bruno Fernandes | 89 | Premier League | 102k coins | +15.2% | +6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Francisco Moura (90)** — 74k coins, **+35.8% em 7 dias** (+14.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francisco Moura (90)** — 74k coins, **+35.8% em 7 dias** (+20.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 142k coins, **+27.9% em 7 dias** (+27.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pedro Gonçalves (86)** — 54k coins, **+32.1% em 7 dias** (+14.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Gonçalves (86)** — 53k coins, **+24.7% em 7 dias** (+11.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fábio Vieira (87)** — 38k coins, **+28.2% em 7 dias** (+11.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **José Fonte (85)** — 40k coins, **+20.5% em 7 dias** (+2.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 42k coins, **+15.6% em 7 dias** (+11.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bruno Fernandes (89)** — 118k coins, **+13% em 7 dias** (+32.6% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (91)** — 72k coins, **+11.1% em 7 dias** (+2% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
