@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:23:10.000Z
+pubDatetime: 2026-07-26T01:23:10.000Z
 title: "Jogadores baratos EA FC: Portugueses em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 25/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/07/2026)?"
-    a: "Paulo Futre (92, Liga Portugal) aparece como melhor custo-benefício, a 13.750 coins no Console (PS)."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.900 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Paulo Futre (92) por apenas 13.750 coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 2.900 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Portugueses em 25/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-25-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 9.317 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 1.700 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 10.400 coins.
+- **Posição mais frequente:** CB, com 2 cartas.
+- **Faixa real:** 2.900 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Paulo Futre | 92 | LW | Liga Portugal | 13.750 coins | 0% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.100 coins | 0% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.900 coins | -3% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| Félix Correia | 89 | RM | Ligue 1 McDonald's | 12.500 coins | -1.9% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Andreia Jacinto | 88 | CM | Liga F | 13.000 coins | -5.4% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14.500 coins | +3.5% |
-| Trincão | 86 | CAM | Liga Portugal | 13.250 coins | +3.8% |
-| Rafael Leão | 84 | LW | Serie A Enilive | 1.700 coins | +54.5% |
-| Diogo Costa | 84 | GK | Liga Portugal | 2.300 coins | +50% |
+| Ricardo Carvalho | 88 | CB | Liga Portugal | 12.250 coins | -2% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12.500 coins | -1.8% |
 
 
 ## 📈 Destaques
 
-- **Paulo Futre (92, LW)** da Liga Portugal, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Ricardo Carvalho (89, CB)** da Liga Portugal, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Bruno Fernandes (88, CAM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andreia Jacinto (88, CM)** da Liga F, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Ricardo Carvalho (89, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Vitinha (89, CM) por 3.100 coins é a referência de rating deste recorte.
-
-- **Ataque:** Paulo Futre (92, LW) por 13.750 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 2.900 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -87,6 +82,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Portugueses em 25/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-25-ps/)
 - [Mercado EA FC em 25/07: Portugueses — Console (PS)](/posts/mercado-ea-fc-2026-07-25-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -98,7 +94,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/07/2026)?**  
-Paulo Futre (92, Liga Portugal) aparece como melhor custo-benefício, a 13.750 coins no Console (PS).
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.900 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
