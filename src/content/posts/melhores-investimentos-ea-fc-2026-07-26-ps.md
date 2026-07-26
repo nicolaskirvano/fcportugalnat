@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:23:09.000Z
+pubDatetime: 2026-07-26T13:23:09.000Z
 title: "Investimentos EA FC: Portugueses em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Francisco Conceição (84, Serie A TIM) lidera, com +48.1% em 7 dias a 57k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Francisco Conceição (84, Serie A TIM) lidera, com +67.5% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Francisco Conceição (84) acumula **+48.1% em 7 dias** a 57k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Francisco Conceição (84) acumula **+67.5% em 7 dias** a 64k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+4.9% em 24h** e **+12.9% em 7 dias**.
-- **0 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.8% em 24h** e **+11.8% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,27 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Francisco Conceição | 84 | Serie A TIM | 57k coins | +16.9% | +48.1% | Momentum moderado |
-| Nélson Oliveira | 86 | Liga Portugal | 23k coins | +1.1% | +33.3% | Momentum moderado |
-| Rúben Neves | 86 | Brasileirão | 46k coins | +13% | +16.6% | Momentum moderado |
-| Pedro Neto | 85 | Premier League | 39k coins | +5.4% | +13.9% | Momentum moderado |
-| Rúben Neves | 87 | ROSHN Saudi League | 47k coins | +4.4% | +11.9% | Entrada a observar |
-| Rafa | 84 | Trendyol Süper Lig | 50k coins | +1.5% | +9.3% | Entrada a observar |
-| Fábio Vieira | 87 | Bundesliga | 24k coins | +2.1% | +9.1% | Entrada a observar |
-| João Neves | 86 | Ligue 1 McDonald's | 42k coins | +11.9% | +8.3% | Momentum moderado |
+| Francisco Conceição | 84 | Serie A TIM | 64k coins | +30.3% | +67.5% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 50k coins | +11.7% | +19% | Momentum moderado |
+| Rafa | 84 | Trendyol Süper Lig | 48k coins | +4.1% | +12.1% | Entrada a observar |
+| Youssef Chermiti | 84 | Scottish Premiership | 53k coins | +17.8% | +11.6% | Momentum moderado |
+| João Carvalho | 84 | Liga Portugal | 45k coins | +7.8% | +10.5% | Momentum moderado |
+| Pedro Neto | 85 | Premier League | 38k coins | +2.7% | +9.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Francisco Conceição (84)** — 57k coins, **+48.1% em 7 dias** (+16.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francisco Conceição (84)** — 64k coins, **+67.5% em 7 dias** (+30.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nélson Oliveira (86)** — 23k coins, **+33.3% em 7 dias** (+1.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 50k coins, **+19% em 7 dias** (+11.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (86)** — 46k coins, **+16.6% em 7 dias** (+13% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rafa (84)** — 48k coins, **+12.1% em 7 dias** (+4.1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Neto (85)** — 39k coins, **+13.9% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youssef Chermiti (84)** — 53k coins, **+11.6% em 7 dias** (+17.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 47k coins, **+11.9% em 7 dias** (+4.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Carvalho (84)** — 45k coins, **+10.5% em 7 dias** (+7.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Francisco Conceição (84, Serie A TIM) lidera, com +48.1% em 7 dias a 57k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Francisco Conceição (84, Serie A TIM) lidera, com +67.5% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:23:07.000Z
+pubDatetime: 2026-07-26T13:23:07.000Z
 title: "Mercado EA FC em 26/07: Portugueses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Quaresma (89, Liga Portugal), com +57.8% em 24h, a 292k coins no Console (PS)."
+    a: "Rodrigo Mora (87, Liga Portugal), com +56.6% em 24h, a 40k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Eusébio (92), -45.7% em 24h, a 269k coins."
+    a: "Geovany Quenda (85), -34.5% em 24h, a 28k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 35 cartas em alta contra 33 em queda (média 0.89%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 22 cartas em alta contra 16 em queda (média 1.29%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **26/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **35 valorizações** contra **33 quedas** entre as cartas relevantes, com média de **0.89%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **26/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **22 valorizações** contra **16 quedas** entre as cartas relevantes, com média de **1.29%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Quaresma (89) **+57.8%** · 🔴 **Maior baixa:** Eusébio (92) **-45.7%**
+> 🟢 **Maior alta:** Rodrigo Mora (87) **+56.6%** · 🔴 **Maior baixa:** Geovany Quenda (85) **-34.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Portugueses — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **26/07/2026** no Console (PS): mercado **lateral** — sem direção 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.5% entre as cartas que se moveram; o universo observado reúne 78 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 91.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.9% entre as cartas que se moveram; o universo observado reúne 47 cartas.
+- **Concentração:** Liga Portugal aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Quaresma | 89 | Liga Portugal | 292k coins | +57.8% | +6.6% |
-| João Neves | 93 | Ligue 1 McDonald's | 126k coins | +34.8% | -31.1% |
-| Eusébio | 91 | Icons | 373k coins | +32.7% | -37.8% |
-| João Neves | 88 | Ligue 1 McDonald's | 48k coins | +22.4% | -34.6% |
-| Rafael Leão | 87 | Serie A TIM | 230k coins | +21.1% | -34.3% |
-| Francisco Conceição | 84 | Serie A TIM | 57k coins | +16.9% | +48.1% |
-| Rui Costa | 88 | Serie A TIM | 25k coins | +13.8% | -5.7% |
-| Félix Correia | 81 | Ligue 1 McDonald's | 50k coins | +13.6% | 0% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 800k coins | +13.2% | -38.2% |
-| Rúben Neves | 86 | Brasileirão | 46k coins | +13% | +16.6% |
+| Rodrigo Mora | 87 | Liga Portugal | 40k coins | +56.6% | +52% |
+| João Neves | 93 | Ligue 1 McDonald's | 118k coins | +42.2% | -36.6% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 39k coins | +37.1% | -31.5% |
+| Eusébio | 91 | Icons | 420k coins | +30.4% | -37.8% |
+| Francisco Conceição | 84 | Serie A TIM | 64k coins | +30.3% | +67.5% |
+| Eduardo Quaresma | 88 | Liga Portugal | 21k coins | +28.8% | -26.1% |
+| Youssef Chermiti | 84 | Scottish Premiership | 53k coins | +17.8% | +11.6% |
+| Félix Correia | 81 | Ligue 1 McDonald's | 50k coins | +16.3% | 0% |
+| Bernardo Silva | 87 | Premier League | 56k coins | +16.2% | -7.5% |
+| Rúben Neves | 87 | ROSHN Saudi League | 50k coins | +11.7% | +19% |
 
 
 ### Análise das altas
@@ -61,43 +61,42 @@ Resumo de **26/07/2026** no Console (PS): mercado **lateral** — sem direção 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Quaresma (89)** subiu **+57.8%** em 24h, a **292k coins** (faixa do dia: 144k–308k). Está +27% acima da média de 7 dias (aquecida).
+- **Rodrigo Mora (87)** subiu **+56.6%** em 24h, a **40k coins** (faixa do dia: 16.000–40k). Está +39% acima da média de 7 dias (aquecida).
 
-- **João Neves (93)** subiu **+34.8%** em 24h, a **126k coins** (faixa do dia: 82k–126k). Está -9% abaixo da média de 7 dias (descontada).
+- **João Neves (93)** subiu **+42.2%** em 24h, a **118k coins** (faixa do dia: 82k–126k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Eusébio (91)** subiu **+32.7%** em 24h, a **373k coins** (faixa do dia: 259k–576k). Está -27% abaixo da média de 7 dias (descontada).
+- **Ivan Cavaleiro (85)** subiu **+37.1%** em 24h, a **39k coins** (faixa do dia: 29k–44k). Está -14% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eusébio | 92 | Icons | 269k coins | -45.7% | -66.1% |
-| Diogo Dalot | 87 | Premier League | 45k coins | -43.8% | -26.8% |
-| Vitinha | 91 | Ligue 1 McDonald's | 342k coins | -42.9% | -26.5% |
-| Rodrigo Mora | 88 | Liga Portugal | 35k coins | -41.7% | +22.8% |
-| Geovany Quenda | 85 | Liga Portugal | 29k coins | -37.3% | -53.2% |
-| Nuno Tavares | 87 | Serie A TIM | 28k coins | -28.7% | -33.3% |
-| Ivan Cavaleiro | 85 | Liga Portugal | 42k coins | -28.4% | -28.4% |
-| Luís Figo | 90 | Icons | 22k coins | -28.3% | -61.6% |
-| Rafael Leão | 93 | Serie A TIM | 838k coins | -26.5% | -11.3% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 670k coins | -19.8% | -56.4% |
+| Geovany Quenda | 85 | Liga Portugal | 28k coins | -34.5% | -53.2% |
+| Vitinha | 90 | Ligue 1 McDonald's | 158k coins | -25.2% | -45.3% |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 37k coins | -15.1% | -3.8% |
+| Pedro Gonçalves | 86 | Liga Portugal | 41k coins | -13.2% | +0.6% |
+| Rafael Leão | 93 | Serie A TIM | 825k coins | -13.2% | -11.3% |
+| Nuno Tavares | 91 | Serie A TIM | 42k coins | -12% | -27.2% |
+| Bruno Fernandes | 88 | Premier League | 38k coins | -11% | -47.6% |
+| Francisco Moura | 90 | Liga Portugal | 36k coins | -8.2% | -26% |
+| João Neves | 86 | Ligue 1 McDonald's | 39k coins | -5.1% | +5.6% |
 
 
 ### Análise das baixas
 
-- **Eusébio (92)** caiu **-45.7%** em 24h, a **269k coins** (faixa do dia: 269k–479k). Está -58% abaixo da média de 7 dias (descontada).
+- **Geovany Quenda (85)** caiu **-34.5%** em 24h, a **28k coins** (faixa do dia: 18.250–59k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Diogo Dalot (87)** caiu **-43.8%** em 24h, a **45k coins** (faixa do dia: 37k–84k). Está -28% abaixo da média de 7 dias (descontada).
+- **Vitinha (90)** caiu **-25.2%** em 24h, a **158k coins** (faixa do dia: 72k–174k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Vitinha (91)** caiu **-42.9%** em 24h, a **342k coins** (faixa do dia: 342k–600k). Está -24% abaixo da média de 7 dias (descontada).
+- **Afonso Moreira (84)** caiu **-15.1%** em 24h, a **37k coins** (faixa do dia: 37k–45k). Está em linha com a média de 7 dias (-6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Quaresma já avançou 57.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Rodrigo Mora já avançou 56.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Eusébio recuou -45.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Geovany Quenda recuou -34.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +108,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Quaresma (89, Liga Portugal), com +57.8% em 24h, a 292k coins no Console (PS).
+Rodrigo Mora (87, Liga Portugal), com +56.6% em 24h, a 40k coins no Console (PS).
 
 **E a maior queda do dia?**
-Eusébio (92), -45.7% em 24h, a 269k coins.
+Geovany Quenda (85), -34.5% em 24h, a 28k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 35 cartas em alta contra 33 em queda (média 0.89%).
+Hoje o mercado está lateral — sem direção clara, com 22 cartas em alta contra 16 em queda (média 1.29%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

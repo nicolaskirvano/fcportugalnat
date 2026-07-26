@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
-<rect x="285" y="95" width="121" height="28" rx="7" fill="#38bdf8"/>
-<text x="416" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.400</text>
+<rect x="285" y="95" width="122" height="28" rx="7" fill="#38bdf8"/>
+<text x="417" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.700</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Carvalho</text>
-<rect x="285" y="153" width="400" height="28" rx="7" fill="#38bdf8"/>
-<text x="695" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.250</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bruno Fernandes</text>
-<rect x="285" y="211" width="391" height="28" rx="7" fill="#38bdf8"/>
-<text x="686" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andreia Jacinto</text>
-<rect x="285" y="269" width="427" height="28" rx="7" fill="#38bdf8"/>
-<text x="722" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
+<rect x="285" y="153" width="372" height="28" rx="7" fill="#38bdf8"/>
+<text x="667" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.250</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gonçalo Guedes</text>
+<rect x="285" y="211" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bruno Fernandes</text>
+<rect x="285" y="269" width="364" height="28" rx="7" fill="#38bdf8"/>
+<text x="659" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Carvalho</text>
-<rect x="285" y="327" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rui Costa</text>
-<rect x="285" y="385" width="409" height="28" rx="7" fill="#38bdf8"/>
-<text x="704" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.500</text>
+<rect x="285" y="327" width="463" height="28" rx="7" fill="#38bdf8"/>
+<text x="758" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cristiano Ronaldo</text>
+<rect x="285" y="385" width="83" height="28" rx="7" fill="#38bdf8"/>
+<text x="378" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.500</text>
 </svg>
