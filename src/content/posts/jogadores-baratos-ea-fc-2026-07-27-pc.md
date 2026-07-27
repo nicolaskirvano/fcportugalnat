@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:23:19.000Z
+pubDatetime: 2026-07-27T13:23:20.000Z
 title: "Jogadores baratos EA FC: Portugueses em 27/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 4.100 coins no PC."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 4.600 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vitinha (89) por apenas 4.100 coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 4.600 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Portugueses em 27/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-27-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 7.990 coins.
+- **Preço médio das 6 opções:** 9.058 coins.
 - **Posição mais frequente:** CB, com 2 cartas.
-- **Faixa real:** 2.600 a 11.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.000 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,16 +40,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.100 coins | +60% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.600 coins | +20.5% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Ricardo Carvalho | 88 | CB | Liga Portugal | 11.000 coins | -10.2% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 2.600 coins | +40% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13.500 coins | -5.3% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 3.000 coins | +3.7% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Ricardo Carvalho (89, CB)** da Liga Portugal, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -57,16 +58,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Bruno Fernandes (88, CAM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiano Ronaldo (85, ST)** da ROSHN Saudi League, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13.500 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Ricardo Carvalho (89, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Vitinha (89, CM) por 4.100 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 4.600 coins é a referência de rating deste recorte.
 
-- **Ataque:** Cristiano Ronaldo (85, ST) por 2.600 coins é a referência de rating deste recorte.
+- **Ataque:** Cristiano Ronaldo (85, ST) por 3.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -85,7 +86,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 4.100 coins no PC.
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 4.600 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -103,6 +104,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Portugueses em 27/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-27-pc/)
 - [Mercado EA FC em 27/07: Portugueses — PC](/posts/mercado-ea-fc-2026-07-27-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
