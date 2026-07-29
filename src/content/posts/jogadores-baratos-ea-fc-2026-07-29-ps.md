@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:23:10.000Z
+pubDatetime: 2026-07-29T19:23:10.000Z
 title: "Jogadores baratos EA FC: Portugueses em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.733 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 2.400 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 12.417 coins.
+- **Posição mais frequente:** CB, com 2 cartas.
+- **Faixa real:** 11.000 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Paulo Futre | 89 | ST | LALIGA EA SPORTS | 12.250 coins | 0% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 13.500 coins | -9.5% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 13.250 coins | -11.1% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Bruno Fernandes | 87 | CAM | Premier League | 2.400 coins | -13% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14.000 coins | +9.8% |
+| António Silva | 87 | CB | Liga Portugal | 13.000 coins | -9.1% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13.750 coins | +9.8% |
 
 
 ## 📈 Destaques
@@ -54,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Paulo Futre (89, ST)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Bruno Fernandes (88, CAM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bruno Fernandes (87, CAM)** da Premier League, a apenas **2.400 coins** — já **valorizando**, sinal de procura crescente.
+- **António Silva (87, CB)** da Liga Portugal, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
