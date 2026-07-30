@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:23:12.000Z
+pubDatetime: 2026-07-30T13:23:14.000Z
 title: "Jogadores baratos EA FC: Portugueses em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 9.475 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 3.400 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 9.965 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,8 +42,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Paulo Futre | 89 | ST | LALIGA EA SPORTS | 12.250 coins | 0% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 12.500 coins | -7% |
+| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14.750 coins | -13.3% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Bruno Fernandes | 87 | CAM | Premier League | 3.400 coins | +47.8% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14.750 coins | +5.4% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.600 coins | 0% |
+| Pizzi | 85 | RM | Liga Portugal | 14.750 coins | -11.4% |
+| João Cancelo | 84 | RB | LALIGA EA SPORTS | 1.700 coins | +38.5% |
+| Diogo Costa | 84 | GK | Liga Portugal | 2.100 coins | +57.1% |
 
 
 ## 📈 Destaques
@@ -52,16 +58,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Paulo Futre (89, ST)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bruno Fernandes (88, CAM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bruno Fernandes (87, CAM)** da Premier League, a apenas **3.400 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Bruno Fernandes (88, CAM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Ricardo Carvalho (89, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Bruno Fernandes (88, CAM) por 11.000 coins é a referência de rating deste recorte.
+- **Meio:** Félix Correia (89, RM) por 14.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Paulo Futre (89, ST) por 12.250 coins é a referência de rating deste recorte.
 
