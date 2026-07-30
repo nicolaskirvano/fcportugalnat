@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:23:21.000Z
+pubDatetime: 2026-07-30T19:23:21.000Z
 title: "Investimentos EA FC: Portugueses em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Eduardo Quaresma (88, Liga Portugal) lidera, com +42% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Cláudio Braga (87, Scottish Premiership) lidera, com +51.5% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Eduardo Quaresma (88) acumula **+42% em 7 dias** a 42k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Cláudio Braga (87) acumula **+51.5% em 7 dias** a 25k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+18.1% em 7 dias**.
-- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+16.6% em 24h** e **+13.8% em 7 dias**.
+- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Cláudio Braga | 87 | Scottish Premiership | 25k coins | +28.7% | +51.5% | Esticada |
 | Eduardo Quaresma | 88 | Liga Portugal | 42k coins | +17.4% | +42% | Momentum moderado |
+| Diogo Dalot | 87 | Premier League | 128k coins | +31.1% | +37.9% | Esticada |
 | Ivan Cavaleiro | 85 | Liga Portugal | 26k coins | +1.9% | +19.3% | Entrada a observar |
-| Pedro Neto | 85 | Premier League | 42k coins | +1.8% | +18.1% | Entrada a observar |
-| João Carvalho | 84 | Liga Portugal | 48k coins | +15.9% | +15.9% | Momentum moderado |
-| Pedro Gonçalves | 86 | Liga Portugal | 55k coins | +10% | +15.8% | Momentum moderado |
+| Pedro Gonçalves | 86 | Liga Portugal | 48k coins | +10% | +15.8% | Momentum moderado |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 45k coins | +1.1% | +11.8% | Entrada a observar |
+| Rúben Neves | 87 | ROSHN Saudi League | 50k coins | +26.6% | +11.1% | Esticada |
+| Francisco Conceição | 84 | Serie A TIM | 49k coins | +5.3% | +10.5% | Momentum moderado |
+| João Carvalho | 84 | Liga Portugal | 48k coins | +15.9% | +10.5% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 114k coins | +29% | +5.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Eduardo Quaresma (88)** — 42k coins, **+42% em 7 dias** (+17.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cláudio Braga (87)** — 25k coins, **+51.5% em 7 dias** (+28.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Eduardo Quaresma (88)** — 42k coins, **+42% em 7 dias** (+17.4% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Diogo Dalot (87)** — 128k coins, **+37.9% em 7 dias** (+31.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Ivan Cavaleiro (85)** — 26k coins, **+19.3% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Neto (85)** — 42k coins, **+18.1% em 7 dias** (+1.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **João Carvalho (84)** — 48k coins, **+15.9% em 7 dias** (+15.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Pedro Gonçalves (86)** — 55k coins, **+15.8% em 7 dias** (+10% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pedro Gonçalves (86)** — 48k coins, **+15.8% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +93,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Eduardo Quaresma (88, Liga Portugal) lidera, com +42% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Cláudio Braga (87, Scottish Premiership) lidera, com +51.5% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
