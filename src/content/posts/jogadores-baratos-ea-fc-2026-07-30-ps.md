@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:23:14.000Z
+pubDatetime: 2026-07-30T16:23:12.000Z
 title: "Jogadores baratos EA FC: Portugueses em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 30/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (30/07/2026)?"
-    a: "Ricardo Carvalho (89, Liga Portugal) aparece como melhor custo-benefício, a 11.250 coins no Console (PS)."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 5.900 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **30/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ricardo Carvalho (89) por apenas 11.250 coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 5.900 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Portugueses em 30/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-30-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.965 coins.
+- **Preço médio das 13 opções:** 8.650 coins.
 - **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,38 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.900 coins | +14.5% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
-| Paulo Futre | 89 | ST | LALIGA EA SPORTS | 12.250 coins | 0% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 12.500 coins | -7% |
-| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14.750 coins | -13.3% |
+| Paulo Futre | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -8.2% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -7.1% |
+| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14.250 coins | +7% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14.750 coins | +5.4% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.600 coins | 0% |
-| Pizzi | 85 | RM | Liga Portugal | 14.750 coins | -11.4% |
-| João Cancelo | 84 | RB | LALIGA EA SPORTS | 1.700 coins | +38.5% |
-| Diogo Costa | 84 | GK | Liga Portugal | 2.100 coins | +57.1% |
+| Andreia Jacinto | 88 | CM | Liga F | 11.000 coins | -1.9% |
+| Bruno Fernandes | 87 | CAM | Premier League | 3.500 coins | +41.7% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14.000 coins | 0% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.200 coins | +10.5% |
+| Pizzi | 85 | RM | Liga Portugal | 11.250 coins | -14% |
+| João Cancelo | 84 | RB | LALIGA EA SPORTS | 1.500 coins | +7.1% |
+| Diogo Costa | 84 | GK | Liga Portugal | 2.100 coins | +50% |
 
 
 ## 📈 Destaques
 
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **5.900 coins** — já **valorizando**, sinal de procura crescente.
+
 - **Ricardo Carvalho (89, CB)** da Liga Portugal, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Futre (89, ST)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Paulo Futre (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Bruno Fernandes (88, CAM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Ricardo Carvalho (89, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Félix Correia (89, RM) por 14.750 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 5.900 coins é a referência de rating deste recorte.
 
-- **Ataque:** Paulo Futre (89, ST) por 12.250 coins é a referência de rating deste recorte.
+- **Ataque:** Paulo Futre (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -100,7 +103,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (30/07/2026)?**  
-Ricardo Carvalho (89, Liga Portugal) aparece como melhor custo-benefício, a 11.250 coins no Console (PS).
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 5.900 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
