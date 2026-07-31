@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:23:19.000Z
+pubDatetime: 2026-07-31T22:23:22.000Z
 title: "Jogadores baratos EA FC: Portugueses em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 10.100 coins.
+- **Preço médio das 7 opções:** 9.107 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 3.200 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.300 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,13 +40,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Eusébio | 94 | ST | Icons | 11.750 coins | 0% |
+| Eusébio | 94 | ST | Icons | 11.750 coins | +8.3% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Paulo Futre | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -6.2% |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Bruno Fernandes | 87 | CAM | Premier League | 3.200 coins | +3.1% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3.300 coins | -4.5% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.200 coins | +16.7% |
 
 
 ## 📈 Destaques
@@ -57,9 +57,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Paulo Futre (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Cristiano Ronaldo (88, ST)** da ROSHN Saudi League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Bruno Fernandes (88, CAM)** da Premier League, a apenas **11.000 coins**
 
 
 ## Como distribuir a banca
