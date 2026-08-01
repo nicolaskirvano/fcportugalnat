@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:23:10.000Z
+pubDatetime: 2026-08-01T19:23:09.000Z
 title: "Investimentos EA FC: Portugueses em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Cláudio Braga (87, Scottish Premiership) lidera, com +82.5% em 7 dias a 36k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Diogo Dalot (87, Premier League) lidera, com +84.9% em 7 dias a 129k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Cláudio Braga (87) acumula **+82.5% em 7 dias** a 36k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Diogo Dalot (87) acumula **+84.9% em 7 dias** a 129k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.5% em 24h** e **+27.6% em 7 dias**.
-- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.6% em 24h** e **+32.6% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cláudio Braga | 87 | Scottish Premiership | 36k coins | +2.8% | +82.5% | Esticada |
-| Ivan Cavaleiro | 85 | Liga Portugal | 48k coins | +26.9% | +37.5% | Esticada |
-| João Carvalho | 84 | Liga Portugal | 55k coins | +14.6% | +27.9% | Momentum moderado |
-| João Moutinho | 88 | Liga Portugal | 55k coins | +9.5% | +27.6% | Momentum moderado |
-| Bruno Fernandes | 89 | Premier League | 60k coins | +20% | +20% | Esticada |
-| Bernardo Silva | 86 | Premier League | 53k coins | +2.9% | +17.8% | Entrada a observar |
-| Nuno Tavares | 87 | Serie A TIM | 37k coins | +4.3% | +6.5% | Entrada a observar |
+| Diogo Dalot | 87 | Premier League | 129k coins | +14.6% | +84.9% | Esticada |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 23k coins | +5.6% | +59.3% | Momentum moderado |
+| Geovany Quenda | 85 | Liga Portugal | 60k coins | +34.8% | +32.6% | Esticada |
+| Nuno Tavares | 87 | Serie A TIM | 37k coins | +6.5% | +8.1% | Momentum moderado |
+| Ivan Cavaleiro | 85 | Liga Portugal | 40k coins | +17.1% | +6.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Cláudio Braga (87)** — 36k coins, **+82.5% em 7 dias** (+2.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diogo Dalot (87)** — 129k coins, **+84.9% em 7 dias** (+14.6% em 24h). Preço +74% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Cavaleiro (85)** — 48k coins, **+37.5% em 7 dias** (+26.9% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Futre (88)** — 23k coins, **+59.3% em 7 dias** (+5.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Carvalho (84)** — 55k coins, **+27.9% em 7 dias** (+14.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geovany Quenda (85)** — 60k coins, **+32.6% em 7 dias** (+34.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Moutinho (88)** — 55k coins, **+27.6% em 7 dias** (+9.5% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (87)** — 37k coins, **+8.1% em 7 dias** (+6.5% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bruno Fernandes (89)** — 60k coins, **+20% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Cavaleiro (85)** — 40k coins, **+6.5% em 7 dias** (+17.1% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Cláudio Braga (87, Scottish Premiership) lidera, com +82.5% em 7 dias a 36k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Diogo Dalot (87, Premier League) lidera, com +84.9% em 7 dias a 129k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
