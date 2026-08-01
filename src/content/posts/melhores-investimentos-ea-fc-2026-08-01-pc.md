@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:23:19.000Z
+pubDatetime: 2026-08-01T22:23:19.000Z
 title: "Investimentos EA FC: Portugueses em 01/08 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.8% em 24h** e **+43.9% em 7 dias**.
-- **3 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+8.2% em 24h** e **+41.5% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,20 +44,23 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | José Fonte | 85 | Liga Portugal | 70k coins | +5.3% | +76.1% | Esticada |
-| Pedro Neto | 88 | Premier League | 52k coins | +9% | +63.9% | Esticada |
-| Diogo Dalot | 87 | Premier League | 98k coins | +20% | +23.8% | Esticada |
-| João Carvalho | 84 | Liga Portugal | 48k coins | +16.6% | +15.9% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 145k coins | +8.1% | +41.6% | Momentum moderado |
+| Pedro Neto | 88 | Premier League | 46k coins | +8.2% | +41.5% | Momentum moderado |
+| Andreia Jacinto | 88 | Liga F | 27k coins | +30.5% | +35.4% | Esticada |
+| João Carvalho | 84 | Liga Portugal | 48k coins | +15.3% | +14.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **José Fonte (85)** — 70k coins, **+76.1% em 7 dias** (+5.3% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **José Fonte (85)** — 70k coins, **+76.1% em 7 dias** (+5.3% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Neto (88)** — 52k coins, **+63.9% em 7 dias** (+9% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 145k coins, **+41.6% em 7 dias** (+8.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diogo Dalot (87)** — 98k coins, **+23.8% em 7 dias** (+20% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pedro Neto (88)** — 46k coins, **+41.5% em 7 dias** (+8.2% em 24h). Preço -31% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Carvalho (84)** — 48k coins, **+15.9% em 7 dias** (+16.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andreia Jacinto (88)** — 27k coins, **+35.4% em 7 dias** (+30.5% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **João Carvalho (84)** — 48k coins, **+14.6% em 7 dias** (+15.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
