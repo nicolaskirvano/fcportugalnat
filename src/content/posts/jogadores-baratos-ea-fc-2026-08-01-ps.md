@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:23:10.000Z
+pubDatetime: 2026-08-01T16:23:11.000Z
 title: "Jogadores baratos EA FC: Portugueses em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.995 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.900 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 9.121 coins.
+- **Posição mais frequente:** CAM, com 5 cartas.
+- **Faixa real:** 1.800 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,36 +40,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Eusébio | 94 | ST | Icons | 12.750 coins | +2% |
+| Eusébio | 94 | ST | Icons | 12.750 coins | +6.1% |
+| Bruno Fernandes | 93 | CAM | Premier League | 12.500 coins | 0% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Paulo Futre | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 13.500 coins | +3.8% |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Andreia Jacinto | 88 | CM | Liga F | 11.000 coins | -12% |
-| Eduardo Quaresma | 88 | CB | Liga Portugal | 12.750 coins | -10.9% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13.250 coins | -5.4% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 3.800 coins | +5.9% |
-| João Cancelo | 84 | RB | LALIGA EA SPORTS | 1.900 coins | +5.3% |
+| Rodrigo Mora | 88 | CAM | Liga Portugal | 11.000 coins | +4.4% |
+| Andreia Jacinto | 88 | CM | Liga F | 11.500 coins | 0% |
+| Bruno Fernandes | 87 | CAM | Premier League | 3.300 coins | +9.4% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12.750 coins | -12.3% |
+| Rúben Neves | 84 | CDM | ROSHN Saudi League | 2.000 coins | -6.7% |
+| Bernardo Silva | 84 | CM | Premier League | 2.100 coins | 0% |
+| Palhinha | 83 | CDM | Bundesliga | 1.800 coins | -5% |
 
 
 ## 📈 Destaques
 
 - **Eusébio (94, ST)** da Icons, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Bruno Fernandes (93, CAM)** da Premier League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Ricardo Carvalho (89, CB)** da Liga Portugal, a apenas **11.250 coins**
 
 - **Paulo Futre (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiano Ronaldo (88, ST)** da ROSHN Saudi League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Bruno Fernandes (88, CAM)** da Premier League, a apenas **11.000 coins**
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Ricardo Carvalho (89, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Bruno Fernandes (88, CAM) por 11.000 coins é a referência de rating deste recorte.
+- **Meio:** Bruno Fernandes (93, CAM) por 12.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Eusébio (94, ST) por 12.750 coins é a referência de rating deste recorte.
 
