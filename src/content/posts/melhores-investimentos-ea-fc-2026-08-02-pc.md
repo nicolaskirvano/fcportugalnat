@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:23:19.000Z
+pubDatetime: 2026-08-02T13:23:18.000Z
 title: "Investimentos EA FC: Portugueses em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Rúben Neves (86, Brasileirão) lidera, com +32.7% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "João Neves (88, Ligue 1 McDonald's) lidera, com +87.7% em 7 dias a 118k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rúben Neves (86) acumula **+32.7% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** João Neves (88) acumula **+87.7% em 7 dias** a 118k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.4% em 24h** e **+13.2% em 7 dias**.
-- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Brasileirão** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.9% em 24h** e **+31.6% em 7 dias**.
+- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rúben Neves | 86 | Brasileirão | 50k coins | +1% | +32.7% | Momentum moderado |
-| João Carvalho | 84 | Liga Portugal | 48k coins | +16.6% | +15.9% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 45k coins | +7.1% | +13.2% | Momentum moderado |
-| Cláudio Braga | 87 | Scottish Premiership | 30k coins | +9.9% | +9.9% | Momentum moderado |
-| Bernardo Silva | 87 | Premier League | 90k coins | +8.4% | +5.9% | Momentum moderado |
+| João Neves | 88 | Ligue 1 McDonald's | 118k coins | +22% | +87.7% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 45k coins | +17.6% | +50% | Momentum moderado |
+| Rúben Neves | 86 | Brasileirão | 50k coins | +1.5% | +33.3% | Momentum moderado |
+| Bernardo Silva | 87 | Premier League | 108k coins | +34.9% | +31.8% | Esticada |
+| Rúben Neves | 87 | ROSHN Saudi League | 21k coins | +12.8% | +31.3% | Momentum moderado |
+| Luís Figo | 89 | Icons | 86k coins | +1.7% | +31.1% | Momentum moderado |
+| Diogo Dalot | 87 | Premier League | 128k coins | +4.9% | +29.3% | Momentum moderado |
+| Francisco Conceição | 84 | Serie A TIM | 50k coins | +14.9% | +12.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Rúben Neves (86)** — 50k coins, **+32.7% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 118k coins, **+87.7% em 7 dias** (+22% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Carvalho (84)** — 48k coins, **+15.9% em 7 dias** (+16.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 45k coins, **+50% em 7 dias** (+17.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 45k coins, **+13.2% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (86)** — 50k coins, **+33.3% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cláudio Braga (87)** — 30k coins, **+9.9% em 7 dias** (+9.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bernardo Silva (87)** — 108k coins, **+31.8% em 7 dias** (+34.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bernardo Silva (87)** — 90k coins, **+5.9% em 7 dias** (+8.4% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rúben Neves (87)** — 21k coins, **+31.3% em 7 dias** (+12.8% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +81,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Rúben Neves (86, Brasileirão) lidera, com +32.7% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+João Neves (88, Ligue 1 McDonald's) lidera, com +87.7% em 7 dias a 118k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
