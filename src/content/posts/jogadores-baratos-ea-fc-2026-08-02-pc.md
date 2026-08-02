@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:23:20.000Z
+pubDatetime: 2026-08-02T16:23:19.000Z
 title: "Jogadores baratos EA FC: Portugueses em 02/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 02/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (02/08/2026)?"
-    a: "Eusébio (94, Icons) aparece como melhor custo-benefício, a 13.500 coins no PC."
+    a: "Eusébio (94, Icons) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **02/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Eusébio (94) por apenas 13.500 coins.
+> 💰 **Melhor pechincha:** Eusébio (94) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Portugueses em 02/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-02-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 9.771 coins.
+- **Preço médio das 11 opções:** 8.495 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 3.100 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,27 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Eusébio | 94 | ST | Icons | 13.500 coins | 0% |
+| Eusébio | 94 | ST | Icons | 11.750 coins | -5.7% |
 | Bruno Fernandes | 93 | CAM | Premier League | 13.750 coins | 0% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.700 coins | +2.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.500 coins | 0% |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Paulo Futre | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Francisco Conceição | 89 | RM | Serie A TIM | 11.250 coins | 0% |
-| Ricardo Carvalho | 88 | CB | Liga Portugal | 11.000 coins | +4.5% |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Bruno Fernandes | 87 | CAM | Premier League | 3.100 coins | -13.5% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12.250 coins | +11.4% |
-| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.200 coins | -4.5% |
+| Bruno Fernandes | 87 | CAM | Premier League | 3.700 coins | 0% |
+| Cristiano Ronaldo | 85 | ST | ROSHN Saudi League | 4.500 coins | +17.5% |
+| João Cancelo | 84 | RB | LALIGA EA SPORTS | 1.500 coins | +15.4% |
 
 
 ## 📈 Destaques
 
-- **Eusébio (94, ST)** da Icons, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eusébio (94, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Bruno Fernandes (93, CAM)** da Premier League, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.700 coins**
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ricardo Carvalho (89, CB)** da Liga Portugal, a apenas **11.250 coins**
 
@@ -73,7 +72,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Bruno Fernandes (93, CAM) por 13.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Eusébio (94, ST) por 13.500 coins é a referência de rating deste recorte.
+- **Ataque:** Eusébio (94, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -92,7 +91,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (02/08/2026)?**  
-Eusébio (94, Icons) aparece como melhor custo-benefício, a 13.500 coins no PC.
+Eusébio (94, Icons) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
