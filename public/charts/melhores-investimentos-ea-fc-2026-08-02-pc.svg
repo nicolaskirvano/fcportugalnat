@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fábio Vieira</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nuno Tavares</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nuno Tavares</text>
-<rect x="285" y="153" width="331" height="28" rx="7" fill="#22c55e"/>
-<text x="626" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nuno Tavares</text>
-<rect x="285" y="211" width="279" height="28" rx="7" fill="#22c55e"/>
-<text x="574" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pedro Neto</text>
-<rect x="285" y="269" width="277" height="28" rx="7" fill="#22c55e"/>
-<text x="572" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
-<rect x="285" y="327" width="77" height="28" rx="7" fill="#22c55e"/>
-<text x="372" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paulo Futre</text>
+<rect x="285" y="153" width="314" height="28" rx="7" fill="#22c55e"/>
+<text x="609" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
+<rect x="285" y="211" width="265" height="28" rx="7" fill="#22c55e"/>
+<text x="560" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rúben Neves</text>
+<rect x="285" y="269" width="154" height="28" rx="7" fill="#22c55e"/>
+<text x="449" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Francisco Conceição</text>
+<rect x="285" y="327" width="140" height="28" rx="7" fill="#22c55e"/>
+<text x="435" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.4%</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youssef Chermiti</text>
-<rect x="285" y="385" width="37" height="28" rx="7" fill="#22c55e"/>
-<text x="332" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.6%</text>
+<rect x="285" y="385" width="75" height="28" rx="7" fill="#22c55e"/>
+<text x="370" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.6%</text>
 </svg>
