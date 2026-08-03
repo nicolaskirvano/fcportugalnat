@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:23:21.000Z
+pubDatetime: 2026-08-03T01:23:22.000Z
 title: "Investimentos EA FC: Portugueses em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Nuno Tavares (87, Serie A TIM) lidera, com +42.5% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nuno Tavares (91, Serie A TIM) lidera, com +86.9% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nuno Tavares (87) acumula **+42.5% em 7 dias** a 43k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Nuno Tavares (91) acumula **+86.9% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.6% em 24h** e **+13.6% em 7 dias**.
-- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.1% em 24h** e **+21.2% em 7 dias**.
+- **3 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **ROSHN Saudi League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 87 | Serie A TIM | 43k coins | +1.8% | +42.5% | Momentum moderado |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 19.000 coins | +24.7% | +27.8% | Esticada |
-| Rúben Neves | 86 | Brasileirão | 46k coins | +2.2% | +23.5% | Entrada a observar |
-| Rúben Neves | 87 | ROSHN Saudi League | 50k coins | +11.1% | +13.6% | Momentum moderado |
-| Francisco Conceição | 84 | Serie A TIM | 50k coins | +14.9% | +12.4% | Momentum moderado |
-| Youssef Chermiti | 86 | Scottish Premiership | 46k coins | +9.6% | +6.6% | Momentum moderado |
-| João Félix | 87 | ROSHN Saudi League | 56k coins | +2.5% | +5.2% | Entrada a observar |
+| Nuno Tavares | 91 | Serie A TIM | 100k coins | +25% | +86.9% | Esticada |
+| Nuno Tavares | 87 | Serie A TIM | 47k coins | +19.4% | +59.2% | Momentum moderado |
+| Ricardo Carvalho | 88 | Liga Portugal | 15.000 coins | +33.3% | +45.5% | Esticada |
+| Francisco Moura | 90 | Liga Portugal | 55k coins | +11.1% | +41.6% | Momentum moderado |
+| João Félix | 87 | ROSHN Saudi League | 52k coins | +19.8% | +26.2% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 22k coins | +12.8% | +23.9% | Momentum moderado |
+| João Cancelo | 87 | ROSHN Saudi League | 95k coins | +4.2% | +18.6% | Entrada a observar |
+| João Neves | 86 | Ligue 1 McDonald's | 43k coins | +1.7% | +16.9% | Entrada a observar |
+| Ivan Cavaleiro | 85 | Liga Portugal | 30k coins | +13.3% | +13.3% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 48k coins | +25% | +12.4% | Esticada |
+| Francisco Conceição | 84 | Serie A TIM | 50k coins | +14.9% | +11.1% | Momentum moderado |
+| Youssef Chermiti | 86 | Scottish Premiership | 50k coins | +12.4% | +7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nuno Tavares (87)** — 43k coins, **+42.5% em 7 dias** (+1.8% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (91)** — 100k coins, **+86.9% em 7 dias** (+25% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paulo Futre (88)** — 19.000 coins, **+27.8% em 7 dias** (+24.7% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (87)** — 47k coins, **+59.2% em 7 dias** (+19.4% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (86)** — 46k coins, **+23.5% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Carvalho (88)** — 15.000 coins, **+45.5% em 7 dias** (+33.3% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (87)** — 50k coins, **+13.6% em 7 dias** (+11.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francisco Moura (90)** — 55k coins, **+41.6% em 7 dias** (+11.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Francisco Conceição (84)** — 50k coins, **+12.4% em 7 dias** (+14.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Félix (87)** — 52k coins, **+26.2% em 7 dias** (+19.8% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +85,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Nuno Tavares (87, Serie A TIM) lidera, com +42.5% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nuno Tavares (91, Serie A TIM) lidera, com +86.9% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
