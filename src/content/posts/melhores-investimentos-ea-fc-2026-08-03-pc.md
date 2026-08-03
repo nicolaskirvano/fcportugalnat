@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:23:18.000Z
+pubDatetime: 2026-08-03T19:23:19.000Z
 title: "Investimentos EA FC: Portugueses em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Cláudio Braga (87, Scottish Premiership) lidera, com +72.7% em 7 dias a 20k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Bernardo Silva (87, Premier League) lidera, com +50.9% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Cláudio Braga (87) acumula **+72.7% em 7 dias** a 20k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Bernardo Silva (87) acumula **+50.9% em 7 dias** a 120k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.1% em 24h** e **+17.6% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+21.4% em 24h** e **+34.5% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cláudio Braga | 87 | Scottish Premiership | 20k coins | +26.7% | +72.7% | Esticada |
-| Luís Figo | 89 | Icons | 84k coins | +7.6% | +25.2% | Momentum moderado |
-| João Carvalho | 84 | Liga Portugal | 48k coins | +35.7% | +20.3% | Esticada |
-| João Neves | 86 | Ligue 1 McDonald's | 48k coins | +35% | +14.9% | Esticada |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 45k coins | +15.4% | +7.1% | Momentum moderado |
-| Pedro Neto | 85 | Premier League | 41k coins | +1.2% | +6.2% | Entrada a observar |
+| Bernardo Silva | 87 | Premier League | 120k coins | +33.3% | +50.9% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 110k coins | +39.2% | +37.5% | Esticada |
+| Gonçalo Inácio | 89 | Liga Portugal | 188k coins | +6.7% | +31.5% | Momentum moderado |
+| Vitinha | 90 | Ligue 1 McDonald's | 121k coins | +9.6% | +12.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Cláudio Braga (87)** — 20k coins, **+72.7% em 7 dias** (+26.7% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bernardo Silva (87)** — 120k coins, **+50.9% em 7 dias** (+33.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luís Figo (89)** — 84k coins, **+25.2% em 7 dias** (+7.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 110k coins, **+37.5% em 7 dias** (+39.2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Carvalho (84)** — 48k coins, **+20.3% em 7 dias** (+35.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gonçalo Inácio (89)** — 188k coins, **+31.5% em 7 dias** (+6.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 48k coins, **+14.9% em 7 dias** (+35% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Afonso Moreira (84)** — 45k coins, **+7.1% em 7 dias** (+15.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vitinha (90)** — 121k coins, **+12.6% em 7 dias** (+9.6% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +75,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Cláudio Braga (87, Scottish Premiership) lidera, com +72.7% em 7 dias a 20k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Bernardo Silva (87, Premier League) lidera, com +50.9% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
