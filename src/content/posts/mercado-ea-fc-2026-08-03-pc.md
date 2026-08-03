@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:23:17.000Z
+pubDatetime: 2026-08-03T22:23:17.000Z
 title: "Mercado EA FC em 03/08: Portugueses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "João Neves (88, Ligue 1 McDonald's), com +39.2% em 24h, a 110k coins no PC."
+    a: "Ricardo Horta (90, Liga Portugal), com +53.3% em 24h, a 22k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Andreia Jacinto (88), -23.3% em 24h, a 21k coins."
+    a: "Rafael Leão (87), -48.5% em 24h, a 599k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 8 cartas em alta contra 11 em queda (média 6.69%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 27 cartas em alta contra 29 em queda (média 4.53%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **03/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **8 em alta** e **11 em queda**, média de **6.69%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **03/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **27 em alta** e **29 em queda**, média de **4.53%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** João Neves (88) **+39.2%** · 🔴 **Maior baixa:** Andreia Jacinto (88) **-23.3%**
+> 🟢 **Maior alta:** Ricardo Horta (90) **+53.3%** · 🔴 **Maior baixa:** Rafael Leão (87) **-48.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Portugueses — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,19 +35,24 @@ Panorama de **03/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 62.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.1% entre as cartas que se moveram; o universo observado reúne 21 cartas.
-- **Concentração:** Liga Portugal aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 73 cartas.
+- **Concentração:** ROSHN Saudi League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| João Neves | 88 | Ligue 1 McDonald's | 110k coins | +39.2% | +37.5% |
-| Bernardo Silva | 87 | Premier League | 120k coins | +33.3% | +50.9% |
-| Nélson Oliveira | 86 | Liga Portugal | 30k coins | +19.4% | -0.8% |
-| Vitinha | 90 | Ligue 1 McDonald's | 121k coins | +9.6% | +12.6% |
-| Gonçalo Inácio | 89 | Liga Portugal | 188k coins | +6.7% | +31.5% |
+| Ricardo Horta | 90 | Liga Portugal | 22k coins | +53.3% | -32.4% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 1.30M coins | +44.4% | +30% |
+| Nuno Tavares | 87 | Serie A TIM | 60k coins | +39.2% | +6.2% |
+| Pedro Gonçalves | 86 | Liga Portugal | 55k coins | +38.4% | +20.9% |
+| João Neves | 86 | Ligue 1 McDonald's | 160k coins | +37.9% | +27% |
+| Bernardo Silva | 87 | Premier League | 120k coins | +37.9% | +50.9% |
+| Rui Costa | 88 | Serie A TIM | 42k coins | +37.1% | -19.3% |
+| João Neves | 88 | Ligue 1 McDonald's | 110k coins | +27.2% | +54.9% |
+| António Silva | 87 | Liga Portugal | 49k coins | +25% | -37.5% |
+| Cristiano Ronaldo | 86 | ROSHN Saudi League | 300k coins | +24.4% | +14% |
 
 
 ### Análise das altas
@@ -56,38 +61,42 @@ Panorama de **03/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **João Neves (88)** subiu **+39.2%** em 24h, a **110k coins** (faixa do dia: 71k–114k). Está em linha com a média de 7 dias (+7%).
+- **Ricardo Horta (90)** subiu **+53.3%** em 24h, a **22k coins** (faixa do dia: 11.250–24k). Está em linha com a média de 7 dias (-5%).
 
-- **Bernardo Silva (87)** subiu **+33.3%** em 24h, a **120k coins** (faixa do dia: 38k–120k). Está +32% acima da média de 7 dias (aquecida).
+- **Cristiano Ronaldo (89)** subiu **+44.4%** em 24h, a **1.30M coins** (faixa do dia: 720k–1.30M). Está em linha com a média de 7 dias (-3%).
 
-- **Nélson Oliveira (86)** subiu **+19.4%** em 24h, a **30k coins** (faixa do dia: 24k–35k). Está em linha com a média de 7 dias (+0%).
+- **Nuno Tavares (87)** subiu **+39.2%** em 24h, a **60k coins** (faixa do dia: 43k–65k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andreia Jacinto | 88 | Liga F | 21k coins | -23.3% | +29.5% |
-| Dolores Silva | 84 | Liga F | 37k coins | -21.3% | -20.3% |
-| Francisco Moura | 90 | Liga Portugal | 60k coins | -19.3% | +34.4% |
-| Fábio Vieira | 87 | Bundesliga | 35k coins | -18.4% | +1.3% |
-| Eusébio | 91 | Icons | 444k coins | -12.3% | +12.8% |
+| Rafael Leão | 87 | Serie A TIM | 599k coins | -48.5% | +10% |
+| Francisco Moura | 90 | Liga Portugal | 49k coins | -37.5% | +18.3% |
+| João Félix | 86 | ROSHN Saudi League | 261k coins | -33% | -33% |
+| Vitinha | 90 | Ligue 1 McDonald's | 256k coins | -21.1% | -13.3% |
+| Rúben Neves | 87 | ROSHN Saudi League | 48k coins | -17.5% | -4.1% |
+| Cristiano Ronaldo | 92 | ROSHN Saudi League | 2.35M coins | -7.7% | +12% |
+| João Cancelo | 87 | ROSHN Saudi League | 84k coins | -6.2% | +7.7% |
+| João Neves | 93 | Ligue 1 McDonald's | 189k coins | -4.5% | -28.4% |
+| Nuno Mendes | 97 | Ligue 1 McDonald's | 888k coins | -3.2% | -7.1% |
 
 
 ### Análise das baixas
 
-- **Andreia Jacinto (88)** caiu **-23.3%** em 24h, a **21k coins** (faixa do dia: 11.000–26k). Está +19% acima da média de 7 dias (aquecida).
+- **Rafael Leão (87)** caiu **-48.5%** em 24h, a **599k coins** (faixa do dia: 540k–1.27M). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Dolores Silva (84)** caiu **-21.3%** em 24h, a **37k coins** (faixa do dia: 30k–38k). Está em linha com a média de 7 dias (+2%).
+- **Francisco Moura (90)** caiu **-37.5%** em 24h, a **49k coins** (faixa do dia: 44k–80k). Está em linha com a média de 7 dias (+1%).
 
-- **Francisco Moura (90)** caiu **-19.3%** em 24h, a **60k coins** (faixa do dia: 44k–80k). Está +25% acima da média de 7 dias (aquecida).
+- **João Félix (86)** caiu **-33%** em 24h, a **261k coins** (faixa do dia: 103k–270k). Está em linha com a média de 7 dias (+5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** João Neves já avançou 39.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ricardo Horta já avançou 53.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Andreia Jacinto recuou -23.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rafael Leão recuou -48.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -99,13 +108,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-João Neves (88, Ligue 1 McDonald's), com +39.2% em 24h, a 110k coins no PC.
+Ricardo Horta (90, Liga Portugal), com +53.3% em 24h, a 22k coins no PC.
 
 **E a maior queda do dia?**
-Andreia Jacinto (88), -23.3% em 24h, a 21k coins.
+Rafael Leão (87), -48.5% em 24h, a 599k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 8 cartas em alta contra 11 em queda (média 6.69%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 27 cartas em alta contra 29 em queda (média 4.53%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:23:10.000Z
+pubDatetime: 2026-08-03T22:23:10.000Z
 title: "Jogadores baratos EA FC: Portugueses em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 9.475 coins.
-- **Posição mais frequente:** CAM, com 5 cartas.
-- **Faixa real:** 1.700 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 13 opções:** 11.450 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 2.100 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,16 +44,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Paulo Futre | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Francisco Conceição | 89 | RM | Serie A TIM | 11.250 coins | 0% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 14.000 coins | +24.4% |
+| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 12.500 coins | +3.7% |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
 | Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Andreia Jacinto | 88 | CM | Liga F | 12.750 coins | +22% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13.000 coins | -3.8% |
-| Rafael Leão | 86 | LW | Serie A Enilive | 1.700 coins | +30.8% |
-| Cristiano Ronaldo | 86 | ST | ROSHN Saudi League | 4.800 coins | -10.9% |
-| Trincão | 86 | CAM | Liga Portugal | 14.000 coins | -12.5% |
-| João Cancelo | 84 | RB | LALIGA EA SPORTS | 2.400 coins | +60% |
-| Rafa | 83 | CAM | Trendyol Süper Lig | 2.500 coins | +15% |
+| Andreia Jacinto | 88 | CM | Liga F | 12.750 coins | 0% |
+| Eduardo Quaresma | 88 | CB | Liga Portugal | 14.250 coins | -5% |
+| Rúben Neves | 87 | CDM | ROSHN Saudi League | 12.750 coins | -9.7% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13.250 coins | -1.9% |
+| Nélson Oliveira | 86 | ST | Liga Portugal | 13.750 coins | +9.4% |
+| Rafa | 83 | CAM | Trendyol Süper Lig | 2.100 coins | +5% |
 
 
 ## 📈 Destaques
@@ -66,7 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Francisco Conceição (89, RM)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **14.000 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **12.500 coins**
 
 
 ## Como distribuir a banca
