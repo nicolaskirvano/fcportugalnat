@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:23:09.000Z
+pubDatetime: 2026-08-04T01:23:09.000Z
 title: "Investimentos EA FC: Portugueses em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Luís Figo (90, Icons) lidera, com +53.4% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dolores Silva (84, Liga F) lidera, com +32.7% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Luís Figo (90) acumula **+53.4% em 7 dias** a 32k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Dolores Silva (84) acumula **+32.7% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Portugueses em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.4% em 24h** e **+32.7% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.0% em 24h** e **+14.8% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Scottish Premiership** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luís Figo | 90 | Icons | 32k coins | +13.4% | +53.4% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 47k coins | +33.3% | +49.1% | Esticada |
 | Dolores Silva | 84 | Liga F | 50k coins | +13.1% | +32.7% | Momentum moderado |
-| Nuno Tavares | 87 | Serie A TIM | 44k coins | +2.9% | +12.5% | Entrada a observar |
-| Francisco Conceição | 84 | Serie A TIM | 54k coins | +20.6% | +11.2% | Esticada |
+| Youssef Chermiti | 86 | Scottish Premiership | 55k coins | +10% | +22.2% | Momentum moderado |
+| Luís Figo | 89 | Icons | 78k coins | +1.3% | +14.8% | Entrada a observar |
+| Youssef Chermiti | 84 | Scottish Premiership | 55k coins | +29.4% | +12.2% | Esticada |
+| Nuno Tavares | 87 | Serie A TIM | 43k coins | +7.5% | +6.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Luís Figo (90)** — 32k coins, **+53.4% em 7 dias** (+13.4% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dolores Silva (84)** — 50k coins, **+32.7% em 7 dias** (+13.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 47k coins, **+49.1% em 7 dias** (+33.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youssef Chermiti (86)** — 55k coins, **+22.2% em 7 dias** (+10% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dolores Silva (84)** — 50k coins, **+32.7% em 7 dias** (+13.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luís Figo (89)** — 78k coins, **+14.8% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nuno Tavares (87)** — 44k coins, **+12.5% em 7 dias** (+2.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youssef Chermiti (84)** — 55k coins, **+12.2% em 7 dias** (+29.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Francisco Conceição (84)** — 54k coins, **+11.2% em 7 dias** (+20.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (87)** — 43k coins, **+6.9% em 7 dias** (+7.5% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Luís Figo (90, Icons) lidera, com +53.4% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dolores Silva (84, Liga F) lidera, com +32.7% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
