@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:23:10.000Z
+pubDatetime: 2026-08-04T13:23:10.000Z
 title: "Jogadores baratos EA FC: Portugueses em 04/08 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 04/08/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (04/08/2026)?"
-    a: "Ricardo Carvalho (89, Liga Portugal) aparece como melhor custo-benefício, a 11.250 coins no Console (PS)."
+    a: "Bruno Fernandes (93, Premier League) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **04/08/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ricardo Carvalho (89) por apenas 11.250 coins.
+> 💰 **Melhor pechincha:** Bruno Fernandes (93) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Portugueses em 04/08 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-08-04-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 11.250 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 11.000 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 9.119 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 1.700 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,23 +40,23 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
+| Bruno Fernandes | 93 | CAM | Premier League | 11.750 coins | 0% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.000 coins | -11.8% |
 | Paulo Futre | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Gonçalo Guedes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | +14.3% |
 | Félix Correia | 89 | RM | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Francisco Conceição | 89 | RM | Serie A TIM | 11.250 coins | 0% |
 | Cristiano Ronaldo | 88 | ST | ROSHN Saudi League | 11.000 coins | 0% |
-| Bruno Fernandes | 88 | CAM | Premier League | 11.000 coins | 0% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11.750 coins | -3.8% |
+| Bruno Fernandes | 87 | CAM | Premier League | 1.700 coins | +8.8% |
+| Rui Costa | 87 | CAM | Serie A TIM | 11.750 coins | -9.4% |
 
 
 ## 📈 Destaques
 
-- **Ricardo Carvalho (89, CB)** da Liga Portugal, a apenas **11.250 coins**
+- **Bruno Fernandes (93, CAM)** da Premier League, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Paulo Futre (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Gonçalo Guedes (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins**
 
 - **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -65,9 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## Como distribuir a banca
 
-- **Defesa:** Ricardo Carvalho (89, CB) por 11.250 coins é a referência de rating deste recorte.
-
-- **Meio:** Félix Correia (89, RM) por 11.250 coins é a referência de rating deste recorte.
+- **Meio:** Bruno Fernandes (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Paulo Futre (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
@@ -97,7 +95,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (04/08/2026)?**  
-Ricardo Carvalho (89, Liga Portugal) aparece como melhor custo-benefício, a 11.250 coins no Console (PS).
+Bruno Fernandes (93, Premier League) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
