@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T22:23:10.000Z
+pubDatetime: 2026-08-06T01:23:10.000Z
 title: "Jogadores baratos EA FC: Portugueses em 05/08 — Console (PS)"
 draft: false
 featured: false
